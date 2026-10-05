@@ -1,0 +1,454 @@
+{
+  "articles": [
+    {
+      "id": "day01-post1-food-security-1965",
+      "title": "How food shortages reshaped India's agricultural policy",
+      "description": "In the mid-1960s, domestic foodgrain production was insufficient to meet demand. India depended heavily on imported grain. Prime Minister Lal Bahadur Shastri spearheaded self-reliance and irrigation expansion.",
+      "url": "https://upscbrief.internal/day01/food-security-1965",
+      "source": "Historical Archives / UPSC GS3",
+      "published_at": "2026-10-06T08:00:00+05:30",
+      "category": "History & Economy"
+    },
+    {
+      "id": "day01-post2-kesavananda-1973",
+      "title": "Kesavananda Bharati and the Basic Structure Doctrine",
+      "description": "In 1973, a 13-judge constitutional bench ruled that Parliament cannot alter the basic structure of the Constitution. The landmark verdict protected fundamental rights and judicial independence.",
+      "url": "https://upscbrief.internal/day01/kesavananda-1973",
+      "source": "Supreme Court Records / UPSC GS2",
+      "published_at": "2026-10-06T11:00:00+05:30",
+      "category": "Polity & Constitution"
+    },
+    {
+      "id": "day01-post3-lpg-reforms-1991",
+      "title": "1991 Balance of Payments crisis and LPG reforms",
+      "description": "With foreign exchange reserves down to barely two weeks of imports, India airlifted gold reserves to London. PV Narasimha Rao and Manmohan Singh dismantled the License Raj, ushering in globalization.",
+      "url": "https://upscbrief.internal/day01/lpg-reforms-1991",
+      "source": "Ministry of Finance / UPSC GS3",
+      "published_at": "2026-10-06T14:00:00+05:30",
+      "category": "Economy"
+    },
+    {
+      "id": "day01-post4-aryabhata-1975",
+      "title": "Aryabhata launch: India's first foray into space",
+      "description": "Built in humble sheds in Peenya and transported by bullock cart, Aryabhata was launched in 1975 aboard a Soviet Kosmos-3M rocket, establishing ISRO's legendary technological capability.",
+      "url": "https://upscbrief.internal/day01/aryabhata-1975",
+      "source": "ISRO Historical Archives / UPSC GS3",
+      "published_at": "2026-10-06T17:00:00+05:30",
+      "category": "Science & Tech"
+    },
+    {
+      "id": "day01-post5-bangladesh-1971",
+      "title": "1971 Liberation War and the Shimla Agreement",
+      "description": "The Indian Armed Forces liberated Bangladesh in a lightning 13-day war resulting in the unconditional surrender of 93,000 Pakistani soldiers, redrawing the geopolitical map of South Asia.",
+      "url": "https://upscbrief.internal/day01/bangladesh-1971",
+      "source": "Defense Archives / UPSC GS2",
+      "published_at": "2026-10-06T20:00:00+05:30",
+      "category": "International Relations"
+    },
+    {
+      "id": "day02-post1-project-tiger-1973",
+      "title": "Project Tiger: Launching India's flagship conservation drive",
+      "description": "Faced with dwindling wild tiger numbers under 2,000 in 1973, Jim Corbett National Park hosted the launch of Project Tiger, creating dedicated tiger reserves that today protect over 75 percent of wild tigers.",
+      "url": "https://upscbrief.internal/day02/project-tiger-1973",
+      "source": "NTCA / UPSC GS3",
+      "published_at": "2026-10-07T08:00:00+05:30",
+      "category": "Environment & Ecology"
+    },
+    {
+      "id": "day02-post2-chipko-movement-1973",
+      "title": "Chipko Movement: When women hugged trees to save forests",
+      "description": "In Mandal village of Chamoli, Gaura Devi and rural women encircled ash trees to block commercial loggers, birthing an eco-feminist movement that transformed forest conservation policy in India.",
+      "url": "https://upscbrief.internal/day02/chipko-movement-1973",
+      "source": "Ecological History / UPSC GS1",
+      "published_at": "2026-10-07T11:00:00+05:30",
+      "category": "History & Environment"
+    },
+    {
+      "id": "day02-post3-river-water-disputes",
+      "title": "Interstate river water disputes and Article 262",
+      "description": "Water sharing across the Cauvery, Krishna, and Sutlej has tested federal cohesion for decades. Article 262 empowers Parliament to adjudicate disputes, barring the Supreme Court from direct jurisdiction.",
+      "url": "https://upscbrief.internal/day02/river-water-disputes",
+      "source": "Water Resources Ministry / UPSC GS2",
+      "published_at": "2026-10-07T14:00:00+05:30",
+      "category": "Polity & Governance"
+    },
+    {
+      "id": "day02-post4-operation-flood",
+      "title": "Operation Flood: Dr. Verghese Kurien and the White Revolution",
+      "description": "Through the Anand cooperative model and NDDB, Operation Flood turned a milk-deficient nation into the world's largest milk producer, empowering millions of rural women dairy farmers.",
+      "url": "https://upscbrief.internal/day02/operation-flood",
+      "source": "Agriculture Ministry / UPSC GS3",
+      "published_at": "2026-10-07T17:00:00+05:30",
+      "category": "Agriculture & Economy"
+    },
+    {
+      "id": "day02-post5-indus-waters-treaty",
+      "title": "Indus Waters Treaty: Surviving six decades of conflict",
+      "description": "Signed in 1960 under World Bank mediation, the pact divided the Indus river system, allocating eastern rivers to India and western rivers to Pakistan, remaining intact despite multiple wars.",
+      "url": "https://upscbrief.internal/day02/indus-waters-treaty",
+      "source": "MEA / UPSC GS2",
+      "published_at": "2026-10-07T20:00:00+05:30",
+      "category": "International Relations"
+    },
+    {
+      "id": "day03-post1-smiling-buddha-1974",
+      "title": "Pokhran-I: India's peaceful nuclear explosion",
+      "description": "On Buddha Purnima in 1974, scientists led by Raja Ramanna detonated India's first nuclear device beneath Thar Desert sands, signaling strategic deterrence under the codename Operation Smiling Buddha.",
+      "url": "https://upscbrief.internal/day03/smiling-buddha-1974",
+      "source": "BARC / UPSC GS3",
+      "published_at": "2026-10-08T08:00:00+05:30",
+      "category": "Science & Tech"
+    },
+    {
+      "id": "day03-post2-chandrayaan-3",
+      "title": "Chandrayaan-3: Conquering the lunar south pole",
+      "description": "The Vikram lander touched down softly near the Moon's rugged south pole at Shiv Shakti point, making India the fourth country to land on the Moon and the first near the south polar crater zone.",
+      "url": "https://upscbrief.internal/day03/chandrayaan-3",
+      "source": "ISRO / UPSC GS3",
+      "published_at": "2026-10-08T11:00:00+05:30",
+      "category": "Space & Sci-Tech"
+    },
+    {
+      "id": "day03-post3-homi-bhabha-vision",
+      "title": "Homi Bhabha and India's three-stage nuclear power program",
+      "description": "Capitalizing on vast domestic thorium reserves, Dr. Homi Bhabha designed a closed three-stage fuel cycle transitioning from pressurized heavy water reactors to fast breeder and advanced thorium reactors.",
+      "url": "https://upscbrief.internal/day03/homi-bhabha-vision",
+      "source": "DAE / UPSC GS3",
+      "published_at": "2026-10-08T14:00:00+05:30",
+      "category": "Science & Tech"
+    },
+    {
+      "id": "day03-post4-igmdp-missile-program",
+      "title": "Dr. APJ Abdul Kalam and the Integrated Guided Missile Program",
+      "description": "Conceived in 1983, the IGMDP yielded five indigenous missile platforms: Prithvi, Agni, Trishul, Akash, and Nag, cementing strategic defense autonomy and earning Dr. Kalam the title Missile Man of India.",
+      "url": "https://upscbrief.internal/day03/igmdp-missile-program",
+      "source": "DRDO / UPSC GS3",
+      "published_at": "2026-10-08T17:00:00+05:30",
+      "category": "Defense & Security"
+    },
+    {
+      "id": "day03-post5-operation-cactus",
+      "title": "Operation Cactus: Paratroopers thwart Maldives coup",
+      "description": "In November 1988, responding to President Gayoom's SOS, Indian paratroopers flew 2,000 km non-stop, landed under fire in Malé, and neutralized foreign mercenaries within hours, securing regional stability.",
+      "url": "https://upscbrief.internal/day03/operation-cactus",
+      "source": "Military History / UPSC GS2",
+      "published_at": "2026-10-08T20:00:00+05:30",
+      "category": "Security & IR"
+    },
+    {
+      "id": "day04-post1-emergency-1975",
+      "title": "The 1975 Emergency and the assault on democratic institutions",
+      "description": "Under Article 352, civil liberties and press freedoms were suspended for 21 months. Fundamental rights were curtailed until the 1977 elections restored constitutional democracy.",
+      "url": "https://upscbrief.internal/day04/emergency-1975",
+      "source": "Constitutional History / UPSC GS2",
+      "published_at": "2026-10-09T08:00:00+05:30",
+      "category": "Polity & Constitution"
+    },
+    {
+      "id": "day04-post2-amendment-44-1978",
+      "title": "44th Constitutional Amendment: Erecting guardrails against dictatorship",
+      "description": "Enacted in 1978, the 44th Amendment replaced internal disturbance with armed rebellion, mandated Cabinet written advice for Emergency, and ensured Articles 20 and 21 can never be suspended.",
+      "url": "https://upscbrief.internal/day04/amendment-44-1978",
+      "source": "Ministry of Law & Justice / UPSC GS2",
+      "published_at": "2026-10-09T11:00:00+05:30",
+      "category": "Polity & Governance"
+    },
+    {
+      "id": "day04-post3-sardar-patel-princely-states",
+      "title": "Sardar Vallabhbhai Patel and the integration of 565 princely states",
+      "description": "Armed with persuasion, diplomacy, and resolute firmness, Sardar Patel and VP Menon integrated hundreds of autonomous kingdoms into the Indian Union, preserving territorial integrity.",
+      "url": "https://upscbrief.internal/day04/sardar-patel-princely-states",
+      "source": "National Archives / UPSC GS1",
+      "published_at": "2026-10-09T14:00:00+05:30",
+      "category": "Modern Indian History"
+    },
+    {
+      "id": "day04-post4-demonetisation-1978",
+      "title": "The 1978 currency demonetisation of high-denomination notes",
+      "description": "The Janata Party government demonetised 1,000, 5,000, and 10,000 rupee notes via ordinance to combat illicit wealth, an early precursor to economic anti-black-money measures.",
+      "url": "https://upscbrief.internal/day04/demonetisation-1978",
+      "source": "RBI Historical Records / UPSC GS3",
+      "published_at": "2026-10-09T17:00:00+05:30",
+      "category": "Economy"
+    },
+    {
+      "id": "day04-post5-operation-vijay-goa-1961",
+      "title": "Operation Vijay 1961: Ending 451 years of Portuguese colonial rule",
+      "description": "Indian tri-service forces marched into Goa, Daman, and Diu in December 1961 after Portugal refused diplomatic negotiations, liberating the enclave and reuniting it with the motherland.",
+      "url": "https://upscbrief.internal/day04/operation-vijay-goa-1961",
+      "source": "Armed Forces Archives / UPSC GS1",
+      "published_at": "2026-10-09T20:00:00+05:30",
+      "category": "Post-Independence History"
+    },
+    {
+      "id": "day05-post1-birsa-munda-ulgulan",
+      "title": "Birsa Munda and the Great Ulgulan tribal rebellion",
+      "description": "In the Chhotanagpur plateau, Bhagwan Birsa Munda rallied Munda tribes against British land alienation and moneylenders, forcing the colonial state to pass the Chotanagpur Tenancy Act 1908.",
+      "url": "https://upscbrief.internal/day05/birsa-munda-ulgulan",
+      "source": "Tribal Affairs / UPSC GS1",
+      "published_at": "2026-10-10T08:00:00+05:30",
+      "category": "History & Tribal Heritage"
+    },
+    {
+      "id": "day05-post2-mahad-satyagraha-1927",
+      "title": "Dr. BR Ambedkar and the 1927 Mahad Satyagraha",
+      "description": "Dr. Babasaheb Ambedkar led thousands of Dalits to drink water from the Chawdar tank in Mahad, declaring equal human rights and igniting the modern civil rights battle against social untouchability.",
+      "url": "https://upscbrief.internal/day05/mahad-satyagraha-1927",
+      "source": "Social Justice / UPSC GS1",
+      "published_at": "2026-10-10T11:00:00+05:30",
+      "category": "Social Justice & History"
+    },
+    {
+      "id": "day05-post3-indigo-revolt-1859",
+      "title": "The Indigo Revolt: Bengal ryots defy British planters",
+      "description": "Exploited by fraudulent contracts, Bengal peasants united to refuse sowing indigo, supported by Dinabandhu Mitra's play Nil Darpan, forcing the colonial government to establish the Indigo Commission.",
+      "url": "https://upscbrief.internal/day05/indigo-revolt-1859",
+      "source": "Agrarian History / UPSC GS1",
+      "published_at": "2026-10-10T14:00:00+05:30",
+      "category": "Modern Indian History"
+    },
+    {
+      "id": "day05-post4-silent-valley-movement",
+      "title": "Save Silent Valley: The battle for Kerala's virgin rainforest",
+      "description": "Poets, teachers, and conservationists resisted a hydroelectric dam across Kunthipuzha river to protect endangered lion-tailed macaques, leading to the creation of Silent Valley National Park in 1984.",
+      "url": "https://upscbrief.internal/day05/silent-valley-movement",
+      "source": "Environment Ministry / UPSC GS3",
+      "published_at": "2026-10-10T17:00:00+05:30",
+      "category": "Environment & Movements"
+    },
+    {
+      "id": "day05-post5-rti-act-2005",
+      "title": "The Right to Information Act: Empowering citizen oversight",
+      "description": "Born from Mazdoor Kisan Shakti Sangathan grassroots public hearings in rural Rajasthan, the RTI Act 2005 dismantled official secrecy, empowering citizens to audit governance directly.",
+      "url": "https://upscbrief.internal/day05/rti-act-2005",
+      "source": "DoPT / UPSC GS2",
+      "published_at": "2026-10-10T20:00:00+05:30",
+      "category": "Governance & Accountability"
+    },
+    {
+      "id": "day06-post1-bank-nationalisation-1969",
+      "title": "1969 Bank Nationalisation: Redirecting credit to rural India",
+      "description": "Prime Minister Indira Gandhi nationalised 14 major private commercial banks holding 70 percent of deposits, expanding banking into unbanked villages, agriculture, and small-scale industries.",
+      "url": "https://upscbrief.internal/day06/bank-nationalisation-1969",
+      "source": "Banking Division / UPSC GS3",
+      "published_at": "2026-10-11T08:00:00+05:30",
+      "category": "Economy & Banking"
+    },
+    {
+      "id": "day06-post2-golden-quadrilateral",
+      "title": "Golden Quadrilateral: The highway network that united India",
+      "description": "Initiated under Atal Bihari Vajpayee, the 5,846-km four-lane expressway connected Delhi, Mumbai, Chennai, and Kolkata, cutting transit times and sparking national freight and industrial corridors.",
+      "url": "https://upscbrief.internal/day06/golden-quadrilateral",
+      "source": "MoRTH / UPSC GS3",
+      "published_at": "2026-10-11T11:00:00+05:30",
+      "category": "Infrastructure & Economy"
+    },
+    {
+      "id": "day06-post3-upi-digital-public-infra",
+      "title": "UPI and the India Stack: Building global digital infrastructure",
+      "description": "Unified Payments Interface developed by NPCI revolutionized fintech, processing over 14 billion monthly transactions and exporting open-protocol digital payments across four continents.",
+      "url": "https://upscbrief.internal/day06/upi-digital-public-infra",
+      "source": "NPCI / UPSC GS3",
+      "published_at": "2026-10-11T14:00:00+05:30",
+      "category": "Digital Economy & Tech"
+    },
+    {
+      "id": "day06-post4-bombay-plan-1944",
+      "title": "The 1944 Bombay Plan: Industrialists proposing state-led growth",
+      "description": "Eight prominent industrialists, including JRD Tata and GD Birla, authored a plan advocating massive state investment in heavy industry and infrastructure, laying early seeds of five-year plans.",
+      "url": "https://upscbrief.internal/day06/bombay-plan-1944",
+      "source": "Economic History / UPSC GS1",
+      "published_at": "2026-10-11T17:00:00+05:30",
+      "category": "Economic History"
+    },
+    {
+      "id": "day06-post5-chabahar-port-instc",
+      "title": "Chabahar Port: India's gateway bypassing land barriers",
+      "description": "India's strategic long-term agreement on Shahid Beheshti terminal at Chabahar unlocks sea-rail trade corridors connecting Mumbai to landlocked Afghanistan, Iran, and Central Asia via INSTC.",
+      "url": "https://upscbrief.internal/day06/chabahar-port-instc",
+      "source": "Ministry of Ports / UPSC GS2",
+      "published_at": "2026-10-11T20:00:00+05:30",
+      "category": "Geopolitics & Trade"
+    },
+    {
+      "id": "day07-post1-kargil-war-1999",
+      "title": "Operation Vijay 1999: Recapturing the heights of Kargil",
+      "description": "Braving sheer vertical cliffs and sub-zero temperatures, Indian troops and Mirage-2000 air strikes evicted entrenched Pakistani regular intruders from Tololing, Tiger Hill, and Point 4875.",
+      "url": "https://upscbrief.internal/day07/kargil-war-1999",
+      "source": "Armed Forces / UPSC GS3",
+      "published_at": "2026-10-12T08:00:00+05:30",
+      "category": "Security & Defense"
+    },
+    {
+      "id": "day07-post2-operation-meghdoot-siachen",
+      "title": "Operation Meghdoot: Securing Siachen at 20,000 feet",
+      "description": "In April 1984, the Kumaon Regiment executed pre-emptive heliborne landings on Bilafond La and Sia La, securing the 76-km Siachen Glacier and dominating Saltoro Ridge ever since.",
+      "url": "https://upscbrief.internal/day07/operation-meghdoot-siachen",
+      "source": "Army Headquarters / UPSC GS3",
+      "published_at": "2026-10-12T11:00:00+05:30",
+      "category": "Defense Strategy"
+    },
+    {
+      "id": "day07-post3-non-aligned-movement",
+      "title": "Non-Aligned Movement: India's Cold War diplomatic autonomy",
+      "description": "At Bandung and Belgrade, Jawaharlal Nehru joined Tito, Nasser, and Sukarno to forge NAM, rejecting superpower military alliances and championing decolonization and sovereign equality.",
+      "url": "https://upscbrief.internal/day07/non-aligned-movement",
+      "source": "MEA Archives / UPSC GS2",
+      "published_at": "2026-10-12T14:00:00+05:30",
+      "category": "International Relations"
+    },
+    {
+      "id": "day07-post4-project-75i-submarines",
+      "title": "Project 75I: Securing underwater deterrence in the Indian Ocean",
+      "description": "Developing six advanced conventional submarines with Air Independent Propulsion (AIP) enables weeks of silent submerged patrols, safeguarding vital sea lines of communication.",
+      "url": "https://upscbrief.internal/day07/project-75i-submarines",
+      "source": "Indian Navy / UPSC GS3",
+      "published_at": "2026-10-12T17:00:00+05:30",
+      "category": "Maritime Security"
+    },
+    {
+      "id": "day07-post5-quad-malabar-exercises",
+      "title": "The Quad and Exercise Malabar: Indo-Pacific maritime balance",
+      "description": "Comprising India, the US, Japan, and Australia, the Quadrilateral Security Dialogue coordinates high-end naval exercises, undersea domain awareness, and maritime supply chain security.",
+      "url": "https://upscbrief.internal/day07/quad-malabar-exercises",
+      "source": "Naval Staff / UPSC GS2",
+      "published_at": "2026-10-12T20:00:00+05:30",
+      "category": "Geopolitics & Defense"
+    },
+    {
+      "id": "day08-post1-smallpox-eradication-1977",
+      "title": "Target Zero: How India eradicated smallpox in 1977",
+      "description": "Deploying 150,000 health workers in relentless house-to-house surveillance and ring vaccination, India overcame centuries of smallpox scourge, officially certified disease-free in 1977.",
+      "url": "https://upscbrief.internal/day08/smallpox-eradication-1977",
+      "source": "Health Ministry & WHO / UPSC GS3",
+      "published_at": "2026-10-13T08:00:00+05:30",
+      "category": "Public Health & Science"
+    },
+    {
+      "id": "day08-post2-pulse-polio-campaign",
+      "title": "Pulse Polio Programme: Delivering two drops of hope",
+      "description": "Launched in 1995, nationwide National Immunization Days vaccinated 170 million children simultaneously, driving wild poliovirus transmission to zero and earning WHO certification in 2014.",
+      "url": "https://upscbrief.internal/day08/pulse-polio-campaign",
+      "source": "MoHFW / UPSC GS2",
+      "published_at": "2026-10-13T11:00:00+05:30",
+      "category": "Health & Governance"
+    },
+    {
+      "id": "day08-post3-pharmacy-of-the-world",
+      "title": "India's pharmaceutical powerhouse: From generic drugs to Vaccine Maitri",
+      "description": "Accounting for 20 percent of global generic medicine exports and 60 percent of global vaccine supplies, Indian manufacturers supplied life-saving doses to over 100 developing nations.",
+      "url": "https://upscbrief.internal/day08/pharmacy-of-the-world",
+      "source": "Department of Pharmaceuticals / UPSC GS3",
+      "published_at": "2026-10-13T14:00:00+05:30",
+      "category": "Science, Health & Economy"
+    },
+    {
+      "id": "day08-post4-bengal-famine-1943",
+      "title": "The 1943 Bengal Famine: Wartime policy and starvation",
+      "description": "Denial policies, war inflation, and grain export priorities under colonial administration caused an estimated 3 million deaths, shaping India's post-independence obsession with food sovereignty.",
+      "url": "https://upscbrief.internal/day08/bengal-famine-1943",
+      "source": "Colonial Records / UPSC GS1",
+      "published_at": "2026-10-13T17:00:00+05:30",
+      "category": "Modern Indian History"
+    },
+    {
+      "id": "day08-post5-puttaswamy-privacy-verdict",
+      "title": "Justice KS Puttaswamy: Declaring privacy a fundamental right",
+      "description": "A unanimous nine-judge Supreme Court bench declared the right to privacy an intrinsic part of the right to life and personal liberty under Article 21, establishing boundaries for state surveillance.",
+      "url": "https://upscbrief.internal/day08/puttaswamy-privacy-verdict",
+      "source": "Supreme Court / UPSC GS2",
+      "published_at": "2026-10-13T20:00:00+05:30",
+      "category": "Constitution & Rights"
+    },
+    {
+      "id": "day09-post1-bhadla-solar-park",
+      "title": "Bhadla Solar Park: Harvesting clean energy in the desert",
+      "description": "Spanning 14,000 acres in Rajasthan's Thar desert, Bhadla produces 2,245 MW of solar power, embodying India's pledge to install 500 GW of non-fossil electrical capacity by 2030.",
+      "url": "https://upscbrief.internal/day09/bhadla-solar-park",
+      "source": "MNRE / UPSC GS3",
+      "published_at": "2026-10-14T08:00:00+05:30",
+      "category": "Energy & Climate Change"
+    },
+    {
+      "id": "day09-post2-project-cheetah-kuno",
+      "title": "Project Cheetah: Returning the world's fastest cat to India",
+      "description": "Declared extinct in India in 1952, African cheetahs translocated from Namibia and South Africa to Kuno National Park represent the world's first intercontinental large carnivore reintroduction.",
+      "url": "https://upscbrief.internal/day09/project-cheetah-kuno",
+      "source": "NTCA / UPSC GS3",
+      "published_at": "2026-10-14T11:00:00+05:30",
+      "category": "Wildlife & Biodiversity"
+    },
+    {
+      "id": "day09-post3-gaganyaan-human-spaceflight",
+      "title": "Mission Gaganyaan: India's voyage to send astronauts to orbit",
+      "description": "ISRO's human-rated LVM3 rocket will carry Indian vyomanauts to a 400-km low Earth orbit for three days before a precision parachute splashdown in Arabian Sea waters.",
+      "url": "https://upscbrief.internal/day09/gaganyaan-human-spaceflight",
+      "source": "ISRO / UPSC GS3",
+      "published_at": "2026-10-14T14:00:00+05:30",
+      "category": "Space Exploration"
+    },
+    {
+      "id": "day09-post4-indus-valley-civilization-1921",
+      "title": "1921 Discovery of Harappa: Unearthing 5,000 years of urban planning",
+      "description": "Excavations by Daya Ram Sahni and Rakhaldas Banerjee pushed Indian antiquity back two millennia, revealing grid street planning, subterranean drainage, and vast granaries.",
+      "url": "https://upscbrief.internal/day09/indus-valley-civilization-1921",
+      "source": "ASI / UPSC GS1",
+      "published_at": "2026-10-14T17:00:00+05:30",
+      "category": "Ancient History & Culture"
+    },
+    {
+      "id": "day09-post5-doklam-standoff-2017",
+      "title": "Doklam Standoff 2017: Standing resolute at the trijunction",
+      "description": "For 73 days, Indian and Chinese soldiers maintained eyeball-to-eyeball standoff on the Doklam plateau, stopping unauthorized road construction near the vulnerable Siliguri Corridor.",
+      "url": "https://upscbrief.internal/day09/doklam-standoff-2017",
+      "source": "Strategic Studies / UPSC GS2",
+      "published_at": "2026-10-14T20:00:00+05:30",
+      "category": "Border Security & IR"
+    },
+    {
+      "id": "day10-post1-tn-seshan-election-reforms",
+      "title": "TN Seshan: The Chief Election Commissioner who curbed electoral malpractices",
+      "description": "Enforcing the Model Code of Conduct, voter ID cards, and strict campaign expenditure limits, TN Seshan ended rampant booth capturing and established the Election Commission's fierce autonomy.",
+      "url": "https://upscbrief.internal/day10/tn-seshan-election-reforms",
+      "source": "Election Commission / UPSC GS4 & GS2",
+      "published_at": "2026-10-15T08:00:00+05:30",
+      "category": "Ethics & Governance"
+    },
+    {
+      "id": "day10-post2-rani-gaidinliu-naga",
+      "title": "Rani Gaidinliu: The spiritual leader who resisted British rule",
+      "description": "Leading the Heraka movement at age 16 in Manipur and Nagaland, Gaidinliu resisted British taxation and missionary dominance, spending 14 years imprisoned until Independence in 1947.",
+      "url": "https://upscbrief.internal/day10/rani-gaidinliu-naga",
+      "source": "National Archives / UPSC GS1",
+      "published_at": "2026-10-15T11:00:00+05:30",
+      "category": "Freedom Struggle & Culture"
+    },
+    {
+      "id": "day10-post3-panchayati-raj-73rd-amendment",
+      "title": "73rd and 74th Amendments: Decentralizing power to local self-governments",
+      "description": "Passed in 1992, the amendments gave constitutional status to Panchayats and Municipalities, reserving one-third of seats for women and institutionalizing grassroots democracy.",
+      "url": "https://upscbrief.internal/day10/panchayati-raj-73rd-amendment",
+      "source": "Ministry of Panchayati Raj / UPSC GS2",
+      "published_at": "2026-10-15T14:00:00+05:30",
+      "category": "Governance & Local Bodies"
+    },
+    {
+      "id": "day10-post4-green-revolution-swaminathan",
+      "title": "Dr. MS Swaminathan and the Green Revolution in India",
+      "description": "Introducing semi-dwarf high-yielding Mexican wheat varieties in Punjab and Haryana, agricultural scientist MS Swaminathan turned India from a ship-to-mouth nation into a food-surplus grain exporter.",
+      "url": "https://upscbrief.internal/day10/green-revolution-swaminathan",
+      "source": "ICAR / UPSC GS3",
+      "published_at": "2026-10-15T17:00:00+05:30",
+      "category": "Agriculture & Sci-Tech"
+    },
+    {
+      "id": "day10-post5-pokhran-2-sanctions-1998",
+      "title": "Pokhran-II 1998: Operation Shakti and enduring global sanctions",
+      "description": "Under Atal Bihari Vajpayee, India conducted five underground nuclear tests in May 1998, weathering US economic sanctions to establish credible minimum nuclear deterrence and No First Use doctrine.",
+      "url": "https://upscbrief.internal/day10/pokhran-2-sanctions-1998",
+      "source": "Strategic Archives / UPSC GS2",
+      "published_at": "2026-10-15T20:00:00+05:30",
+      "category": "Defense, IR & Strategy"
+    }
+  ]
+}
