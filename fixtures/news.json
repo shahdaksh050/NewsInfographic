@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": "food-security-1965",
+      "title": "How food shortages reshaped India's agricultural policy",
+      "description": "In the mid-1960s, domestic foodgrain production was insufficient to meet demand. India depended heavily on imported grain. The crisis accelerated investment in irrigation, high-yield seeds and domestic agricultural capacity.",
+      "url": "https://example.org/history/food-security",
+      "source": "Demo Current Affairs API",
+      "published_at": "2026-10-05T08:00:00+05:30",
+      "category": "Economy"
+    },
+    {
+      "id": "clean-energy-policy",
+      "title": "New clean-energy programme expands grid-scale storage",
+      "description": "The programme supports battery storage connected to renewable power projects. Grid storage can reduce variability in solar and wind generation. The policy is relevant to energy security and India's climate commitments.",
+      "url": "https://example.org/environment/energy-storage",
+      "source": "Demo Current Affairs API",
+      "published_at": "2026-10-05T09:00:00+05:30",
+      "category": "Environment"
+    }
+  ]
+}

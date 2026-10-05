@@ -1,0 +1,20 @@
+{
+  "name": "upsc-social-news-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Generate source-backed, Instagram-ready UPSC current-affairs cards.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "cli": "node src/tui.js",
+    "generate": "node src/cli.js",
+    "test": "node --test",
+    "check": "node --check src/server.js && node --check src/cli.js && node --check src/tui.js"
+  },
+  "dependencies": {
+    "sharp": "0.35.5"
+  }
+}
