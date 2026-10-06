@@ -1,6 +1,12 @@
 import path from "node:path";
 import fs from "node:fs/promises";
-import { normalizeArticle } from "./domain.js";
+import {
+  deduplicateArticles,
+  extractTopicTokens,
+  normalizeArticle,
+  normalizeTopicKey,
+  topicSimilarity,
+} from "./domain.js";
 import { fetchNews } from "./sources/index.js";
 import { enrichArticle } from "./enrichment/index.js";
 import { fallbackArtSvg } from "./art/fallback.js";
@@ -27,7 +33,7 @@ async function fetchSourceImage(url, timeoutMs = 25000) {
   return null;
 }
 
-async function generateOne(article, config, options, directory) {
+async function generateOne(article, config, options, directory, runContext = {}) {
   const enriched = await enrichArticle(article, config, options);
   if (!options.includeLowRelevance && enriched.relevanceScore < config.relevanceThreshold) {
     return {
@@ -36,6 +42,25 @@ async function generateOne(article, config, options, directory) {
       status: "skipped",
       reason: `UPSC relevance ${enriched.relevanceScore} < ${config.relevanceThreshold}`,
     };
+  }
+
+  // Prevent generating multiple posts for the same topic/headline in the same run
+  if (runContext.seenHeadlines && enriched.headline) {
+    const normHeadline = normalizeTopicKey(enriched.headline);
+    const tokens = extractTopicTokens(enriched.headline);
+    const isDuplicate =
+      runContext.seenHeadlines.has(normHeadline) ||
+      (runContext.seenHeadlineTokens &&
+        runContext.seenHeadlineTokens.some((existing) => topicSimilarity(tokens, existing) >= 0.7));
+
+    if (isDuplicate) {
+      return {
+        id: article.id,
+        title: article.title,
+        status: "skipped",
+        reason: `Duplicate topic / headline "${enriched.headline}" already generated in this batch`,
+      };
+    }
   }
 
   let artBuffer = null;
@@ -114,12 +139,12 @@ async function generateOne(article, config, options, directory) {
 
 export async function runPipeline(config, options = {}) {
   const targetLimit = options.limit || config.limit;
-  const candidateLimit = options.includeLowRelevance ? targetLimit : Math.min(50, targetLimit * 4);
+  const candidateLimit = options.includeLowRelevance ? targetLimit : Math.min(500, targetLimit * 4);
   const sourceName = options.articles ? "request" : options.source || config.source;
   const articles = options.articles
     ? options.articles.map((article) => normalizeArticle(article))
     : await fetchNews(config, { ...options, limit: candidateLimit });
-  const unique = [...new Map(articles.map((article) => [article.id || stableId(article.url, article.title), article])).values()];
+  const unique = deduplicateArticles(articles);
 
   if (unique.length === 0) {
     throw new Error(`No articles retrieved from source "${sourceName}". Cannot generate output without articles and actual images.`);
@@ -138,13 +163,23 @@ export async function runPipeline(config, options = {}) {
     posts: [],
   };
 
+  const runContext = {
+    seenHeadlines: new Set(),
+    seenHeadlineTokens: [],
+  };
+
   for (const article of unique) {
     if (manifest.posts.filter((post) => post.status === "draft").length >= targetLimit) break;
     let result;
     try {
-      result = await generateOne(article, config, options, directory);
+      result = await generateOne(article, config, options, directory, runContext);
     } catch (error) {
       result = { id: article.id, title: article.title, status: "failed", error: error.message };
+    }
+    if (result.status === "draft" && result.editorial?.headline) {
+      const norm = normalizeTopicKey(result.editorial.headline);
+      runContext.seenHeadlines.add(norm);
+      runContext.seenHeadlineTokens.push(extractTopicTokens(result.editorial.headline));
     }
     manifest.posts.push(result);
     await writeJson(path.join(directory, "manifest.json"), manifest);

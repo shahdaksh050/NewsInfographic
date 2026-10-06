@@ -14,7 +14,7 @@ function parseArgs(argv) {
       result[key] = inline ?? argv[++index];
     }
   }
-  if (result.limit) result.limit = Math.min(50, Math.max(1, Number(result.limit) || 11));
+  if (result.limit) result.limit = Math.min(500, Math.max(1, Number(result.limit) || 110));
   return result;
 }
 

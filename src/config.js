@@ -18,7 +18,7 @@ export function getConfig(overrides = {}) {
     openNewsUrl:
       process.env.OPEN_NEWS_URL ||
       "https://nlko2jkif0.execute-api.ap-south-1.amazonaws.com/prod/news/latest",
-    limit: intEnv("NEWS_LIMIT", 11, 1, 50),
+    limit: intEnv("NEWS_LIMIT", 110, 1, 500),
     geminiApiKey: process.env.GEMINI_API_KEY || "",
     geminiModel: process.env.GEMINI_MODEL || "gemini-3.1-flash-lite",
     geminiImageApiKey: process.env.GEMINI_IMAGE_API_KEY || process.env.GEMINI_API_KEY || "",

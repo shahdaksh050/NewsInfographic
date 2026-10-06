@@ -40,7 +40,7 @@ The menu can generate live or fixture posts, review drafts, list previous
 runs, display provider status, and start the HTTP API.`);
 }
 
-async function askInteger(rl, prompt, fallback, min = 1, max = 50) {
+async function askInteger(rl, prompt, fallback, min = 1, max = 500) {
   const answer = (await rl.question(`${prompt} [${fallback}]: `)).trim();
   if (!answer) return fallback;
   const value = Number.parseInt(answer, 10);

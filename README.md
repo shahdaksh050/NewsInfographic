@@ -59,10 +59,10 @@ npm.cmd run generate -- --source fixture --limit 2 --no-ai --include-low-relevan
 
 Each run is written to `output/<run-id>/` with a PNG for every article and a `manifest.json` file.
 
-Fetch current India-category news from the open-source placeholder and generate up to 11 UPSC-relevant posts:
+Fetch current India-category news from the open-source placeholder and generate up to 110 UPSC-relevant posts:
 
 ```powershell
-npm.cmd run generate -- --source opennews --limit 11
+npm.cmd run generate -- --source opennews --limit 110
 ```
 
 The placeholder is the public API from the open-source [RapidScoop news API system](https://github.com/Gearupstudios/news-api-system). Replace `OPEN_NEWS_URL` when your app endpoint is ready. Use `--source pib` for official PIB RSS releases; the PIB feed can occasionally return an empty channel.
@@ -137,7 +137,7 @@ GET /health
 ### Preview normalized source stories
 
 ```http
-GET /api/news?source=pib&limit=11
+GET /api/news?source=pib&limit=110
 ```
 
 ### Generate from your app payload

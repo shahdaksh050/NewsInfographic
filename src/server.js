@@ -64,7 +64,7 @@ export function createServer() {
         });
       }
       if (req.method === "GET" && url.pathname === "/api/news") {
-        const limit = Math.min(50, Math.max(1, Number(url.searchParams.get("limit")) || config.limit));
+        const limit = Math.min(500, Math.max(1, Number(url.searchParams.get("limit")) || config.limit));
         const source = url.searchParams.get("source") || config.source;
         return json(res, 200, { articles: await fetchNews(config, { limit, source }) });
       }
@@ -74,7 +74,7 @@ export function createServer() {
           articles: body.articles,
           source: body.source,
           url: body.sourceUrl,
-          limit: Math.min(50, Math.max(1, Number(body.limit) || config.limit)),
+          limit: Math.min(500, Math.max(1, Number(body.limit) || config.limit)),
           useAi: body.useAi !== false,
           includeLowRelevance: Boolean(body.includeLowRelevance),
         });

@@ -175,33 +175,15 @@ export function buildOverlaySvg(article, enriched, config, { artMethod = "ai" } 
       ${renderedElements.join("\n      ")}
     </g>
 
-    <!-- Bottom UI Elements (Instagram Carousel Dots Pill & Heart Icon) -->
-    <!-- Carousel Dots Indicator (Centered) -->
-    <g transform="translate(${WIDTH / 2 - 80}, 1282)" filter="url(#icon-shadow)">
-      <rect x="0" y="0" width="160" height="34" rx="17" fill="#000000" fill-opacity="0.68"/>
-      <circle cx="28" cy="17" r="4.5" fill="#ffffff" fill-opacity="0.45"/>
-      <circle cx="48" cy="17" r="5" fill="#ffffff"/>
-      <circle cx="68" cy="17" r="4.5" fill="#ffffff" fill-opacity="0.45"/>
-      <circle cx="88" cy="17" r="4.5" fill="#ffffff" fill-opacity="0.45"/>
-      <circle cx="108" cy="17" r="4.5" fill="#ffffff" fill-opacity="0.45"/>
-      <circle cx="128" cy="17" r="4.5" fill="#ffffff" fill-opacity="0.45"/>
-      <circle cx="144" cy="17" r="3.5" fill="#ffffff" fill-opacity="0.35"/>
-    </g>
-
-    <!-- Instagram Heart Outline Icon (Bottom Right) -->
-    <g transform="translate(${WIDTH - 82}, 1282)" filter="url(#icon-shadow)">
-      <path d="M18 5 C13.5 -0.5 5.5 -0.5 1.5 5 C-3.5 12.5 4 21 18 31 C32 21 39.5 12.5 34.5 5 C30.5 -0.5 22.5 -0.5 18 5 Z" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-    </g>
-
     <!-- Sleek Floating Source & Syllabus Metadata (Bottom Left) -->
     <g transform="translate(38, 1276)" filter="url(#icon-shadow)">
-      <rect x="0" y="0" width="375" height="42" rx="8" fill="#14110f" fill-opacity="0.75"/>
+      <rect x="0" y="0" width="${Math.max(340, Math.min(600, Math.max((brandTitle.length + categoryTitle.length) * 8.5, (article.sourceName.length + 35) * 7) + 28))}" height="42" rx="8" fill="#14110f" fill-opacity="0.75"/>
       <text x="14" y="17" font-family="Arial, sans-serif" font-size="11" font-weight="900" letter-spacing="1" fill="#f4dfb9">${brandTitle}${categoryTitle}</text>
       <text x="14" y="32" font-family="Arial, sans-serif" font-size="10.5" font-weight="600" fill="#d1b98e">SOURCE: ${escapeXml(article.sourceName.toUpperCase())} · ${escapeXml(dateLabel(article.publishedAt))}${papersLabel}</text>
     </g>
 
-    <!-- Subtle AI Disclosure Tag -->
-    <text x="${WIDTH - 96}" y="1304" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff" fill-opacity="0.75" filter="url(#icon-shadow)">${disclosure}</text>
+    <!-- Subtle AI Disclosure Tag (Bottom Right) -->
+    <text x="${WIDTH - 38}" y="1302" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff" fill-opacity="0.75" filter="url(#icon-shadow)">${disclosure}</text>
   </svg>`);
 }
 

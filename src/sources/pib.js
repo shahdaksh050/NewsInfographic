@@ -26,7 +26,7 @@ export function parsePibRss(xml) {
   );
 }
 
-export async function fetchPibNews({ limit = 11, timeoutMs = 30000 } = {}) {
+export async function fetchPibNews({ limit = 110, timeoutMs = 30000 } = {}) {
   const candidateUrls = [
     PIB_RSS_URL,
     PIB_BACKUP_RSS_URL,

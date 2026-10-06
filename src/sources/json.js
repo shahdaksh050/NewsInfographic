@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import { articleListFromPayload, normalizeArticle } from "../domain.js";
 import { fetchWithTimeout } from "../utils.js";
 
-export async function fetchJsonNews({ url, file, limit = 11, timeoutMs = 30000 } = {}) {
+export async function fetchJsonNews({ url, file, limit = 110, timeoutMs = 30000 } = {}) {
   let payload;
   if (file) payload = JSON.parse(await fs.readFile(file, "utf8"));
   else if (url) payload = await (await fetchWithTimeout(url, {}, timeoutMs)).json();
