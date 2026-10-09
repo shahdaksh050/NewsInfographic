@@ -1,1354 +1,1354 @@
 {
   "articles": [
     {
-      "id": "day01-post1-food-security-1965",
-      "title": "How food shortages reshaped India's agricultural policy",
-      "description": "In the mid-1960s, domestic foodgrain production was insufficient to meet demand. India depended heavily on imported grain. Prime Minister Lal Bahadur Shastri spearheaded self-reliance and irrigation expansion.",
-      "url": "https://upscbrief.internal/day01/food-security-1965",
-      "source": "Historical Archives / UPSC GS3",
+      "id": "day01-post1-wayanad-landslides-2024-debris-flows",
+      "title": "Wayanad Landslides 2024: Debris Flows, Western Ghats Ecology, and Gadgil Committee",
+      "description": "Triggered by excessive rainfall exceeding 300mm in 24 hours, catastrophic debris flows struck Chooralmala and Mundakkai in Wayanad, spotlighting ecologically sensitive area (ESA) zoning in the Western Ghats.",
+      "url": "https://upscbrief.internal/day01/post1",
+      "source": "Geological Survey of India / NDMA / GS1",
       "published_at": "2026-10-06T08:00:00+05:30",
-      "category": "History & Economy"
+      "category": "Geomorphology & Disaster"
     },
     {
-      "id": "day01-post2-kesavananda-1973",
-      "title": "Kesavananda Bharati and the Basic Structure Doctrine",
-      "description": "In 1973, a 13-judge constitutional bench ruled that Parliament cannot alter the basic structure of the Constitution. The landmark verdict protected fundamental rights and judicial independence.",
-      "url": "https://upscbrief.internal/day01/kesavananda-1973",
-      "source": "Supreme Court Records / UPSC GS2",
+      "id": "day01-post2-bharatiya-nyaya-sanhita-bns-2023",
+      "title": "Bharatiya Nyaya Sanhita (BNS) 2023 Enacted: Overhauling Colonial Criminal Jurisprudence",
+      "description": "Replacing the 1860 IPC on July 1, 2024, BNS introduces community service as a penal measure, formalizes terrorism definitions, updates sedition under treason provisions, and expands electronic evidence admissibility.",
+      "url": "https://upscbrief.internal/day01/post2",
+      "source": "Ministry of Home Affairs / Official Gazette / GS2",
       "published_at": "2026-10-06T11:00:00+05:30",
-      "category": "Polity & Constitution"
+      "category": "Criminal Law Reform"
     },
     {
-      "id": "day01-post3-lpg-reforms-1991",
-      "title": "1991 Balance of Payments crisis and LPG reforms",
-      "description": "With foreign exchange reserves down to barely two weeks of imports, India airlifted gold reserves to London. PV Narasimha Rao and Manmohan Singh dismantled the License Raj, ushering in globalization.",
-      "url": "https://upscbrief.internal/day01/lpg-reforms-1991",
-      "source": "Ministry of Finance / UPSC GS3",
+      "id": "day01-post3-rbi-unified-lending-interface-uli",
+      "title": "RBI Unified Lending Interface (ULI): Frictionless Credit Flow for MSMEs and Farmers",
+      "description": "Building on UPI's public infrastructure success, the Reserve Bank of India launched ULI to connect consent-based digital data—land records, milk pours, satellite crop data—to financial lenders without paperwork.",
+      "url": "https://upscbrief.internal/day01/post3",
+      "source": "Reserve Bank of India / PIB / GS3",
       "published_at": "2026-10-06T14:00:00+05:30",
-      "category": "Economy"
+      "category": "Digital FinTech"
     },
     {
-      "id": "day01-post4-aryabhata-1975",
-      "title": "Aryabhata launch: India's first foray into space",
-      "description": "Built in humble sheds in Peenya and transported by bullock cart, Aryabhata was launched in 1975 aboard a Soviet Kosmos-3M rocket, establishing ISRO's legendary technological capability.",
-      "url": "https://upscbrief.internal/day01/aryabhata-1975",
-      "source": "ISRO Historical Archives / UPSC GS3",
+      "id": "day01-post4-agni5-mission-divyastra-indigenous-mirv",
+      "title": "Agni-5 Mission Divyastra: Indigenous MIRV Warhead Technology Flight-Tested",
+      "description": "DRDO successfully flight-tested the Agni-5 ballistic missile equipped with Multiple Independently Targetable Re-entry Vehicle (MIRV) technology, ensuring multiple warheads strike distinct strategic targets thousands of kilometers apart.",
+      "url": "https://upscbrief.internal/day01/post4",
+      "source": "DRDO / Ministry of Defence / GS3",
       "published_at": "2026-10-06T17:00:00+05:30",
-      "category": "Science & Tech"
+      "category": "Defense & Missile Tech"
     },
     {
-      "id": "day01-post5-bangladesh-1971",
-      "title": "1971 Liberation War and the Shimla Agreement",
-      "description": "The Indian Armed Forces liberated Bangladesh in a lightning 13-day war resulting in the unconditional surrender of 93,000 Pakistani soldiers, redrawing the geopolitical map of South Asia.",
-      "url": "https://upscbrief.internal/day01/bangladesh-1971",
-      "source": "Defense Archives / UPSC GS2",
+      "id": "day01-post5-indiachina-lac-disengagement-2024-border",
+      "title": "India-China LAC Disengagement 2024: Border Patrolling Agreement at Depsang and Demchok",
+      "description": "After four years of military standoff along the LAC in Eastern Ladakh, India and China reached a historic agreement to restore patrolling rights to pre-2020 status at Depsang Plains and Demchok.",
+      "url": "https://upscbrief.internal/day01/post5",
+      "source": "Ministry of External Affairs / GS2",
       "published_at": "2026-10-06T20:00:00+05:30",
-      "category": "International Relations"
+      "category": "Border Diplomacy"
     },
     {
-      "id": "day02-post1-project-tiger-1973",
-      "title": "Project Tiger: Launching India's flagship conservation drive",
-      "description": "Faced with dwindling wild tiger numbers under 2,000 in 1973, Jim Corbett National Park hosted the launch of Project Tiger, creating dedicated tiger reserves that today protect over 75 percent of wild tigers.",
-      "url": "https://upscbrief.internal/day02/project-tiger-1973",
-      "source": "NTCA / UPSC GS3",
+      "id": "day02-post1-urban-heat-island-effect-imd",
+      "title": "Urban Heat Island Effect & IMD Heatwave Protocol: Summer 2024 Temperature Extremes",
+      "description": "Analyzing record-breaking temperatures in Delhi and northern plains exceeding 49°C, driven by concrete thermal mass, vanishing green cover, and wet-bulb temperatures threatening human survivability.",
+      "url": "https://upscbrief.internal/day02/post1",
+      "source": "India Meteorological Department / MoES / GS1",
       "published_at": "2026-10-07T08:00:00+05:30",
-      "category": "Environment & Ecology"
+      "category": "Climate & Urban Geography"
     },
     {
-      "id": "day02-post2-chipko-movement-1973",
-      "title": "Chipko Movement: When women hugged trees to save forests",
-      "description": "In Mandal village of Chamoli, Gaura Devi and rural women encircled ash trees to block commercial loggers, birthing an eco-feminist movement that transformed forest conservation policy in India.",
-      "url": "https://upscbrief.internal/day02/chipko-movement-1973",
-      "source": "Ecological History / UPSC GS1",
+      "id": "day02-post2-supreme-court-subclassification-of-scheduled",
+      "title": "Supreme Court Sub-Classification of Scheduled Castes: Landmark 7-Judge Verdict 2024",
+      "description": "In State of Punjab v Davinder Singh, CJI-led 7-judge Constitution Bench ruled 6:1 that states have constitutional power under Article 15(4) and 16(4) to sub-classify SC/STs to prioritize the most backward among them.",
+      "url": "https://upscbrief.internal/day02/post2",
+      "source": "Supreme Court of India / GS2",
       "published_at": "2026-10-07T11:00:00+05:30",
-      "category": "History & Environment"
+      "category": "Social Justice & Constitution"
     },
     {
-      "id": "day02-post3-river-water-disputes",
-      "title": "Interstate river water disputes and Article 262",
-      "description": "Water sharing across the Cauvery, Krishna, and Sutlej has tested federal cohesion for decades. Article 262 empowers Parliament to adjudicate disputes, barring the Supreme Court from direct jurisdiction.",
-      "url": "https://upscbrief.internal/day02/river-water-disputes",
-      "source": "Water Resources Ministry / UPSC GS2",
+      "id": "day02-post3-pm-surya-ghar-muft-bijli",
+      "title": "PM Surya Ghar Muft Bijli Yojana: Rooftop Solar Push for 1 Crore Households",
+      "description": "With a ₹75,000 crore outlay, the scheme provides up to ₹78,000 in direct subsidies for 3kW residential rooftop installations, driving distributed decentralized renewable generation and saving ₹75,000 crore annually in DISCOM power costs.",
+      "url": "https://upscbrief.internal/day02/post3",
+      "source": "Ministry of New and Renewable Energy / PIB / GS3",
       "published_at": "2026-10-07T14:00:00+05:30",
-      "category": "Polity & Governance"
+      "category": "Renewable Energy & Solar"
     },
     {
-      "id": "day02-post4-operation-flood",
-      "title": "Operation Flood: Dr. Verghese Kurien and the White Revolution",
-      "description": "Through the Anand cooperative model and NDDB, Operation Flood turned a milk-deficient nation into the world's largest milk producer, empowering millions of rural women dairy farmers.",
-      "url": "https://upscbrief.internal/day02/operation-flood",
-      "source": "Agriculture Ministry / UPSC GS3",
+      "id": "day02-post4-isro-spadex-space-docking-experiment",
+      "title": "ISRO SpaDeX Space Docking Experiment: Foundation for Bharatiya Antariksh Station 2035",
+      "description": "Testing autonomous docking of two spacecraft (Chaser and Target) in Low Earth Orbit, SpaDeX masters critical rendezvous tech indispensable for lunar sample returns and assembling India's modular space station by 2035.",
+      "url": "https://upscbrief.internal/day02/post4",
+      "source": "ISRO / Department of Space / GS3",
       "published_at": "2026-10-07T17:00:00+05:30",
-      "category": "Agriculture & Economy"
+      "category": "Space & Autonomous Docking"
     },
     {
-      "id": "day02-post5-indus-waters-treaty",
-      "title": "Indus Waters Treaty: Surviving six decades of conflict",
-      "description": "Signed in 1960 under World Bank mediation, the pact divided the Indus river system, allocating eastern rivers to India and western rivers to Pakistan, remaining intact despite multiple wars.",
-      "url": "https://upscbrief.internal/day02/indus-waters-treaty",
-      "source": "MEA / UPSC GS2",
+      "id": "day02-post5-chabahar-port-10year-longterm-contract",
+      "title": "Chabahar Port 10-Year Long-Term Contract: India-Iran INSTC Strategic Gateway",
+      "description": "India Ports Global Limited (IPGL) and Iran's Ports and Maritime Organization signed a decade-long pact for Shahid Beheshti port operations, unlocking landlocked Afghanistan and Central Asian trade routes bypassing Pakistan.",
+      "url": "https://upscbrief.internal/day02/post5",
+      "source": "Ministry of External Affairs / IPGL / GS2",
       "published_at": "2026-10-07T20:00:00+05:30",
-      "category": "International Relations"
+      "category": "Strategic Maritime Diplomacy"
     },
     {
-      "id": "day03-post1-smiling-buddha-1974",
-      "title": "Pokhran-I: India's peaceful nuclear explosion",
-      "description": "On Buddha Purnima in 1974, scientists led by Raja Ramanna detonated India's first nuclear device beneath Thar Desert sands, signaling strategic deterrence under the codename Operation Smiling Buddha.",
-      "url": "https://upscbrief.internal/day03/smiling-buddha-1974",
-      "source": "BARC / UPSC GS3",
+      "id": "day03-post1-sengol-and-new-parliament-architecture",
+      "title": "Sengol and New Parliament Architecture: Constitutional Continuity and Democratic Symbolism",
+      "description": "The installation of the historic Sengol sceptre beside the Lok Sabha Speaker's chair blends ancient Chola administrative traditions with modern democratic constitutionalism in the Central Vista complex.",
+      "url": "https://upscbrief.internal/day03/post1",
+      "source": "Ministry of Culture / Lok Sabha Secretariat / GS1",
       "published_at": "2026-10-08T08:00:00+05:30",
-      "category": "Science & Tech"
+      "category": "Heritage & Architecture"
     },
     {
-      "id": "day03-post2-chandrayaan-3",
-      "title": "Chandrayaan-3: Conquering the lunar south pole",
-      "description": "The Vikram lander touched down softly near the Moon's rugged south pole at Shiv Shakti point, making India the fourth country to land on the Moon and the first near the south polar crater zone.",
-      "url": "https://upscbrief.internal/day03/chandrayaan-3",
-      "source": "ISRO / UPSC GS3",
+      "id": "day03-post2-supreme-court-on-article-200",
+      "title": "Supreme Court on Article 200: Governor Cannot Sit on State Bills Indefinitely",
+      "description": "Bench headed by CJI ruled that a Governor cannot utilize pocket veto to thwart elected legislatures; upon withholding assent, the Governor must return the bill 'as soon as possible' under the first proviso of Article 200.",
+      "url": "https://upscbrief.internal/day03/post2",
+      "source": "Supreme Court Records / GS2",
       "published_at": "2026-10-08T11:00:00+05:30",
-      "category": "Space & Sci-Tech"
+      "category": "Federalism & Governor Powers"
     },
     {
-      "id": "day03-post3-homi-bhabha-vision",
-      "title": "Homi Bhabha and India's three-stage nuclear power program",
-      "description": "Capitalizing on vast domestic thorium reserves, Dr. Homi Bhabha designed a closed three-stage fuel cycle transitioning from pressurized heavy water reactors to fast breeder and advanced thorium reactors.",
-      "url": "https://upscbrief.internal/day03/homi-bhabha-vision",
-      "source": "DAE / UPSC GS3",
+      "id": "day03-post3-bioe3-policy-approved-fostering-highperformance",
+      "title": "BioE3 Policy Approved: Fostering High-Performance Biomanufacturing Ecosystem",
+      "description": "Biotechnology for Economy, Environment and Employment (BioE3) policy drives green biomanufacturing hubs for bio-plastics, smart proteins, carbon capture bio-enzymes, and biotherapeutics to drive a $300B bioeconomy by 2030.",
+      "url": "https://upscbrief.internal/day03/post3",
+      "source": "Department of Biotechnology / PIB / GS3",
       "published_at": "2026-10-08T14:00:00+05:30",
-      "category": "Science & Tech"
+      "category": "Industrial Biotech Policy"
     },
     {
-      "id": "day03-post4-igmdp-missile-program",
-      "title": "Dr. APJ Abdul Kalam and the Integrated Guided Missile Program",
-      "description": "Conceived in 1983, the IGMDP yielded five indigenous missile platforms: Prithvi, Agni, Trishul, Akash, and Nag, cementing strategic defense autonomy and earning Dr. Kalam the title Missile Man of India.",
-      "url": "https://upscbrief.internal/day03/igmdp-missile-program",
-      "source": "DRDO / UPSC GS3",
+      "id": "day03-post4-supreme-court-recognizes-right-to",
+      "title": "Supreme Court Recognizes Right to Freedom from Adverse Climate Impacts (GIB Case 2024)",
+      "description": "In MK Ranjitsinh v Union of India, the Supreme Court ruled that Articles 14 and 21 encompass a distinct fundamental right against adverse climate change impacts, while balancing solar power transmission lines with Great Indian Bustard habitats.",
+      "url": "https://upscbrief.internal/day03/post4",
+      "source": "Supreme Court of India / MoEFCC / GS3",
       "published_at": "2026-10-08T17:00:00+05:30",
-      "category": "Defense & Security"
+      "category": "Climate Jurisprudence"
     },
     {
-      "id": "day03-post5-operation-cactus",
-      "title": "Operation Cactus: Paratroopers thwart Maldives coup",
-      "description": "In November 1988, responding to President Gayoom's SOS, Indian paratroopers flew 2,000 km non-stop, landed under fire in Malé, and neutralized foreign mercenaries within hours, securing regional stability.",
-      "url": "https://upscbrief.internal/day03/operation-cactus",
-      "source": "Military History / UPSC GS2",
+      "id": "day03-post5-indian-navy-antipiracy-operations-rescue",
+      "title": "Indian Navy Anti-Piracy Operations: Rescue of MV Ruen and 35 Pirates Apprehended",
+      "description": "In a 40-hour operation 1,400 nautical miles from India's coast, INS Kolkata and Marine Commandos (MARCOS) intercepted hijacked merchant ship MV Ruen, freed 17 crew members, and prosecuted 35 pirates under the Maritime Anti-Piracy Act 2022.",
+      "url": "https://upscbrief.internal/day03/post5",
+      "source": "Indian Navy / Ministry of Defence / GS3",
       "published_at": "2026-10-08T20:00:00+05:30",
-      "category": "Security & IR"
-    },
-    {
-      "id": "day04-post1-emergency-1975",
-      "title": "The 1975 Emergency and the assault on democratic institutions",
-      "description": "Under Article 352, civil liberties and press freedoms were suspended for 21 months. Fundamental rights were curtailed until the 1977 elections restored constitutional democracy.",
-      "url": "https://upscbrief.internal/day04/emergency-1975",
-      "source": "Constitutional History / UPSC GS2",
-      "published_at": "2026-10-09T08:00:00+05:30",
-      "category": "Polity & Constitution"
-    },
-    {
-      "id": "day04-post2-amendment-44-1978",
-      "title": "44th Constitutional Amendment: Erecting guardrails against dictatorship",
-      "description": "Enacted in 1978, the 44th Amendment replaced internal disturbance with armed rebellion, mandated Cabinet written advice for Emergency, and ensured Articles 20 and 21 can never be suspended.",
-      "url": "https://upscbrief.internal/day04/amendment-44-1978",
-      "source": "Ministry of Law & Justice / UPSC GS2",
-      "published_at": "2026-10-09T11:00:00+05:30",
-      "category": "Polity & Governance"
-    },
-    {
-      "id": "day04-post3-sardar-patel-princely-states",
-      "title": "Sardar Vallabhbhai Patel and the integration of 565 princely states",
-      "description": "Armed with persuasion, diplomacy, and resolute firmness, Sardar Patel and VP Menon integrated hundreds of autonomous kingdoms into the Indian Union, preserving territorial integrity.",
-      "url": "https://upscbrief.internal/day04/sardar-patel-princely-states",
-      "source": "National Archives / UPSC GS1",
-      "published_at": "2026-10-09T14:00:00+05:30",
-      "category": "Modern Indian History"
-    },
-    {
-      "id": "day04-post4-demonetisation-1978",
-      "title": "The 1978 currency demonetisation of high-denomination notes",
-      "description": "The Janata Party government demonetised 1,000, 5,000, and 10,000 rupee notes via ordinance to combat illicit wealth, an early precursor to economic anti-black-money measures.",
-      "url": "https://upscbrief.internal/day04/demonetisation-1978",
-      "source": "RBI Historical Records / UPSC GS3",
-      "published_at": "2026-10-09T17:00:00+05:30",
-      "category": "Economy"
-    },
-    {
-      "id": "day04-post5-operation-vijay-goa-1961",
-      "title": "Operation Vijay 1961: Ending 451 years of Portuguese colonial rule",
-      "description": "Indian tri-service forces marched into Goa, Daman, and Diu in December 1961 after Portugal refused diplomatic negotiations, liberating the enclave and reuniting it with the motherland.",
-      "url": "https://upscbrief.internal/day04/operation-vijay-goa-1961",
-      "source": "Armed Forces Archives / UPSC GS1",
-      "published_at": "2026-10-09T20:00:00+05:30",
-      "category": "Post-Independence History"
-    },
-    {
-      "id": "day05-post1-birsa-munda-ulgulan",
-      "title": "Birsa Munda and the Great Ulgulan tribal rebellion",
-      "description": "In the Chhotanagpur plateau, Bhagwan Birsa Munda rallied Munda tribes against British land alienation and moneylenders, forcing the colonial state to pass the Chotanagpur Tenancy Act 1908.",
-      "url": "https://upscbrief.internal/day05/birsa-munda-ulgulan",
-      "source": "Tribal Affairs / UPSC GS1",
-      "published_at": "2026-10-10T08:00:00+05:30",
-      "category": "History & Tribal Heritage"
-    },
-    {
-      "id": "day05-post2-mahad-satyagraha-1927",
-      "title": "Dr. BR Ambedkar and the 1927 Mahad Satyagraha",
-      "description": "Dr. Babasaheb Ambedkar led thousands of Dalits to drink water from the Chawdar tank in Mahad, declaring equal human rights and igniting the modern civil rights battle against social untouchability.",
-      "url": "https://upscbrief.internal/day05/mahad-satyagraha-1927",
-      "source": "Social Justice / UPSC GS1",
-      "published_at": "2026-10-10T11:00:00+05:30",
-      "category": "Social Justice & History"
-    },
-    {
-      "id": "day05-post3-indigo-revolt-1859",
-      "title": "The Indigo Revolt: Bengal ryots defy British planters",
-      "description": "Exploited by fraudulent contracts, Bengal peasants united to refuse sowing indigo, supported by Dinabandhu Mitra's play Nil Darpan, forcing the colonial government to establish the Indigo Commission.",
-      "url": "https://upscbrief.internal/day05/indigo-revolt-1859",
-      "source": "Agrarian History / UPSC GS1",
-      "published_at": "2026-10-10T14:00:00+05:30",
-      "category": "Modern Indian History"
-    },
-    {
-      "id": "day05-post4-silent-valley-movement",
-      "title": "Save Silent Valley: The battle for Kerala's virgin rainforest",
-      "description": "Poets, teachers, and conservationists resisted a hydroelectric dam across Kunthipuzha river to protect endangered lion-tailed macaques, leading to the creation of Silent Valley National Park in 1984.",
-      "url": "https://upscbrief.internal/day05/silent-valley-movement",
-      "source": "Environment Ministry / UPSC GS3",
-      "published_at": "2026-10-10T17:00:00+05:30",
-      "category": "Environment & Movements"
-    },
-    {
-      "id": "day05-post5-rti-act-2005",
-      "title": "The Right to Information Act: Empowering citizen oversight",
-      "description": "Born from Mazdoor Kisan Shakti Sangathan grassroots public hearings in rural Rajasthan, the RTI Act 2005 dismantled official secrecy, empowering citizens to audit governance directly.",
-      "url": "https://upscbrief.internal/day05/rti-act-2005",
-      "source": "DoPT / UPSC GS2",
-      "published_at": "2026-10-10T20:00:00+05:30",
-      "category": "Governance & Accountability"
-    },
-    {
-      "id": "day06-post1-bank-nationalisation-1969",
-      "title": "1969 Bank Nationalisation: Redirecting credit to rural India",
-      "description": "Prime Minister Indira Gandhi nationalised 14 major private commercial banks holding 70 percent of deposits, expanding banking into unbanked villages, agriculture, and small-scale industries.",
-      "url": "https://upscbrief.internal/day06/bank-nationalisation-1969",
-      "source": "Banking Division / UPSC GS3",
-      "published_at": "2026-10-11T08:00:00+05:30",
-      "category": "Economy & Banking"
-    },
-    {
-      "id": "day06-post2-golden-quadrilateral",
-      "title": "Golden Quadrilateral: The highway network that united India",
-      "description": "Initiated under Atal Bihari Vajpayee, the 5,846-km four-lane expressway connected Delhi, Mumbai, Chennai, and Kolkata, cutting transit times and sparking national freight and industrial corridors.",
-      "url": "https://upscbrief.internal/day06/golden-quadrilateral",
-      "source": "MoRTH / UPSC GS3",
-      "published_at": "2026-10-11T11:00:00+05:30",
-      "category": "Infrastructure & Economy"
-    },
-    {
-      "id": "day06-post3-upi-digital-public-infra",
-      "title": "UPI and the India Stack: Building global digital infrastructure",
-      "description": "Unified Payments Interface developed by NPCI revolutionized fintech, processing over 14 billion monthly transactions and exporting open-protocol digital payments across four continents.",
-      "url": "https://upscbrief.internal/day06/upi-digital-public-infra",
-      "source": "NPCI / UPSC GS3",
-      "published_at": "2026-10-11T14:00:00+05:30",
-      "category": "Digital Economy & Tech"
-    },
-    {
-      "id": "day06-post4-bombay-plan-1944",
-      "title": "The 1944 Bombay Plan: Industrialists proposing state-led growth",
-      "description": "Eight prominent industrialists, including JRD Tata and GD Birla, authored a plan advocating massive state investment in heavy industry and infrastructure, laying early seeds of five-year plans.",
-      "url": "https://upscbrief.internal/day06/bombay-plan-1944",
-      "source": "Economic History / UPSC GS1",
-      "published_at": "2026-10-11T17:00:00+05:30",
-      "category": "Economic History"
-    },
-    {
-      "id": "day06-post5-chabahar-port-instc",
-      "title": "Chabahar Port: India's gateway bypassing land barriers",
-      "description": "India's strategic long-term agreement on Shahid Beheshti terminal at Chabahar unlocks sea-rail trade corridors connecting Mumbai to landlocked Afghanistan, Iran, and Central Asia via INSTC.",
-      "url": "https://upscbrief.internal/day06/chabahar-port-instc",
-      "source": "Ministry of Ports / UPSC GS2",
-      "published_at": "2026-10-11T20:00:00+05:30",
-      "category": "Geopolitics & Trade"
-    },
-    {
-      "id": "day07-post1-kargil-war-1999",
-      "title": "Operation Vijay 1999: Recapturing the heights of Kargil",
-      "description": "Braving sheer vertical cliffs and sub-zero temperatures, Indian troops and Mirage-2000 air strikes evicted entrenched Pakistani regular intruders from Tololing, Tiger Hill, and Point 4875.",
-      "url": "https://upscbrief.internal/day07/kargil-war-1999",
-      "source": "Armed Forces / UPSC GS3",
-      "published_at": "2026-10-12T08:00:00+05:30",
-      "category": "Security & Defense"
-    },
-    {
-      "id": "day07-post2-operation-meghdoot-siachen",
-      "title": "Operation Meghdoot: Securing Siachen at 20,000 feet",
-      "description": "In April 1984, the Kumaon Regiment executed pre-emptive heliborne landings on Bilafond La and Sia La, securing the 76-km Siachen Glacier and dominating Saltoro Ridge ever since.",
-      "url": "https://upscbrief.internal/day07/operation-meghdoot-siachen",
-      "source": "Army Headquarters / UPSC GS3",
-      "published_at": "2026-10-12T11:00:00+05:30",
-      "category": "Defense Strategy"
-    },
-    {
-      "id": "day07-post3-non-aligned-movement",
-      "title": "Non-Aligned Movement: India's Cold War diplomatic autonomy",
-      "description": "At Bandung and Belgrade, Jawaharlal Nehru joined Tito, Nasser, and Sukarno to forge NAM, rejecting superpower military alliances and championing decolonization and sovereign equality.",
-      "url": "https://upscbrief.internal/day07/non-aligned-movement",
-      "source": "MEA Archives / UPSC GS2",
-      "published_at": "2026-10-12T14:00:00+05:30",
-      "category": "International Relations"
-    },
-    {
-      "id": "day07-post4-project-75i-submarines",
-      "title": "Project 75I: Securing underwater deterrence in the Indian Ocean",
-      "description": "Developing six advanced conventional submarines with Air Independent Propulsion (AIP) enables weeks of silent submerged patrols, safeguarding vital sea lines of communication.",
-      "url": "https://upscbrief.internal/day07/project-75i-submarines",
-      "source": "Indian Navy / UPSC GS3",
-      "published_at": "2026-10-12T17:00:00+05:30",
       "category": "Maritime Security"
     },
     {
-      "id": "day07-post5-quad-malabar-exercises",
-      "title": "The Quad and Exercise Malabar: Indo-Pacific maritime balance",
-      "description": "Comprising India, the US, Japan, and Australia, the Quadrilateral Security Dialogue coordinates high-end naval exercises, undersea domain awareness, and maritime supply chain security.",
-      "url": "https://upscbrief.internal/day07/quad-malabar-exercises",
-      "source": "Naval Staff / UPSC GS2",
-      "published_at": "2026-10-12T20:00:00+05:30",
-      "category": "Geopolitics & Defense"
+      "id": "day04-post1-south-lhonak-glacial-lake-outburst",
+      "title": "South Lhonak Glacial Lake Outburst Flood (GLOF) and Teesta III Dam Breach in Sikkim",
+      "description": "Moraine dam failure in Sikkim triggered catastrophic flash floods downstream, washing away the Chungthang Dam and highlighting the vulnerability of Himalayan hydropower cascades to climate-induced permafrost thawing.",
+      "url": "https://upscbrief.internal/day04/post1",
+      "source": "National Remote Sensing Centre / NDMA / GS1",
+      "published_at": "2026-10-09T08:00:00+05:30",
+      "category": "Glaciology & Himalayan Hazards"
     },
     {
-      "id": "day08-post1-smallpox-eradication-1977",
-      "title": "Target Zero: How India eradicated smallpox in 1977",
-      "description": "Deploying 150,000 health workers in relentless house-to-house surveillance and ring vaccination, India overcame centuries of smallpox scourge, officially certified disease-free in 1977.",
-      "url": "https://upscbrief.internal/day08/smallpox-eradication-1977",
-      "source": "Health Ministry & WHO / UPSC GS3",
-      "published_at": "2026-10-13T08:00:00+05:30",
-      "category": "Public Health & Science"
+      "id": "day04-post2-supreme-court-strikes-down-electoral",
+      "title": "Supreme Court Strikes Down Electoral Bonds Scheme: Landmark Voter Right to Information",
+      "description": "A 5-judge Constitution Bench held the 2018 Electoral Bond Scheme unconstitutional under Article 19(1)(a), asserting that voter right to information on corporate political financing outweighs donor privacy concerns.",
+      "url": "https://upscbrief.internal/day04/post2",
+      "source": "Supreme Court of India / GS2",
+      "published_at": "2026-10-09T11:00:00+05:30",
+      "category": "Electoral Law & Transparency"
     },
     {
-      "id": "day08-post2-pulse-polio-campaign",
-      "title": "Pulse Polio Programme: Delivering two drops of hope",
-      "description": "Launched in 1995, nationwide National Immunization Days vaccinated 170 million children simultaneously, driving wild poliovirus transmission to zero and earning WHO certification in 2014.",
-      "url": "https://upscbrief.internal/day08/pulse-polio-campaign",
-      "source": "MoHFW / UPSC GS2",
-      "published_at": "2026-10-13T11:00:00+05:30",
-      "category": "Health & Governance"
+      "id": "day04-post3-india-semiconductor-mission-commercial-fabs",
+      "title": "India Semiconductor Mission: Commercial Fabs and ATMP Packaging in Dholera and Sanand",
+      "description": "With central and state capex approvals surpassing ₹1.25 lakh crore, construction commenced on India's first commercial semiconductor fabrication facility in Dholera and chip packaging ATMP units in Morigaon and Sanand.",
+      "url": "https://upscbrief.internal/day04/post3",
+      "source": "MeitY / ISM / PIB / GS3",
+      "published_at": "2026-10-09T14:00:00+05:30",
+      "category": "Semiconductors & Manufacturing"
     },
     {
-      "id": "day08-post3-pharmacy-of-the-world",
-      "title": "India's pharmaceutical powerhouse: From generic drugs to Vaccine Maitri",
-      "description": "Accounting for 20 percent of global generic medicine exports and 60 percent of global vaccine supplies, Indian manufacturers supplied life-saving doses to over 100 developing nations.",
-      "url": "https://upscbrief.internal/day08/pharmacy-of-the-world",
-      "source": "Department of Pharmaceuticals / UPSC GS3",
-      "published_at": "2026-10-13T14:00:00+05:30",
-      "category": "Science, Health & Economy"
-    },
-    {
-      "id": "day08-post4-bengal-famine-1943",
-      "title": "The 1943 Bengal Famine: Wartime policy and starvation",
-      "description": "Denial policies, war inflation, and grain export priorities under colonial administration caused an estimated 3 million deaths, shaping India's post-independence obsession with food sovereignty.",
-      "url": "https://upscbrief.internal/day08/bengal-famine-1943",
-      "source": "Colonial Records / UPSC GS1",
-      "published_at": "2026-10-13T17:00:00+05:30",
-      "category": "Modern Indian History"
-    },
-    {
-      "id": "day08-post5-puttaswamy-privacy-verdict",
-      "title": "Justice KS Puttaswamy: Declaring privacy a fundamental right",
-      "description": "A unanimous nine-judge Supreme Court bench declared the right to privacy an intrinsic part of the right to life and personal liberty under Article 21, establishing boundaries for state surveillance.",
-      "url": "https://upscbrief.internal/day08/puttaswamy-privacy-verdict",
-      "source": "Supreme Court / UPSC GS2",
-      "published_at": "2026-10-13T20:00:00+05:30",
-      "category": "Constitution & Rights"
-    },
-    {
-      "id": "day09-post1-bhadla-solar-park",
-      "title": "Bhadla Solar Park: Harvesting clean energy in the desert",
-      "description": "Spanning 14,000 acres in Rajasthan's Thar desert, Bhadla produces 2,245 MW of solar power, embodying India's pledge to install 500 GW of non-fossil electrical capacity by 2030.",
-      "url": "https://upscbrief.internal/day09/bhadla-solar-park",
-      "source": "MNRE / UPSC GS3",
-      "published_at": "2026-10-14T08:00:00+05:30",
-      "category": "Energy & Climate Change"
-    },
-    {
-      "id": "day09-post2-project-cheetah-kuno",
-      "title": "Project Cheetah: Returning the world's fastest cat to India",
-      "description": "Declared extinct in India in 1952, African cheetahs translocated from Namibia and South Africa to Kuno National Park represent the world's first intercontinental large carnivore reintroduction.",
-      "url": "https://upscbrief.internal/day09/project-cheetah-kuno",
-      "source": "NTCA / UPSC GS3",
-      "published_at": "2026-10-14T11:00:00+05:30",
-      "category": "Wildlife & Biodiversity"
-    },
-    {
-      "id": "day09-post3-gaganyaan-human-spaceflight",
-      "title": "Mission Gaganyaan: India's voyage to send astronauts to orbit",
-      "description": "ISRO's human-rated LVM3 rocket will carry Indian vyomanauts to a 400-km low Earth orbit for three days before a precision parachute splashdown in Arabian Sea waters.",
-      "url": "https://upscbrief.internal/day09/gaganyaan-human-spaceflight",
-      "source": "ISRO / UPSC GS3",
-      "published_at": "2026-10-14T14:00:00+05:30",
-      "category": "Space Exploration"
-    },
-    {
-      "id": "day09-post4-indus-valley-civilization-1921",
-      "title": "1921 Discovery of Harappa: Unearthing 5,000 years of urban planning",
-      "description": "Excavations by Daya Ram Sahni and Rakhaldas Banerjee pushed Indian antiquity back two millennia, revealing grid street planning, subterranean drainage, and vast granaries.",
-      "url": "https://upscbrief.internal/day09/indus-valley-civilization-1921",
-      "source": "ASI / UPSC GS1",
-      "published_at": "2026-10-14T17:00:00+05:30",
-      "category": "Ancient History & Culture"
-    },
-    {
-      "id": "day09-post5-doklam-standoff-2017",
-      "title": "Doklam Standoff 2017: Standing resolute at the trijunction",
-      "description": "For 73 days, Indian and Chinese soldiers maintained eyeball-to-eyeball standoff on the Doklam plateau, stopping unauthorized road construction near the vulnerable Siliguri Corridor.",
-      "url": "https://upscbrief.internal/day09/doklam-standoff-2017",
-      "source": "Strategic Studies / UPSC GS2",
-      "published_at": "2026-10-14T20:00:00+05:30",
-      "category": "Border Security & IR"
-    },
-    {
-      "id": "day10-post1-tn-seshan-election-reforms",
-      "title": "TN Seshan: The Chief Election Commissioner who curbed electoral malpractices",
-      "description": "Enforcing the Model Code of Conduct, voter ID cards, and strict campaign expenditure limits, TN Seshan ended rampant booth capturing and established the Election Commission's fierce autonomy.",
-      "url": "https://upscbrief.internal/day10/tn-seshan-election-reforms",
-      "source": "Election Commission / UPSC GS4 & GS2",
-      "published_at": "2026-10-15T08:00:00+05:30",
-      "category": "Ethics & Governance"
-    },
-    {
-      "id": "day10-post2-rani-gaidinliu-naga",
-      "title": "Rani Gaidinliu: The spiritual leader who resisted British rule",
-      "description": "Leading the Heraka movement at age 16 in Manipur and Nagaland, Gaidinliu resisted British taxation and missionary dominance, spending 14 years imprisoned until Independence in 1947.",
-      "url": "https://upscbrief.internal/day10/rani-gaidinliu-naga",
-      "source": "National Archives / UPSC GS1",
-      "published_at": "2026-10-15T11:00:00+05:30",
-      "category": "Freedom Struggle & Culture"
-    },
-    {
-      "id": "day10-post3-panchayati-raj-73rd-amendment",
-      "title": "73rd and 74th Amendments: Decentralizing power to local self-governments",
-      "description": "Passed in 1992, the amendments gave constitutional status to Panchayats and Municipalities, reserving one-third of seats for women and institutionalizing grassroots democracy.",
-      "url": "https://upscbrief.internal/day10/panchayati-raj-73rd-amendment",
-      "source": "Ministry of Panchayati Raj / UPSC GS2",
-      "published_at": "2026-10-15T14:00:00+05:30",
-      "category": "Governance & Local Bodies"
-    },
-    {
-      "id": "day10-post4-green-revolution-swaminathan",
-      "title": "Dr. MS Swaminathan and the Green Revolution in India",
-      "description": "Introducing semi-dwarf high-yielding Mexican wheat varieties in Punjab and Haryana, agricultural scientist MS Swaminathan turned India from a ship-to-mouth nation into a food-surplus grain exporter.",
-      "url": "https://upscbrief.internal/day10/green-revolution-swaminathan",
-      "source": "ICAR / UPSC GS3",
-      "published_at": "2026-10-15T17:00:00+05:30",
-      "category": "Agriculture & Sci-Tech"
-    },
-    {
-      "id": "day10-post5-pokhran-2-sanctions-1998",
-      "title": "Pokhran-II 1998: Operation Shakti and enduring global sanctions",
-      "description": "Under Atal Bihari Vajpayee, India conducted five underground nuclear tests in May 1998, weathering US economic sanctions to establish credible minimum nuclear deterrence and No First Use doctrine.",
-      "url": "https://upscbrief.internal/day10/pokhran-2-sanctions-1998",
-      "source": "Strategic Archives / UPSC GS2",
-      "published_at": "2026-10-15T20:00:00+05:30",
-      "category": "Defense, IR & Strategy"
-    },
-    {
-      "id": "day11-post1-chhatrapati-shivaji-maharajs-maratha-military",
-      "title": "Chhatrapati Shivaji Maharaj's Maratha Military Forts & UNESCO World Heritage",
-      "description": "Showcasing guerilla warfare geography across the Sahyadri ranges, 12 forts including Raigad and Shivneri reflect advanced hill-fortification and naval defense strategies.",
-      "url": "https://upscbrief.internal/day11/post1",
-      "source": "ASI / Ministry of Culture / GS1",
-      "published_at": "2026-10-16T08:00:00+05:30",
-      "category": "Art & Culture"
-    },
-    {
-      "id": "day11-post2-delimitation-commission-and-article-82",
-      "title": "Delimitation Commission and Article 82: Population vs Representation Debate",
-      "description": "Delimitation redraws parliamentary constituency boundaries based on the latest census. Freezing seats until the post-2026 census addresses federal balance between growing and family-planning states.",
-      "url": "https://upscbrief.internal/day11/post2",
-      "source": "Election Commission of India / Law Ministry / GS2",
-      "published_at": "2026-10-16T11:00:00+05:30",
-      "category": "Polity & Constitution"
-    },
-    {
-      "id": "day11-post3-pmmitra-mega-textile-parks-integrated",
-      "title": "PM-MITRA Mega Textile Parks: Integrated World-Class Supply Chains",
-      "description": "Setting up 7 plug-and-play textile mega parks with world-class logistics to boost FDI, scale value-addition from farm to fashion, and rival global manufacturing hubs.",
-      "url": "https://upscbrief.internal/day11/post3",
-      "source": "Ministry of Textiles / PIB / GS3",
-      "published_at": "2026-10-16T14:00:00+05:30",
-      "category": "Economy & Industry"
-    },
-    {
-      "id": "day11-post4-project-great-indian-bustard-supreme",
-      "title": "Project Great Indian Bustard: Supreme Court Right to Clean Climate Landmark",
-      "description": "In MK Ranjitsinh v. Union of India, the Supreme Court recognized the constitutional right to be free from adverse climate impacts while balancing renewable energy lines with GIB protection.",
-      "url": "https://upscbrief.internal/day11/post4",
-      "source": "Supreme Court of India / MoEFCC / GS3",
-      "published_at": "2026-10-16T17:00:00+05:30",
-      "category": "Environment & Ecology"
-    },
-    {
-      "id": "day11-post5-ethical-dilemmas-in-automated-law",
-      "title": "Ethical Dilemmas in Automated Law Enforcement and Facial Recognition",
-      "description": "Balancing algorithmic predictive policing against privacy, false-positive biases on marginalized groups, and the lack of algorithmic accountability under administrative law.",
-      "url": "https://upscbrief.internal/day11/post5",
-      "source": "DoPT / NITI Aayog Case Study / GS4",
-      "published_at": "2026-10-16T20:00:00+05:30",
-      "category": "Ethics & Technology"
-    },
-    {
-      "id": "day12-post1-dholavira-water-management-ancient-harappan",
-      "title": "Dholavira Water Management: Ancient Harappan Hydraulic Engineering",
-      "description": "Excavations in the Rann of Kutch reveal a sophisticated cascade of stepped reservoirs, bunds, and storm-water drains, proving arid-zone urban resilience in 2500 BCE.",
-      "url": "https://upscbrief.internal/day12/post1",
-      "source": "Archaeological Survey of India / UNESCO / GS1",
-      "published_at": "2026-10-17T08:00:00+05:30",
-      "category": "Ancient History"
-    },
-    {
-      "id": "day12-post2-bharatiya-nyaya-sanhita-bns-reforming",
-      "title": "Bharatiya Nyaya Sanhita (BNS): Reforming Colonial Criminal Jurisprudence",
-      "description": "Replacing the 1860 Indian Penal Code, BNS introduces community service punishments, precise terrorism definitions, electronic evidence admissibility, and gender-neutral cruelty provisions.",
-      "url": "https://upscbrief.internal/day12/post2",
-      "source": "Ministry of Home Affairs / Official Gazette / GS2",
-      "published_at": "2026-10-17T11:00:00+05:30",
-      "category": "Governance & Justice"
-    },
-    {
-      "id": "day12-post3-india-semiconductor-mission-silicon-fabs",
-      "title": "India Semiconductor Mission: Silicon Fabs and ATMP Packaging in Dholera",
-      "description": "With ₹76,000 crore incentive framework, ISM anchors domestic semiconductor manufacturing, OSAT testing, and chip design to eliminate critical supply chain vulnerabilities.",
-      "url": "https://upscbrief.internal/day12/post3",
-      "source": "MeitY / PIB Press Release / GS3",
-      "published_at": "2026-10-17T14:00:00+05:30",
-      "category": "Science & Industry"
-    },
-    {
-      "id": "day12-post4-samudrayaan-deep-ocean-mission-matsya",
-      "title": "Samudrayaan & Deep Ocean Mission: Matsya 6000 Submersible Exploration",
-      "description": "Indigenous crewed submersible Matsya 6000 explores 6,000-meter deep seabed for polymetallic nodules, cobalt crusts, and benthic biodiversity, advancing India's Blue Economy.",
-      "url": "https://upscbrief.internal/day12/post4",
+      "id": "day04-post4-samudrayaan-mission-matsya-6000-deep",
+      "title": "Samudrayaan Mission & Matsya 6000: Deep Ocean Crewed Submersible Trials at 6,000m",
+      "description": "Ministry of Earth Sciences and NIOT completed wet tests of Matsya 6000, designed to carry 3 humans to 6,000 meters depth to explore seabed polymetallic nodules, hydrothermal vents, and rare marine biodiversity under the Deep Ocean Mission.",
+      "url": "https://upscbrief.internal/day04/post4",
       "source": "Ministry of Earth Sciences / NIOT / GS3",
-      "published_at": "2026-10-17T17:00:00+05:30",
-      "category": "Science & Oceans"
+      "published_at": "2026-10-09T17:00:00+05:30",
+      "category": "Oceanographic Exploration"
     },
     {
-      "id": "day12-post5-indiamiddle-easteurope-economic-corridor-imeec",
-      "title": "India-Middle East-Europe Economic Corridor (IMEEC): Maritime-Rail Pivot",
-      "description": "Launched at the G20 New Delhi Summit, IMEEC integrates ship-to-rail transit networks connecting India, UAE, Saudi Arabia, Jordan, Israel, and Europe as a sustainable trade artery.",
-      "url": "https://upscbrief.internal/day12/post5",
-      "source": "Ministry of External Affairs / G20 Secretariat / GS2",
-      "published_at": "2026-10-17T20:00:00+05:30",
-      "category": "International Relations"
-    },
-    {
-      "id": "day13-post1-birsa-munda-and-the-ulgulan",
-      "title": "Birsa Munda and the Ulgulan: Tribal Resistance and Land Autonomy",
-      "description": "Birsa Munda's 1899-1900 rebellion against British colonial exploitation and the Thikadars led to the Chotanagpur Tenancy Act 1908, safeguarding Adivasi land rights.",
-      "url": "https://upscbrief.internal/day13/post1",
-      "source": "Ministry of Tribal Affairs / National Archives / GS1",
-      "published_at": "2026-10-18T08:00:00+05:30",
-      "category": "Modern History"
-    },
-    {
-      "id": "day13-post2-digital-personal-data-protection-dpdp",
-      "title": "Digital Personal Data Protection (DPDP) Act 2023: Privacy Architecture",
-      "description": "Enshrining the Puttaswamy privacy doctrine, the Act establishes Data Fiduciaries, Data Protection Board, consent requirements, and heavy penalties for unauthorized data breaches.",
-      "url": "https://upscbrief.internal/day13/post2",
-      "source": "MeitY / Ministry of Law / GS2",
-      "published_at": "2026-10-18T11:00:00+05:30",
-      "category": "Governance & Digital Rights"
-    },
-    {
-      "id": "day13-post3-national-green-hydrogen-mission-sight",
-      "title": "National Green Hydrogen Mission: SIGHT Programme and Electrolyser Manufacturing",
-      "description": "Aiming for 5 MMT annual green hydrogen production by 2030, the SIGHT scheme provides financial incentives to localize electrolyser fabrication and decarbonize refineries and fertilizer units.",
-      "url": "https://upscbrief.internal/day13/post3",
-      "source": "MNRE / PIB / GS3",
-      "published_at": "2026-10-18T14:00:00+05:30",
-      "category": "Energy & Climate"
-    },
-    {
-      "id": "day13-post4-cheetah-reintroduction-in-kuno-national",
-      "title": "Cheetah Reintroduction in Kuno National Park: Inter-Continental Translocation",
-      "description": "The world's first inter-continental large-carnivore translocation from Namibia and South Africa aims to restore India's degraded savannah and open-forest grassland ecosystems.",
-      "url": "https://upscbrief.internal/day13/post4",
-      "source": "National Tiger Conservation Authority / MoEFCC / GS3",
-      "published_at": "2026-10-18T17:00:00+05:30",
-      "category": "Wildlife & Biodiversity"
-    },
-    {
-      "id": "day13-post5-whistleblower-protection-and-corporate-ethics",
-      "title": "Whistleblower Protection and Corporate Ethics: Lessons from Regulatory Scrutiny",
-      "description": "Examining statutory protections under the Whistle Blowers Protection Act and SEBI LODR regulations to shield internal whistleblowers exposing systemic accounting irregularities.",
-      "url": "https://upscbrief.internal/day13/post5",
-      "source": "Law Commission / CVC / GS4",
-      "published_at": "2026-10-18T20:00:00+05:30",
-      "category": "Ethics & Corporate Governance"
-    },
-    {
-      "id": "day14-post1-bhakti-movement-and-sant-kabir",
-      "title": "Bhakti Movement and Sant Kabir: Syncretic Socio-Religious Reformation",
-      "description": "Rejecting ritualism and caste hierarchies through vernacular dohas, Sant Kabir pioneered nirguna bhakti, inspiring egalitarian social unity across medieval India.",
-      "url": "https://upscbrief.internal/day14/post1",
-      "source": "Ministry of Culture / Sahitya Akademi / GS1",
-      "published_at": "2026-10-19T08:00:00+05:30",
-      "category": "Medieval Culture"
-    },
-    {
-      "id": "day14-post2-supreme-court-constitution-bench-verdict",
-      "title": "Supreme Court Constitution Bench Verdict on Article 370 Abrogation",
-      "description": "Upholding the constitutional validity of CO 272 and 273, the 5-judge bench reaffirmed asymmetric federalism boundaries while directing restoration of statehood and assembly elections.",
-      "url": "https://upscbrief.internal/day14/post2",
-      "source": "Supreme Court Records / GS2",
-      "published_at": "2026-10-19T11:00:00+05:30",
-      "category": "Constitution & Judiciary"
-    },
-    {
-      "id": "day14-post3-pm-gati-shakti-national-master",
-      "title": "PM Gati Shakti National Master Plan: Integrated Multimodal Planning",
-      "description": "A GIS-based digital platform breaking departmental silos across 16 ministries, synchronizing road, rail, air, and water connectivity projects to slash logistics costs from 14% to 8% of GDP.",
-      "url": "https://upscbrief.internal/day14/post3",
-      "source": "DPIIT / Ministry of Commerce / GS3",
-      "published_at": "2026-10-19T14:00:00+05:30",
-      "category": "Infrastructure & Logistics"
-    },
-    {
-      "id": "day14-post4-mishti-scheme-mangrove-conservation-for",
-      "title": "MISHTI Scheme: Mangrove Conservation for Shoreline Climate Resilience",
-      "description": "Mangrove Initiative for Shoreline Habitats and Tangible Incomes coordinates CAMPA and MGNREGS funds to plant mangroves across 540 sq km of coastline, blunting storm surges.",
-      "url": "https://upscbrief.internal/day14/post4",
-      "source": "MoEFCC / PIB / GS3",
-      "published_at": "2026-10-19T17:00:00+05:30",
-      "category": "Environment & Coastal Ecology"
-    },
-    {
-      "id": "day14-post5-operation-kaveri-humanitarian-evacuation-from",
-      "title": "Operation Kaveri: Humanitarian Evacuation from Civil Conflict Zones",
-      "description": "Coordinating Indian Navy stealth frigates and IAF C-130J transport aircraft, India successfully evacuated over 3,800 citizens and foreign nationals from crisis-hit Sudan.",
-      "url": "https://upscbrief.internal/day14/post5",
-      "source": "Ministry of External Affairs / Indian Navy / GS3",
-      "published_at": "2026-10-19T20:00:00+05:30",
-      "category": "National Security & Diplomacy"
-    },
-    {
-      "id": "day15-post1-temple-architecture-styles-nagara-dravida",
-      "title": "Temple Architecture Styles: Nagara, Dravida, and Vesara Evolution",
-      "description": "From the curved shikhara and cruciform ground plan of Nagara to the pyramidal vimana and majestic gopurams of Dravida, architectural canons reflected regional sacred geometry.",
-      "url": "https://upscbrief.internal/day15/post1",
-      "source": "Archaeological Survey of India / GS1",
-      "published_at": "2026-10-20T08:00:00+05:30",
-      "category": "Art & Architecture"
-    },
-    {
-      "id": "day15-post2-interstate-river-water-disputes-article",
-      "title": "Inter-State River Water Disputes: Article 262 and Tribunal Stalemates",
-      "description": "Examining the Inter-State River Water Disputes Act 1956 and Cauvery/Krishna disputes, highlighting the necessity of a single permanent tribunal with institutional data monitoring.",
-      "url": "https://upscbrief.internal/day15/post2",
-      "source": "Ministry of Jal Shakti / Law Commission / GS2",
-      "published_at": "2026-10-20T11:00:00+05:30",
-      "category": "Federalism & Water Governance"
-    },
-    {
-      "id": "day15-post3-upi-global-linkages-internationalization-of",
-      "title": "UPI Global Linkages: Internationalization of India's Digital Public Infrastructure",
-      "description": "Linking NPCI's UPI with Singapore's PayNow, UAE's Jaywan, and France's Lyra enables real-time cross-border remittances, lowering fees and dedollarizing bilateral micro-payments.",
-      "url": "https://upscbrief.internal/day15/post3",
-      "source": "Reserve Bank of India / NPCI / GS3",
-      "published_at": "2026-10-20T14:00:00+05:30",
-      "category": "Financial Technology"
-    },
-    {
-      "id": "day15-post4-adityal1-solar-mission-heliophysics-research",
-      "title": "Aditya-L1 Solar Mission: Heliophysics Research at Lagrange Point L1",
-      "description": "Stationed 1.5 million km from Earth in a halo orbit around L1, Aditya-L1 continuously tracks coronal mass ejections, solar flares, and space weather without eclipse disruptions.",
-      "url": "https://upscbrief.internal/day15/post4",
-      "source": "ISRO / Department of Space / GS3",
-      "published_at": "2026-10-20T17:00:00+05:30",
-      "category": "Science & Space"
-    },
-    {
-      "id": "day15-post5-compassion-in-civil-administration-district",
-      "title": "Compassion in Civil Administration: District Collector Grievance Redressal",
-      "description": "Case study analyzing how administrative empathy transformed grievance redressal in aspirational districts through door-step pensions and disability certification drives.",
-      "url": "https://upscbrief.internal/day15/post5",
-      "source": "DARPG / Mission Karmayogi / GS4",
-      "published_at": "2026-10-20T20:00:00+05:30",
-      "category": "Ethics & Administration"
-    },
-    {
-      "id": "day16-post1-indian-monsoon-dynamics-el-niño",
-      "title": "Indian Monsoon Dynamics: El Niño, La Niña, and the Indian Ocean Dipole",
-      "description": "Analyzing teleconnections between equatorial Pacific sea-surface temperatures and summer monsoons, and how positive IOD events buffer India against El Niño rain deficits.",
-      "url": "https://upscbrief.internal/day16/post1",
-      "source": "India Meteorological Department / MoES / GS1",
-      "published_at": "2026-10-21T08:00:00+05:30",
-      "category": "Physical Geography"
-    },
-    {
-      "id": "day16-post2-supreme-court-struck-down-electoral",
-      "title": "Supreme Court Struck Down Electoral Bonds: Landmark Transparency Verdict",
-      "description": "A unanimous 5-judge bench held anonymous electoral bonds unconstitutional under Article 19(1)(a), establishing voters' fundamental right to information regarding political donor funding.",
-      "url": "https://upscbrief.internal/day16/post2",
-      "source": "Supreme Court Records / ADR / GS2",
-      "published_at": "2026-10-21T11:00:00+05:30",
-      "category": "Electoral Reforms"
-    },
-    {
-      "id": "day16-post3-production-linked-incentive-pli-schemes",
-      "title": "Production Linked Incentive (PLI) Schemes: Driving Scale Across 14 Sectors",
-      "description": "Targeting electronics, pharma, green mobility, and specialty steel, PLI schemes tie budgetary outlays of ₹1.97 lakh crore to incremental domestic sales, creating global export leaders.",
-      "url": "https://upscbrief.internal/day16/post3",
-      "source": "NITI Aayog / DPIIT / GS3",
-      "published_at": "2026-10-21T14:00:00+05:30",
-      "category": "Economy & Manufacturing"
-    },
-    {
-      "id": "day16-post4-great-nicobar-island-infrastructure-project",
-      "title": "Great Nicobar Island Infrastructure Project: Strategic vs Ecological Balance",
-      "description": "The ₹72,000 crore holistic development of Galathea Bay involves a transshipment port, airstrip, and power plant, requiring compensatory afforestation and tribal Shompen safeguards.",
-      "url": "https://upscbrief.internal/day16/post4",
-      "source": "NITI Aayog / MoEFCC / GS3",
-      "published_at": "2026-10-21T17:00:00+05:30",
-      "category": "Environment & Island Development"
-    },
-    {
-      "id": "day16-post5-voice-of-global-south-summit",
-      "title": "Voice of Global South Summit: Championing Inclusivity in Multilateral Fora",
-      "description": "Convening over 120 developing nations, India amplified Global South priorities on climate finance, debt restructuring, food security, and inclusion of the African Union into G20.",
-      "url": "https://upscbrief.internal/day16/post5",
+      "id": "day04-post5-colombo-security-conclave-founding-charter",
+      "title": "Colombo Security Conclave: Founding Charter Signed by India, Sri Lanka, Maldives, Mauritius",
+      "description": "Institutionalizing Indian Ocean regional security cooperation across five pillars: maritime safety, counter-terrorism, human trafficking, cyber defense, and humanitarian disaster relief.",
+      "url": "https://upscbrief.internal/day04/post5",
       "source": "Ministry of External Affairs / GS2",
-      "published_at": "2026-10-21T20:00:00+05:30",
-      "category": "International Relations"
+      "published_at": "2026-10-09T20:00:00+05:30",
+      "category": "Regional Security Architecture"
     },
     {
-      "id": "day17-post1-deccan-riots-of-1875-moneylender",
-      "title": "Deccan Riots of 1875: Moneylender Exploitation and Agricultural Debt",
-      "description": "Triggered by oppressive colonial Ryotwari land revenue and usurious moneylender debt, peasant uprisings in Pune and Ahmednagar led to the Deccan Agriculturists' Relief Act 1879.",
-      "url": "https://upscbrief.internal/day17/post1",
-      "source": "National Archives of India / GS1",
-      "published_at": "2026-10-22T08:00:00+05:30",
-      "category": "Modern History"
+      "id": "day05-post1-indias-total-fertility-rate-tfr",
+      "title": "India's Total Fertility Rate (TFR) Drops to 1.9: Demographics and the Silver Economy",
+      "description": "NFHS-5 data confirms India's TFR has slipped below replacement level (2.1) to 1.9, accelerating regional demographic divergence between southern aged states and northern youthful states, necessitating elderly care infrastructure.",
+      "url": "https://upscbrief.internal/day05/post1",
+      "source": "Ministry of Health / NITI Aayog / GS1",
+      "published_at": "2026-10-10T08:00:00+05:30",
+      "category": "Demography & Social Trends"
     },
     {
-      "id": "day17-post2-simultaneous-elections-kovind-committee-recommendations",
-      "title": "Simultaneous Elections: Kovind Committee Recommendations on One Nation One Poll",
-      "description": "Proposing synchronization of Lok Sabha and State Legislative Assemblies followed by local body elections within 100 days, analyzing implications on federalism and constitutional amendments.",
-      "url": "https://upscbrief.internal/day17/post2",
-      "source": "High-Level Committee on Simultaneous Elections / GS2",
-      "published_at": "2026-10-22T11:00:00+05:30",
-      "category": "Constitutional Reforms"
+      "id": "day05-post2-106th-constitutional-amendment-act-nari",
+      "title": "106th Constitutional Amendment Act: Nari Shakti Vandan Adhiniyam (Women's Reservation)",
+      "description": "Reserving 33% seats for women in the Lok Sabha, State Legislative Assemblies, and Delhi Assembly for 15 years, legally linked to the implementation of the post-2026 delimitation exercise and national census.",
+      "url": "https://upscbrief.internal/day05/post2",
+      "source": "Ministry of Law and Justice / Official Gazette / GS2",
+      "published_at": "2026-10-10T11:00:00+05:30",
+      "category": "Constitutional Reform"
     },
     {
-      "id": "day17-post3-insolvency-and-bankruptcy-code-ibc",
-      "title": "Insolvency and Bankruptcy Code (IBC) 2016: Resolving Stressed Assets",
-      "description": "Shifting control from debtor-in-possession to creditor-in-control, the IBC resolved over ₹3.4 lakh crore in bad debt, establishing the NCLT and maximizing corporate enterprise value.",
-      "url": "https://upscbrief.internal/day17/post3",
-      "source": "Insolvency and Bankruptcy Board of India / GS3",
-      "published_at": "2026-10-22T14:00:00+05:30",
-      "category": "Banking & Economy"
-    },
-    {
-      "id": "day17-post4-national-clean-air-programme-ncap",
-      "title": "National Clean Air Programme (NCAP): Multi-City Air Quality Targets",
-      "description": "Covering 131 non-attainment cities, NCAP mandates 40% reduction in PM10 and PM2.5 concentrations by 2026 through vehicular transition, mechanized sweeping, and industrial monitors.",
-      "url": "https://upscbrief.internal/day17/post4",
-      "source": "Central Pollution Control Board / MoEFCC / GS3",
-      "published_at": "2026-10-22T17:00:00+05:30",
-      "category": "Pollution & Environment"
-    },
-    {
-      "id": "day17-post5-ins-vikrant-indigenous-aircraft-carrier",
-      "title": "INS Vikrant: Indigenous Aircraft Carrier Commissioning and Naval Power",
-      "description": "Built with 76% indigenous content by Cochin Shipyard, the 45,000-tonne carrier features ski-jump STOBAR operations, anchoring carrier battle group dominance in the Indian Ocean.",
-      "url": "https://upscbrief.internal/day17/post5",
-      "source": "Indian Navy / Ministry of Defence / GS3",
-      "published_at": "2026-10-22T20:00:00+05:30",
-      "category": "Defense & Self-Reliance"
-    },
-    {
-      "id": "day18-post1-traditional-rainwater-harvesting-baolis-johads",
-      "title": "Traditional Rainwater Harvesting: Baolis, Johads, and Zing Systems",
-      "description": "From Gujarat's stepwells and Rajasthan's earthen johads to Ladakh's glacial-melt zings, traditional indigenous water systems embody community-led climate adaptation.",
-      "url": "https://upscbrief.internal/day18/post1",
-      "source": "Ministry of Jal Shakti / INTACH / GS1",
-      "published_at": "2026-10-23T08:00:00+05:30",
-      "category": "Heritage & Geography"
-    },
-    {
-      "id": "day18-post2-tribunalisation-of-justice-judicial-independence",
-      "title": "Tribunalisation of Justice: Judicial Independence and Article 323A/B",
-      "description": "Examining L. Chandra Kumar and Madras Bar Association rulings, affirming that tribunals cannot bypass High Court judicial review and must maintain executive independence.",
-      "url": "https://upscbrief.internal/day18/post2",
-      "source": "Supreme Court Records / Law Ministry / GS2",
-      "published_at": "2026-10-23T11:00:00+05:30",
-      "category": "Judiciary & Governance"
-    },
-    {
-      "id": "day18-post3-agristack-digital-public-infrastructure-for",
-      "title": "Agri-Stack & Digital Public Infrastructure for Indian Farmers",
-      "description": "Creating a foundational digital registry of farmers, geo-referenced land parcels, and crop-sown data to automate targeted crop insurance, credit disbursement, and MSP procurement.",
-      "url": "https://upscbrief.internal/day18/post3",
-      "source": "Ministry of Agriculture / PIB / GS3",
-      "published_at": "2026-10-23T14:00:00+05:30",
-      "category": "Agriculture & Technology"
-    },
-    {
-      "id": "day18-post4-gaganyaan-programme-indias-indigenous-human",
-      "title": "Gaganyaan Programme: India's Indigenous Human Spaceflight Capability",
-      "description": "Carrying a 3-member crew to a 400 km low-Earth orbit for 3 days, Gaganyaan qualifies India's human-rated LVM3 launch vehicle, environmental life support, and crew escape systems.",
-      "url": "https://upscbrief.internal/day18/post4",
-      "source": "ISRO / Department of Space / GS3",
-      "published_at": "2026-10-23T17:00:00+05:30",
-      "category": "Science & Space"
-    },
-    {
-      "id": "day18-post5-nolan-principles-of-public-life",
-      "title": "Nolan Principles of Public Life: Selflessness and Integrity in Public Service",
-      "description": "Evaluating how the 7 Nolan principles—selflessness, integrity, objectivity, accountability, openness, honesty, and leadership—govern public officials facing corrupt executive pressures.",
-      "url": "https://upscbrief.internal/day18/post5",
-      "source": "Second Administrative Reforms Commission / DoPT / GS4",
-      "published_at": "2026-10-23T20:00:00+05:30",
-      "category": "Administrative Ethics"
-    },
-    {
-      "id": "day19-post1-women-in-indian-freedom-struggle",
-      "title": "Women in Indian Freedom Struggle: Matangini Hazra and Aruna Asaf Ali",
-      "description": "Highlighting the fearless leadership of 73-year-old Matangini Hazra during Quit India in Tamluk and Aruna Asaf Ali hoisting the Tricolour at Gowalia Tank Maidan.",
-      "url": "https://upscbrief.internal/day19/post1",
-      "source": "National Archives of India / Ministry of Culture / GS1",
-      "published_at": "2026-10-24T08:00:00+05:30",
-      "category": "Freedom Movement"
-    },
-    {
-      "id": "day19-post2-governors-discretionary-powers-under-article",
-      "title": "Governor's Discretionary Powers under Article 200 and Bill Assent Deadlocks",
-      "description": "The Supreme Court clarified that Governors cannot sit indefinitely on bills passed by elected state legislatures, reiterating constitutional conventions in Punjab and Tamil Nadu cases.",
-      "url": "https://upscbrief.internal/day19/post2",
-      "source": "Supreme Court Records / Law Ministry / GS2",
-      "published_at": "2026-10-24T11:00:00+05:30",
-      "category": "Federalism & Polity"
-    },
-    {
-      "id": "day19-post3-central-bank-digital-currency-erupee",
-      "title": "Central Bank Digital Currency (e-Rupee): Retail and Wholesale Pilots",
-      "description": "The RBI's digital sovereign rupee operates without commercial bank intermediary risk, slashing currency printing costs, enabling programmable subsidies, and cross-border settlement.",
-      "url": "https://upscbrief.internal/day19/post3",
-      "source": "Reserve Bank of India Bulletin / GS3",
-      "published_at": "2026-10-24T14:00:00+05:30",
-      "category": "Monetary Policy & FinTech"
-    },
-    {
-      "id": "day19-post4-namami-gange-mission-aviral-and",
-      "title": "Namami Gange Mission: Aviral and Nirmal Dhara River Rejuvenation",
-      "description": "Integrating 400+ sewage treatment plants, industrial effluent monitoring, ghat beautification, and river dolphin conservation across the 2,525 km Ganga basin.",
-      "url": "https://upscbrief.internal/day19/post4",
-      "source": "National Mission for Clean Ganga / Jal Shakti / GS3",
-      "published_at": "2026-10-24T17:00:00+05:30",
-      "category": "Ecology & Water Rivers"
-    },
-    {
-      "id": "day19-post5-indiaefta-trade-economic-partnership-100",
-      "title": "India-EFTA Trade & Economic Partnership: $100 Billion Investment Commitment",
-      "description": "Signing with Switzerland, Norway, Iceland, and Liechtenstein, India secured a binding $100B investment over 15 years in exchange for tariff concessions on non-agricultural machinery.",
-      "url": "https://upscbrief.internal/day19/post5",
-      "source": "Ministry of Commerce and Industry / GS2",
-      "published_at": "2026-10-24T20:00:00+05:30",
+      "id": "day05-post3-indiaefta-trade-and-economic-partnership",
+      "title": "India-EFTA Trade and Economic Partnership Agreement (TEPA): $100 Billion Investment Commitment",
+      "description": "India signed a landmark free trade agreement with Switzerland, Norway, Iceland, and Liechtenstein, featuring a legally binding commitment to invest $100 billion and create 1 million direct jobs in India over 15 years in return for tariff-free industrial access.",
+      "url": "https://upscbrief.internal/day05/post3",
+      "source": "Ministry of Commerce and Industry / PIB / GS3",
+      "published_at": "2026-10-10T14:00:00+05:30",
       "category": "International Trade"
     },
     {
-      "id": "day20-post1-western-ghats-biodiversity-hotspot-endemism",
-      "title": "Western Ghats: Biodiversity Hotspot, Endemism, and Ecological Fragility",
-      "description": "Older than the Himalayas, the Sahyadri range influences Indian monsoon weather and shelters over 5,000 flowering plant species, requiring Kasturirangan report conservation zones.",
-      "url": "https://upscbrief.internal/day20/post1",
-      "source": "Botanical Survey of India / MoEFCC / GS1",
-      "published_at": "2026-10-25T08:00:00+05:30",
-      "category": "Physical Geography"
+      "id": "day05-post4-drdo-zorawar-light-tank-indigenous",
+      "title": "DRDO Zorawar Light Tank: Indigenous High-Altitude Mountain Warfare Trials in Ladakh",
+      "description": "Developed by DRDO and L&T in record time for deployment along the LAC in Eastern Ladakh, the 25-tonne amphibious light tank features active protection, drone integration, and artificial intelligence fire control.",
+      "url": "https://upscbrief.internal/day05/post4",
+      "source": "DRDO / Indian Army / GS3",
+      "published_at": "2026-10-10T17:00:00+05:30",
+      "category": "Armored Systems & Defense"
     },
     {
-      "id": "day20-post2-niti-aayog-national-multidimensional-poverty",
-      "title": "NITI Aayog National Multidimensional Poverty Index: Dramatic Poverty Decline",
-      "description": "Analyzing multidimensional deprivations across health, education, and living standards, India lifted 24.8 crore people out of multidimensional poverty in 9 years.",
-      "url": "https://upscbrief.internal/day20/post2",
-      "source": "NITI Aayog / UNDP India / GS2",
-      "published_at": "2026-10-25T11:00:00+05:30",
-      "category": "Social Welfare & Poverty"
+      "id": "day05-post5-unified-pension-scheme-ups-2024",
+      "title": "Unified Pension Scheme (UPS) 2024: Ethical Balance Between Fiscal Prudence and Social Security",
+      "description": "Ethical evaluation of civil servants' social security vs sovereign debt sustainability: analyzing how UPS guarantees 50% assured pension while retaining contributory pension funds to protect public finances.",
+      "url": "https://upscbrief.internal/day05/post5",
+      "source": "Ministry of Finance / DoPT / GS4",
+      "published_at": "2026-10-10T20:00:00+05:30",
+      "category": "Administrative Ethics & Pensions"
     },
     {
-      "id": "day20-post3-national-quantum-mission-quantum-computing",
-      "title": "National Quantum Mission: Quantum Computing and Secure Communications",
-      "description": "With ₹6,003 crore funding, NQM develops 50-1000 qubit quantum computers, satellite-based quantum key distribution (QKD), and ultrasensitive quantum magnetometers.",
-      "url": "https://upscbrief.internal/day20/post3",
-      "source": "Department of Science and Technology / PIB / GS3",
-      "published_at": "2026-10-25T14:00:00+05:30",
-      "category": "Deep Science & Tech"
+      "id": "day06-post1-coral-bleaching-in-lakshadweep-gulf",
+      "title": "Coral Bleaching in Lakshadweep & Gulf of Mannar 2024: 4th Global Marine Heatwave Event",
+      "description": "Elevated sea surface temperatures above 31°C triggered widespread expulsion of zooxanthellae algae, threatening atoll reef resilience and fisher livelihoods across Lakshadweep and Andaman islands.",
+      "url": "https://upscbrief.internal/day06/post1",
+      "source": "Zoological Survey of India / MoEFCC / GS1",
+      "published_at": "2026-10-11T08:00:00+05:30",
+      "category": "Marine Ecology & Coral Reefs"
     },
     {
-      "id": "day20-post4-indias-500-gw-nonfossil-energy",
-      "title": "India's 500 GW Non-Fossil Energy Target by 2030: The Green Energy Transition",
-      "description": "Rapidly scaling solar parks, ultra-mega wind corridors, and green energy open-access rules to fulfill COP26 Panchamrit pledges and decarbonize heavy industry.",
-      "url": "https://upscbrief.internal/day20/post4",
-      "source": "Central Electricity Authority / MNRE / GS3",
-      "published_at": "2026-10-25T17:00:00+05:30",
-      "category": "Renewable Energy"
+      "id": "day06-post2-bharatiya-nagarik-suraksha-sanhita-bnss",
+      "title": "Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023: Zero FIR, Digital Summons, and Forensic Mandate",
+      "description": "Replacing the CrPC 1973, BNSS introduces nationwide online e-FIRs, mandatory forensic crime-scene visits for offenses punishable by 7+ years, timeline caps on judgments within 45 days, and preliminary inquiry rules.",
+      "url": "https://upscbrief.internal/day06/post2",
+      "source": "Ministry of Home Affairs / Official Gazette / GS2",
+      "published_at": "2026-10-11T11:00:00+05:30",
+      "category": "Criminal Procedure Code"
     },
     {
-      "id": "day20-post5-development-vs-displacement-ethical-matrix",
-      "title": "Development vs Displacement: Ethical Matrix in Tribal Rehabilitation",
-      "description": "Examining ethical obligations under PESA and FRA 2006 to ensure free, prior, and informed consent for Adivasi communities displaced by mega-irrigation and coal mining projects.",
-      "url": "https://upscbrief.internal/day20/post5",
-      "source": "Ministry of Tribal Affairs / Ethics Case Study / GS4",
-      "published_at": "2026-10-25T20:00:00+05:30",
-      "category": "Development Ethics"
+      "id": "day06-post3-union-budget-fiscal-consolidation-glide",
+      "title": "Union Budget Fiscal Consolidation Glide Path: Deficit Targeted at 4.5% of GDP by FY26",
+      "description": "Finance Ministry's strategic glide path lowers fiscal deficit from 5.1% to 4.9% of GDP in FY25, prioritizing ₹11.11 lakh crore capital expenditure (3.4% of GDP) for highways, rail corridors, and defense infrastructure.",
+      "url": "https://upscbrief.internal/day06/post3",
+      "source": "Ministry of Finance / Union Budget Documents / GS3",
+      "published_at": "2026-10-11T14:00:00+05:30",
+      "category": "Fiscal Policy & Budget"
     },
     {
-      "id": "day21-post1-classical-languages-of-india-antiquity",
-      "title": "Classical Languages of India: Antiquity Criteria and Cultural Heritage",
-      "description": "With the inclusion of Marathi, Pali, Prakrit, Assamese, and Bengali alongside Sanskrit and Tamil, classical status honors high antiquity and distinct literary traditions.",
-      "url": "https://upscbrief.internal/day21/post1",
-      "source": "Ministry of Culture / Sahitya Akademi / GS1",
-      "published_at": "2026-10-26T08:00:00+05:30",
-      "category": "Culture & Linguistics"
+      "id": "day06-post4-mission-mausam-approved-2000-crore",
+      "title": "Mission Mausam Approved: ₹2,000 Crore AI-Powered Weather and Monsoon Forecasting Overhaul",
+      "description": "Cabinet approved Mission Mausam to install next-generation dual-polarization Doppler radars, high-performance supercomputing, and cloud-seeding technologies to predict cloudbursts and urban flash floods.",
+      "url": "https://upscbrief.internal/day06/post4",
+      "source": "Ministry of Earth Sciences / IMD / PIB / GS3",
+      "published_at": "2026-10-11T17:00:00+05:30",
+      "category": "Weather Science & Meteorology"
     },
     {
-      "id": "day21-post2-nari-shakti-vandan-adhiniyam-106th",
-      "title": "Nari Shakti Vandan Adhiniyam: 106th Constitutional Amendment Act",
-      "description": "Mandating 33% reservation for women in Lok Sabha and State Legislative Assemblies for 15 years, operationalized post-census delimitation to bridge gender political representation gaps.",
-      "url": "https://upscbrief.internal/day21/post2",
-      "source": "Ministry of Law and Justice / Gazette / GS2",
-      "published_at": "2026-10-26T11:00:00+05:30",
-      "category": "Gender & Parliament"
+      "id": "day06-post5-voice-of-global-south-3rd",
+      "title": "Voice of Global South 3rd Summit 2024: Championing Inclusivity and South-South Cooperation",
+      "description": "Chaired by India under the theme 'An Empowered Global South for a Sustainable Future', focusing on digital public infrastructure exports, debt forgiveness mechanisms, and the G20 Africa agenda.",
+      "url": "https://upscbrief.internal/day06/post5",
+      "source": "Ministry of External Affairs / PIB / GS2",
+      "published_at": "2026-10-11T20:00:00+05:30",
+      "category": "Multilateralism & South-South Ties"
     },
     {
-      "id": "day21-post3-pm-kisan-direct-benefit-transfer",
-      "title": "PM KISAN Direct Benefit Transfer: Liquidity Support for Smallholders",
-      "description": "Transferring ₹6,000 annually in three equal tranches directly to 11+ crore farmers' Aadhaar-linked accounts, PM KISAN provides timely liquidity for seeds, fertilizers, and inputs.",
-      "url": "https://upscbrief.internal/day21/post3",
+      "id": "day07-post1-india-crosses-600-geographical-indication",
+      "title": "India Crosses 600 Geographical Indication (GI) Tags: Traditional Knowledge and Artisan Protection",
+      "description": "Recent GI recognitions including Rupa Tarakasi (Cuttack silver filigree), Majuli masks of Assam, and Banaras metal craft showcase GI registration as a vital tool for preventing cultural misappropriation and boosting artisan exports.",
+      "url": "https://upscbrief.internal/day07/post1",
+      "source": "DPIIT / Geographical Indications Registry / GS1",
+      "published_at": "2026-10-12T08:00:00+05:30",
+      "category": "Intellectual Property & Crafts"
+    },
+    {
+      "id": "day07-post2-bharatiya-sakshya-adhiniyam-bsa-2023",
+      "title": "Bharatiya Sakshya Adhiniyam (BSA) 2023: Electronic and Digital Records as Primary Evidence",
+      "description": "Replacing the 1872 Evidence Act, BSA provides statutory recognition to server logs, encrypted messages, cloud storage, and smartphone metadata as primary documentary evidence in criminal proceedings.",
+      "url": "https://upscbrief.internal/day07/post2",
+      "source": "Ministry of Law and Justice / Legislative Department / GS2",
+      "published_at": "2026-10-12T11:00:00+05:30",
+      "category": "Evidence Jurisprudence"
+    },
+    {
+      "id": "day07-post3-abolition-of-angel-tax-section",
+      "title": "Abolition of Angel Tax (Section 56(2)(viib)): Unleashing Capital for Indian Startups",
+      "description": "Union Budget 2024 completely abolished the contentious Angel Tax across all investor classes, eliminating tax litigation over startup valuation premiums and reversing startup 'flip' migrations overseas.",
+      "url": "https://upscbrief.internal/day07/post3",
+      "source": "CBDT / Ministry of Finance / GS3",
+      "published_at": "2026-10-12T14:00:00+05:30",
+      "category": "Startup Financing & Taxation"
+    },
+    {
+      "id": "day07-post4-drdo-high-altitude-pseudosatellite-haps",
+      "title": "DRDO High Altitude Pseudo-Satellite (HAPS): Solar Stratospheric Flight Test at 21 km",
+      "description": "Solar-powered autonomous unmanned aircraft demonstrated continuous flight at 21,000 meters altitude, providing persistent border surveillance and telecommunications bridge capabilities without satellite launch costs.",
+      "url": "https://upscbrief.internal/day07/post4",
+      "source": "DRDO / Aeronautical Development Establishment / GS3",
+      "published_at": "2026-10-12T17:00:00+05:30",
+      "category": "Stratospheric Aviation"
+    },
+    {
+      "id": "day07-post5-ethical-framework-for-generative-ai",
+      "title": "Ethical Framework for Generative AI and Deepfakes in Democratic Elections",
+      "description": "Analyzing ethical responsibility, synthetic audio-video watermarking, MeitY advisories, and the balance between political freedom of expression and voter deception.",
+      "url": "https://upscbrief.internal/day07/post5",
+      "source": "MeitY / Election Commission of India / GS4",
+      "published_at": "2026-10-12T20:00:00+05:30",
+      "category": "AI Governance & Ethics"
+    },
+    {
+      "id": "day08-post1-indus-waters-treaty-review-india",
+      "title": "Indus Waters Treaty Review: India Serves Formal Notice to Pakistan for Modification",
+      "description": "Invoking Article XII(3), India issued formal notice to renegotiate the 1960 treaty in light of demographic shifts, Jammu & Kashmir clean energy requirements, and unilateral neutral-expert arbitration disputes over Kishanganga and Ratle plants.",
+      "url": "https://upscbrief.internal/day08/post1",
+      "source": "Ministry of External Affairs / Ministry of Jal Shakti / GS1",
+      "published_at": "2026-10-13T08:00:00+05:30",
+      "category": "Water Resources & Treaties"
+    },
+    {
+      "id": "day08-post2-supreme-court-clarifies-section-45",
+      "title": "Supreme Court Clarifies Section 45 PMLA: Prolonged Incarceration Without Trial Justifies Bail",
+      "description": "In Manish Sisodia and Prem Prakash verdicts, the apex court reaffirmed that Article 21 right to speedy trial supersedes statutory twin bail conditions when trial commencement is delayed without accused's fault.",
+      "url": "https://upscbrief.internal/day08/post2",
+      "source": "Supreme Court Records / GS2",
+      "published_at": "2026-10-13T11:00:00+05:30",
+      "category": "PMLA Bail Jurisprudence"
+    },
+    {
+      "id": "day08-post3-employmentlinked-incentive-eli-schemes-union",
+      "title": "Employment-Linked Incentive (ELI) Schemes: Union Budget 3-Scheme Manufacturing Architecture",
+      "description": "Government rolled out three ELI schemes under the Prime Minister's Package to subsidize first-time formal employees' EPFO contributions, support manufacturing workforce scaling, and train 1 crore youth via internships in top 500 companies.",
+      "url": "https://upscbrief.internal/day08/post3",
+      "source": "Ministry of Labour and Employment / Ministry of Finance / GS3",
+      "published_at": "2026-10-13T14:00:00+05:30",
+      "category": "Employment Schemes"
+    },
+    {
+      "id": "day08-post4-international-big-cat-alliance-ibca",
+      "title": "International Big Cat Alliance (IBCA) Headquarters Established in India",
+      "description": "India ratified the framework agreement establishing the permanent secretariat of IBCA with a ₹150 crore corpus to coordinate conservation of tiger, lion, leopard, snow leopard, cheetah, jaguar, and puma across 96 range nations.",
+      "url": "https://upscbrief.internal/day08/post4",
+      "source": "National Tiger Conservation Authority / MoEFCC / GS3",
+      "published_at": "2026-10-13T17:00:00+05:30",
+      "category": "Wildlife Conservation Treaties"
+    },
+    {
+      "id": "day08-post5-indiamiddle-easteurope-economic-corridor-imeec",
+      "title": "India-Middle East-Europe Economic Corridor (IMEEC): Progress Amidst Geopolitical Volatility",
+      "description": "Assessing operationalization of the rail-and-sea corridor connecting Mundra and JNPT with UAE, Saudi Arabia, Haifa, and Europe, evaluating risk mitigation and multimodal container harmonization.",
+      "url": "https://upscbrief.internal/day08/post5",
+      "source": "Ministry of External Affairs / G20 Secretariat / GS2",
+      "published_at": "2026-10-13T20:00:00+05:30",
+      "category": "Geoeconomic Corridors"
+    },
+    {
+      "id": "day09-post1-community-forest-rights-under-forest",
+      "title": "Community Forest Rights under Forest Rights Act 2006: Odisha and Maharashtra Gram Sabha Milestones",
+      "description": "Over 2,000 Gram Sabhas gained statutory autonomy to harvest and trade Kendu leaves and minor forest produce, empowering indigenous communities while checking unscientific commercial deforestation.",
+      "url": "https://upscbrief.internal/day09/post1",
+      "source": "Ministry of Tribal Affairs / State Forest Departments / GS1",
+      "published_at": "2026-10-14T08:00:00+05:30",
+      "category": "Tribal Land Rights & Forests"
+    },
+    {
+      "id": "day09-post2-supreme-court-9judge-bench-state",
+      "title": "Supreme Court 9-Judge Bench: State Powers to Tax Mineral Rights and Mining Lands",
+      "description": "In Mineral Area Development Authority v SAIL, an 8:1 majority ruled that royalty under MMDR Act 1957 is not a tax, affirming state legislatures' constitutional power under Entry 49 List II to levy taxes on mineral-bearing lands.",
+      "url": "https://upscbrief.internal/day09/post2",
+      "source": "Supreme Court of India / GS2",
+      "published_at": "2026-10-14T11:00:00+05:30",
+      "category": "Fiscal Federalism & Mining"
+    },
+    {
+      "id": "day09-post3-digital-agriculture-mission-approved-2817",
+      "title": "Digital Agriculture Mission Approved: ₹2,817 Crore AgriStack and Krishi-DSS Rollout",
+      "description": "Union Cabinet sanctioned AgriStack to create digital identity records for 11 crore farmers, dynamic digital crop surveys, and satellite-based Krishi Decision Support System to ensure transparent MSP delivery and fertilizer subsidies.",
+      "url": "https://upscbrief.internal/day09/post3",
       "source": "Ministry of Agriculture / PIB / GS3",
-      "published_at": "2026-10-26T14:00:00+05:30",
-      "category": "Agriculture & Welfare"
+      "published_at": "2026-10-14T14:00:00+05:30",
+      "category": "Agritech & Public Infrastructure"
     },
     {
-      "id": "day21-post4-national-mission-on-biodiversity-and",
-      "title": "National Mission on Biodiversity and Human Well-Being",
-      "description": "Integrating biodiversity science with public health, agricultural resilience, and rural bio-economies to conserve agro-biodiversity and combat zoonotic disease spillovers.",
-      "url": "https://upscbrief.internal/day21/post4",
-      "source": "National Biodiversity Authority / MoEFCC / GS3",
-      "published_at": "2026-10-26T17:00:00+05:30",
-      "category": "Environment & Ecology"
+      "id": "day09-post4-gaganyaan-astronaut-designation-4-iaf",
+      "title": "Gaganyaan Astronaut Designation: 4 IAF Test Pilots Unveiled for Maiden Crewed Mission",
+      "description": "ISRO unveiled the four designated 'Gaganyatris' for India's maiden crewed spaceflight, alongside successful qualification of the human-rated CE20 cryogenic engine and crew escape system test pad flights.",
+      "url": "https://upscbrief.internal/day09/post4",
+      "source": "ISRO / Prime Minister's Office / GS3",
+      "published_at": "2026-10-14T17:00:00+05:30",
+      "category": "Human Spaceflight"
     },
     {
-      "id": "day21-post5-project-75i-advanced-airindependent-propulsion",
-      "title": "Project 75I: Advanced Air-Independent Propulsion (AIP) Submarines",
-      "description": "Equipping diesel-electric submarines with fuel-cell Air-Independent Propulsion extends submerged endurance from days to weeks, countering naval threats across the Malacca Strait.",
-      "url": "https://upscbrief.internal/day21/post5",
-      "source": "Indian Navy / Ministry of Defence / GS3",
-      "published_at": "2026-10-26T20:00:00+05:30",
-      "category": "Defense & Indigenous Industry"
+      "id": "day09-post5-corporate-governance-ethics-sebi-regulatory",
+      "title": "Corporate Governance Ethics: SEBI Regulatory Integrity and Conflict of Interest Disclosures",
+      "description": "Examining ethical frameworks governing statutory market regulators, code of conduct disclosures, recusal protocols, and the preservation of institutional public trust in capital market watchdogs.",
+      "url": "https://upscbrief.internal/day09/post5",
+      "source": "SEBI / Law Commission / GS4",
+      "published_at": "2026-10-14T20:00:00+05:30",
+      "category": "Corporate Governance Ethics"
     },
     {
-      "id": "day22-post1-ashokan-edicts-moral-governance-dhamma",
-      "title": "Ashokan Edicts: Moral Governance, Dhamma, and Ancient Inscriptions",
-      "description": "Carved on rock faces and polished monolithic pillars in Prakrit, Greek, and Aramaic, Ashoka's edicts renounced aggressive warfare in favor of non-violence and public welfare.",
-      "url": "https://upscbrief.internal/day22/post1",
-      "source": "Archaeological Survey of India / GS1",
-      "published_at": "2026-10-27T08:00:00+05:30",
-      "category": "Ancient Epigraphy"
+      "id": "day10-post1-kenbetwa-river-interlinking-project-daudhan",
+      "title": "Ken-Betwa River Interlinking Project: Daudhan Dam Construction and Bundelkhand Relief",
+      "description": "India's first national river interlinking project transfers surplus water from the Ken basin to the water-stressed Betwa basin, irrigating 10.6 lakh hectares in Bundelkhand while submerging 4,141 hectares of Panna Tiger Reserve.",
+      "url": "https://upscbrief.internal/day10/post1",
+      "source": "National Water Development Agency / MoEFCC / GS1",
+      "published_at": "2026-10-15T08:00:00+05:30",
+      "category": "River Interlinking & Ecology"
     },
     {
-      "id": "day22-post2-right-to-education-rte-act",
-      "title": "Right to Education (RTE) Act: Section 12(1)(c) and EWS Mandates",
-      "description": "Mandating 25% quota for disadvantaged children in private non-minority schools, examining fee-reimbursement delays and learning outcome disparities across states.",
-      "url": "https://upscbrief.internal/day22/post2",
-      "source": "Ministry of Education / NCPCR / GS2",
-      "published_at": "2026-10-27T11:00:00+05:30",
-      "category": "Social Justice & Education"
+      "id": "day10-post2-telecommunications-act-2023-enacted-administrative",
+      "title": "Telecommunications Act 2023 Enacted: Administrative Spectrum Allocation and Biometric Safeguards",
+      "description": "Repealing the Indian Telegraph Act 1885, the modern telecom framework authorizes administrative spectrum assignment for satellite broadband, biometric SIM authentication, and biometric spoofing prevention.",
+      "url": "https://upscbrief.internal/day10/post2",
+      "source": "Department of Telecommunications / Official Gazette / GS2",
+      "published_at": "2026-10-15T11:00:00+05:30",
+      "category": "Telecom Law & Security"
     },
     {
-      "id": "day22-post3-bharat-6g-vision-terahertz-waves",
-      "title": "Bharat 6G Vision: Terahertz Waves and Indigenous Telecom Patents",
-      "description": "Setting up the Bharat 6G Alliance, India aims to shape international 6G standards, terahertz wireless, and intelligent network architecture, avoiding foreign tech dependencies.",
-      "url": "https://upscbrief.internal/day22/post3",
-      "source": "Department of Telecommunications / PIB / GS3",
-      "published_at": "2026-10-27T14:00:00+05:30",
-      "category": "Telecom & Digital Tech"
+      "id": "day10-post3-pmpranam-and-biofertilizers-incentivizing-states",
+      "title": "PM-PRANAM and Bio-Fertilizers: Incentivizing States to Slash Chemical Urea Consumption",
+      "description": "Programme for Restoration, Awareness, Nourishment and Amelioration of Mother Earth incentivizes states with 50% of the saved central fertilizer subsidy to deploy Nano DAP, bio-enzymes, and organic compost.",
+      "url": "https://upscbrief.internal/day10/post3",
+      "source": "Department of Fertilizers / Ministry of Chemicals / GS3",
+      "published_at": "2026-10-15T14:00:00+05:30",
+      "category": "Sustainable Agriculture"
     },
     {
-      "id": "day22-post4-ramsar-wetlands-of-india-expansion",
-      "title": "Ramsar Wetlands of India: Expansion to 85+ Sites of International Importance",
-      "description": "Conserving fragile hydrological sponges from Tamil Nadu's bird sanctuaries to Ladakh's high-altitude Tso Kar, Ramsar designation enforces eco-sensitive buffer protections.",
-      "url": "https://upscbrief.internal/day22/post4",
-      "source": "MoEFCC / Ramsar Convention Secretariat / GS3",
-      "published_at": "2026-10-27T17:00:00+05:30",
+      "id": "day10-post4-ins-arighaat-commissioned-second-indigenous",
+      "title": "INS Arighaat Commissioned: Second Indigenous SSBN Bolsters India's Nuclear Triad",
+      "description": "Commissioning of the second indigenous Arihant-class nuclear-powered ballistic missile submarine (SSBN) armed with K-15 SLBMs secures an survivable sea-based second-strike nuclear deterrence in the Indo-Pacific.",
+      "url": "https://upscbrief.internal/day10/post4",
+      "source": "Indian Navy / Strategic Forces Command / GS3",
+      "published_at": "2026-10-15T17:00:00+05:30",
+      "category": "Nuclear Submarines & Triad"
+    },
+    {
+      "id": "day10-post5-quad-leaders-summit-2024-wilmington",
+      "title": "Quad Leaders Summit 2024: Wilmington Declaration and Maritime Domain Awareness (IPMDA)",
+      "description": "Quad leaders from India, US, Australia, and Japan expanded coast guard cooperation (Quad-at-Sea Ship Observer Mission) and interoperable commercial satellite data sharing to curb illegal fishing in the Indo-Pacific.",
+      "url": "https://upscbrief.internal/day10/post5",
+      "source": "Ministry of External Affairs / GS2",
+      "published_at": "2026-10-15T20:00:00+05:30",
+      "category": "Indo-Pacific Strategic Alliances"
+    },
+    {
+      "id": "day11-post1-moidams-of-assam-inscribed-as",
+      "title": "Moidams of Assam Inscribed as UNESCO World Heritage Site: Ahom Royal Mound Architecture",
+      "description": "The 700-year-old stepped pyramidal vaulted mounds of Charaideo, honoring Ahom royalty, became Northeast India's first cultural World Heritage property, spotlighting indigenous vaulted earthen architecture.",
+      "url": "https://upscbrief.internal/day11/post1",
+      "source": "Archaeological Survey of India / UNESCO / GS1",
+      "published_at": "2026-10-16T08:00:00+05:30",
+      "category": "World Heritage Architecture"
+    },
+    {
+      "id": "day11-post2-chief-election-commissioner-and-other",
+      "title": "Chief Election Commissioner and Other ECs (Appointment) Act 2023 Upheld by Supreme Court",
+      "description": "Supreme Court declined to stay the appointment mechanism comprising the PM, a Union Minister, and the Leader of Opposition, examining executive influence versus institutional autonomy of the poll panel.",
+      "url": "https://upscbrief.internal/day11/post2",
+      "source": "Supreme Court Records / Ministry of Law / GS2",
+      "published_at": "2026-10-16T11:00:00+05:30",
+      "category": "Constitutional Bodies & Polls"
+    },
+    {
+      "id": "day11-post3-national-critical-minerals-mission-auctioning",
+      "title": "National Critical Minerals Mission: Auctioning 38 Lithium and Rare Earth Blocks",
+      "description": "Government auctioned 38 critical mineral blocks, including lithium in Reasi and graphite in Arunachal Pradesh, while signing overseas exploration agreements via KABIL in Argentina and Australia.",
+      "url": "https://upscbrief.internal/day11/post3",
+      "source": "Ministry of Mines / Geological Survey of India / GS3",
+      "published_at": "2026-10-16T14:00:00+05:30",
+      "category": "Critical Minerals & Supply Chains"
+    },
+    {
+      "id": "day11-post4-national-green-hydrogen-mission-sight",
+      "title": "National Green Hydrogen Mission: SIGHT Financial Incentives Awarded for 1.5 GW Electrolysers",
+      "description": "Solar Energy Corporation of India (SECI) finalized production-linked financial incentives under the Strategic Interventions for Green Hydrogen Transition (SIGHT) scheme to achieve 5 MMT green hydrogen by 2030.",
+      "url": "https://upscbrief.internal/day11/post4",
+      "source": "MNRE / SECI / PIB / GS3",
+      "published_at": "2026-10-16T17:00:00+05:30",
+      "category": "Hydrogen Economy & Clean Tech"
+    },
+    {
+      "id": "day11-post5-statutory-whistleblower-safeguards-central-vigilance",
+      "title": "Statutory Whistleblower Safeguards: Central Vigilance Commission (CVC) PIDPI Integrity Guidelines",
+      "description": "Case study on administrative mechanisms under the Public Interest Disclosure and Protection of Informers (PIDPI) resolution, evaluating institutional safeguards against organizational retaliation.",
+      "url": "https://upscbrief.internal/day11/post5",
+      "source": "Central Vigilance Commission / DoPT / GS4",
+      "published_at": "2026-10-16T20:00:00+05:30",
+      "category": "Whistleblower Protections"
+    },
+    {
+      "id": "day12-post1-smart-cities-mission-integrated-command",
+      "title": "Smart Cities Mission: Integrated Command and Control Centers (ICCC) Driving Municipal Data",
+      "description": "Completing over 7,100 projects across 100 cities, ICCCs function as the digital nervous system for traffic management, air quality telemetry, and municipal grievance redressal, redefining Indian municipal administration.",
+      "url": "https://upscbrief.internal/day12/post1",
+      "source": "Ministry of Housing and Urban Affairs / PIB / GS1",
+      "published_at": "2026-10-17T08:00:00+05:30",
+      "category": "Urban Governance & Smart Tech"
+    },
+    {
+      "id": "day12-post2-digital-personal-data-protection-dpdp",
+      "title": "Digital Personal Data Protection (DPDP) Act Rules: Consent Managers and Data Fiduciaries",
+      "description": "MeitY's operational guidelines mandate verifiable parental consent for children, establish notice standards for Data Fiduciaries, and outline the adjudication process of the Data Protection Board of India.",
+      "url": "https://upscbrief.internal/day12/post2",
+      "source": "MeitY / Data Protection Board / GS2",
+      "published_at": "2026-10-17T11:00:00+05:30",
+      "category": "Privacy Architecture & Rules"
+    },
+    {
+      "id": "day12-post3-pm-mega-integrated-textile-regions",
+      "title": "PM Mega Integrated Textile Regions and Apparel (PM MITRA) Parks Groundbreaking in 7 States",
+      "description": "Groundbreaking ceremonies across 7 states for plug-and-play textile parks with 5F vision (Farm to Fibre to Factory to Fashion to Foreign), attracting ₹70,000 crore in private investments.",
+      "url": "https://upscbrief.internal/day12/post3",
+      "source": "Ministry of Textiles / PIB / GS3",
+      "published_at": "2026-10-17T14:00:00+05:30",
+      "category": "Textile Clusters & Export Scale"
+    },
+    {
+      "id": "day12-post4-tejas-mk1a-fighter-jet-induction",
+      "title": "Tejas Mk1A Fighter Jet Induction: HAL Uttam AESA Radar and Indigenous Avionics",
+      "description": "Hindustan Aeronautics Limited (HAL) delivered advanced LCA Tejas Mk1A variants equipped with indigenous Uttam AESA radar, electronic warfare jamming pods, and advanced beyond-visual-range missiles.",
+      "url": "https://upscbrief.internal/day12/post4",
+      "source": "Indian Air Force / HAL / GS3",
+      "published_at": "2026-10-17T17:00:00+05:30",
+      "category": "Aviation & Indigenous Avionics"
+    },
+    {
+      "id": "day12-post5-indiarussia-annual-summit-in-moscow",
+      "title": "India-Russia Annual Summit in Moscow: Energy Security and Alternative Currency Settlement",
+      "description": "Reaffirming the Special and Privileged Strategic Partnership, talks focused on bilateral trade touching $65 billion, long-term crude supplies, Kudankulam nuclear units, and reciprocal military logistics pacts.",
+      "url": "https://upscbrief.internal/day12/post5",
+      "source": "Ministry of External Affairs / GS2",
+      "published_at": "2026-10-17T20:00:00+05:30",
+      "category": "Eurasian Strategic Ties"
+    },
+    {
+      "id": "day13-post1-india-adds-5-new-ramsar",
+      "title": "India Adds 5 New Ramsar Sites: Total Tally Touches 85 Wetlands of International Importance",
+      "description": "Inclusion of Magadi Kere, Ankasamudra, Aghanashini, Karaivitti, and Longwood Shola expands India's Ramsar network to the second-highest in Asia, securing critical migratory bird flyways.",
+      "url": "https://upscbrief.internal/day13/post1",
+      "source": "MoEFCC / Ramsar Convention Secretariat / GS1",
+      "published_at": "2026-10-18T08:00:00+05:30",
       "category": "Wetlands & Ecology"
     },
     {
-      "id": "day22-post5-shanghai-cooperation-organisation-sco-strategic",
-      "title": "Shanghai Cooperation Organisation (SCO): Strategic Autonomy in Eurasia",
-      "description": "Balancing counter-terrorism cooperation under RATS with regional connectivity and security dialogue, maintaining independent diplomatic equilibrium across Eurasian powers.",
-      "url": "https://upscbrief.internal/day22/post5",
-      "source": "Ministry of External Affairs / SCO / GS2",
-      "published_at": "2026-10-27T20:00:00+05:30",
-      "category": "International Relations"
+      "id": "day13-post2-delimitation-freeze-post2026-population-balance",
+      "title": "Delimitation Freeze Post-2026: Population Balance vs Southern States' Federal Representation",
+      "description": "Analyzing constitutional provisions under Article 82 and the 84th Amendment: how post-2026 seat reallocations could penalize states that successfully implemented family planning, and federal remedies.",
+      "url": "https://upscbrief.internal/day13/post2",
+      "source": "Election Commission of India / Law Commission / GS2",
+      "published_at": "2026-10-18T11:00:00+05:30",
+      "category": "Electoral Federalism"
     },
     {
-      "id": "day23-post1-chola-bronzes-nataraja-cosmic-dance",
-      "title": "Chola Bronzes: Nataraja Cosmic Dance and Cire-Perdue Casting",
-      "description": "The lost-wax casting technique under the Chola dynasty produced the iconic Nataraja, symbolizing the cosmic cycle of creation (srishti) and dissolution (samhara).",
-      "url": "https://upscbrief.internal/day23/post1",
-      "source": "National Museum / Tamil Nadu Archaeology / GS1",
-      "published_at": "2026-10-28T08:00:00+05:30",
-      "category": "Medieval Sculpture"
+      "id": "day13-post3-dedicated-freight-corridors-edfc-wdfc",
+      "title": "Dedicated Freight Corridors (EDFC & WDFC): 90% Completed, Doubling Freight Train Speeds",
+      "description": "With over 90% of the Eastern and Western Dedicated Freight Corridors operational, average goods train speeds doubled to 60 km/h, decoupling coal and container traffic from passenger tracks.",
+      "url": "https://upscbrief.internal/day13/post3",
+      "source": "DFCCIL / Ministry of Railways / GS3",
+      "published_at": "2026-10-18T14:00:00+05:30",
+      "category": "Rail Freight & Logistics"
     },
     {
-      "id": "day23-post2-central-vigilance-commission-cvc-anticorruption",
-      "title": "Central Vigilance Commission (CVC): Anti-Corruption Architecture",
-      "description": "Created on the Santhanam Committee recommendations, the CVC exercises statutory superintendence over the CBI for corruption probes involving central government servants.",
-      "url": "https://upscbrief.internal/day23/post2",
-      "source": "Central Vigilance Commission / DoPT / GS2",
-      "published_at": "2026-10-28T11:00:00+05:30",
-      "category": "Anti-Corruption & Governance"
+      "id": "day13-post4-adityal1-solar-observatory-continuous-coronal",
+      "title": "Aditya-L1 Solar Observatory: Continuous Coronal Mass Ejection Monitoring at Lagrange Point L1",
+      "description": "Stationed at Sun-Earth Lagrange Point 1, the Visible Emission Line Coronagraph (VELC) and SUIT instruments transmitted unprecedented high-resolution ultraviolet images of solar chromospheric flares.",
+      "url": "https://upscbrief.internal/day13/post4",
+      "source": "ISRO / Department of Space / GS3",
+      "published_at": "2026-10-18T17:00:00+05:30",
+      "category": "Solar Astrophysics"
     },
     {
-      "id": "day23-post3-national-logistics-policy-nlp-unified",
-      "title": "National Logistics Policy (NLP) & Unified Logistics Interface Platform",
-      "description": "Integrating 30+ logistics systems across customs, railways, and ports, ULIP provides real-time container tracking, eliminating paper clearance bottlenecks and demurrage.",
-      "url": "https://upscbrief.internal/day23/post3",
-      "source": "DPIIT / Ministry of Commerce / GS3",
-      "published_at": "2026-10-28T14:00:00+05:30",
-      "category": "Logistics & Trade"
+      "id": "day13-post5-mission-karmayogi-and-igot-platform",
+      "title": "Mission Karmayogi and iGOT Platform: Transition from Rules-Based to Roles-Based Civil Service",
+      "description": "Analyzing behavioral competencies, competency-linked career postings, and continuous digital training for 30 lakh central government employees to enhance ethical public service delivery.",
+      "url": "https://upscbrief.internal/day13/post5",
+      "source": "Capacity Building Commission / DoPT / GS4",
+      "published_at": "2026-10-18T20:00:00+05:30",
+      "category": "Civil Service Capacity Building"
     },
     {
-      "id": "day23-post4-glacial-lake-outburst-floods-glof",
-      "title": "Glacial Lake Outburst Floods (GLOF) Early Warning Systems in the Himalayas",
-      "description": "Deploying automated weather stations and lake-level sensors at South Lhonak and vulnerable moraine-dammed lakes to alert downstream hydropower dams and valley settlements.",
-      "url": "https://upscbrief.internal/day23/post4",
-      "source": "National Disaster Management Authority / NDMA / GS3",
-      "published_at": "2026-10-28T17:00:00+05:30",
-      "category": "Disaster Management"
+      "id": "day14-post1-hoysala-sacred-ensembles-inscribed-as",
+      "title": "Hoysala Sacred Ensembles Inscribed as UNESCO World Heritage: Belur, Halebidu, Somanathapura",
+      "description": "Masterpieces of 12th-13th century stellate ground plans, chloritic schist carvings, and soapstone friezes illustrate hybrid Vesara architectural brilliance in Karnataka.",
+      "url": "https://upscbrief.internal/day14/post1",
+      "source": "Archaeological Survey of India / UNESCO / GS1",
+      "published_at": "2026-10-19T08:00:00+05:30",
+      "category": "Temple Architecture & Heritage"
     },
     {
-      "id": "day23-post5-conflict-of-interest-in-regulatory",
-      "title": "Conflict of Interest in Regulatory Watchdogs: SEBI and RBI Guidelines",
-      "description": "Case study analyzing how statutory disclosure, recusal protocols, and blind trusts prevent personal pecuniary interests from compromising securities market oversight.",
-      "url": "https://upscbrief.internal/day23/post5",
-      "source": "Securities and Exchange Board of India / GS4",
-      "published_at": "2026-10-28T20:00:00+05:30",
-      "category": "Corporate & Financial Ethics"
+      "id": "day14-post2-antidefection-law-tenth-schedule-supreme",
+      "title": "Anti-Defection Law (Tenth Schedule): Supreme Court on Speaker Powers and Timely Adjudication",
+      "description": "Supreme Court directions in Maharashtra and Manipur legislative assembly cases scrutinizing the constitutional role of the Speaker as a tribunal and the need for independent disqualification bodies.",
+      "url": "https://upscbrief.internal/day14/post2",
+      "source": "Supreme Court Records / GS2",
+      "published_at": "2026-10-19T11:00:00+05:30",
+      "category": "Parliamentary Anti-Defection"
     },
     {
-      "id": "day24-post1-geographical-indications-gi-registry-protecting",
-      "title": "Geographical Indications (GI) Registry: Protecting Indigenous Artisanship",
-      "description": "From Kashmir Pashmina and Pochampally Ikat to Darjeeling Tea, GI tags safeguard intellectual property, preserve artisan livelihoods, and prevent substandard counterfeit exports.",
-      "url": "https://upscbrief.internal/day24/post1",
-      "source": "DPIIT / GI Registry Chennai / GS1",
-      "published_at": "2026-10-29T08:00:00+05:30",
-      "category": "Traditional Craft"
+      "id": "day14-post3-sovereign-green-bonds-sgrbs-financing",
+      "title": "Sovereign Green Bonds (SGrBs): Financing Grid-Scale Solar and Public Transport Electrification",
+      "description": "RBI conducted green bond auctions raising over ₹20,000 crore to finance grid-scale solar parks, wind-solar hybrids, and electric bus fleets under India's Sovereign Green Bond Framework.",
+      "url": "https://upscbrief.internal/day14/post3",
+      "source": "Reserve Bank of India / Ministry of Finance / GS3",
+      "published_at": "2026-10-19T14:00:00+05:30",
+      "category": "Sustainable Climate Finance"
     },
     {
-      "id": "day24-post2-national-human-rights-commission-nhrc",
-      "title": "National Human Rights Commission (NHRC) and Paris Principles Compliance",
-      "description": "Evaluating NHRC powers under the Protection of Human Rights Act 1993, prison reform visits, custodial death investigations, and international accreditation criteria.",
-      "url": "https://upscbrief.internal/day24/post2",
-      "source": "National Human Rights Commission / MHA / GS2",
-      "published_at": "2026-10-29T11:00:00+05:30",
-      "category": "Human Rights & Institutions"
+      "id": "day14-post4-indigenous-mountain-weather-radars-ndma",
+      "title": "Indigenous Mountain Weather Radars: NDMA and IMD Deploying C-band Himalayan Early Warning",
+      "description": "National Disaster Management Authority (NDMA) deployed indigenous micro-radar networks across Uttarakhand and Himachal Pradesh to detect localized convective rain cells 3 hours in advance.",
+      "url": "https://upscbrief.internal/day14/post4",
+      "source": "NDMA / India Meteorological Department / GS3",
+      "published_at": "2026-10-19T17:00:00+05:30",
+      "category": "Disaster Early Warning"
     },
     {
-      "id": "day24-post3-indiaai-mission-sovereign-gpu-infrastructure",
-      "title": "IndiaAI Mission: Sovereign GPU Infrastructure and Foundational Models",
-      "description": "Investing ₹10,372 crore to build a public computing grid of 10,000+ GPUs, train multi-lingual foundational models, and finance AI startups targeting healthcare and agriculture.",
-      "url": "https://upscbrief.internal/day24/post3",
-      "source": "MeitY / IndiaAI Programme / GS3",
-      "published_at": "2026-10-29T14:00:00+05:30",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "day24-post4-project-tiger-at-50-management",
-      "title": "Project Tiger at 50: Management Effectiveness Evaluation (MEE) of Reserves",
-      "description": "Marking 50 years of Project Tiger, scientific camera-trapping census recorded 3,682+ tigers (75% of global wild tigers), highlighting critical interstate corridor protection.",
-      "url": "https://upscbrief.internal/day24/post4",
-      "source": "National Tiger Conservation Authority / WII / GS3",
-      "published_at": "2026-10-29T17:00:00+05:30",
-      "category": "Wildlife Conservation"
-    },
-    {
-      "id": "day24-post5-the-quad-indopacific-maritime-domain",
-      "title": "The Quad: Indo-Pacific Maritime Domain Awareness (IPMDA) Initiative",
-      "description": "India, US, Japan, and Australia collaborate using commercial satellite data to track illegal fishing, maritime militia movements, and dark vessels across the Indian and Pacific Oceans.",
-      "url": "https://upscbrief.internal/day24/post5",
-      "source": "Ministry of External Affairs / Quad Joint Statement / GS2",
-      "published_at": "2026-10-29T20:00:00+05:30",
-      "category": "Geopolitics & Indo-Pacific"
-    },
-    {
-      "id": "day25-post1-jyotirao-savitribai-phule-pioneer-of",
-      "title": "Jyotirao & Savitribai Phule: Pioneer of Anti-Caste and Girls' Education",
-      "description": "Establishing India's first school for girls in Bhide Wada Pune in 1848 and founding the Satyashodhak Samaj, the Phules dismantled Brahmanical hegemony and championed widow remarriage.",
-      "url": "https://upscbrief.internal/day25/post1",
-      "source": "Ministry of Social Justice / National Archives / GS1",
-      "published_at": "2026-10-30T08:00:00+05:30",
-      "category": "Social Reform"
-    },
-    {
-      "id": "day25-post2-antidefection-law-tenth-schedule-interpretation",
-      "title": "Anti-Defection Law: Tenth Schedule Interpretation and Speaker Neutrality",
-      "description": "Examining Kihoto Hollohan and recent Maharashtra legislative verdicts on whether presiding officers must resolve disqualification petitions expeditiously and objectively.",
-      "url": "https://upscbrief.internal/day25/post2",
-      "source": "Supreme Court Records / Lok Sabha Secretariat / GS2",
-      "published_at": "2026-10-30T11:00:00+05:30",
-      "category": "Electoral & Parliamentary Law"
-    },
-    {
-      "id": "day25-post3-national-critical-minerals-mission-lithium",
-      "title": "National Critical Minerals Mission: Lithium, Cobalt, and Rare Earth Security",
-      "description": "Auctions of offshore and critical mineral blocks in J&K, Chhattisgarh, and Karnataka aim to secure raw materials for EV batteries, aerospace, and solar panels.",
-      "url": "https://upscbrief.internal/day25/post3",
-      "source": "Ministry of Mines / Geological Survey of India / GS3",
-      "published_at": "2026-10-30T14:00:00+05:30",
-      "category": "Mining & Strategic Minerals"
-    },
-    {
-      "id": "day25-post4-plastic-waste-management-rules-extended",
-      "title": "Plastic Waste Management Rules: Extended Producer Responsibility (EPR)",
-      "description": "Banning single-use plastics and enforcing digital EPR certificates on brand owners and packaging importers to finance formal recycling and eliminate multi-layered plastic waste.",
-      "url": "https://upscbrief.internal/day25/post4",
-      "source": "MoEFCC / Central Pollution Control Board / GS3",
-      "published_at": "2026-10-30T17:00:00+05:30",
-      "category": "Waste Management & Environment"
-    },
-    {
-      "id": "day25-post5-public-duty-vs-official-secrecy",
-      "title": "Public Duty vs Official Secrecy: Ethical Dilemmas Under the OSA 1923",
-      "description": "Case study analyzing how civil servants balance classified information restrictions under the colonial Official Secrets Act against moral duty to expose public health risks.",
-      "url": "https://upscbrief.internal/day25/post5",
-      "source": "Second ARC / Law Commission / GS4",
-      "published_at": "2026-10-30T20:00:00+05:30",
-      "category": "Administrative Ethics"
-    },
-    {
-      "id": "day26-post1-national-unity-day-sardar-patel",
-      "title": "National Unity Day: Sardar Patel and the Integration of 565 Princely States",
-      "description": "Employing statesmanship, Privy Purses, and resolute firmness in Junagadh and Hyderabad, Sardar Patel and VP Menon unified sovereign India into a single constitutional republic.",
-      "url": "https://upscbrief.internal/day26/post1",
-      "source": "Ministry of Home Affairs / National Archives / GS1",
-      "published_at": "2026-10-31T08:00:00+05:30",
-      "category": "Post-Independence Consolidation"
-    },
-    {
-      "id": "day26-post2-mission-karmayogi-competencydriven-civil-services",
-      "title": "Mission Karmayogi: Competency-Driven Civil Services Capacity Building",
-      "description": "Transitioning civil services from rules-based to roles-based performance, the iGOT Karmayogi digital platform delivers continuous online training in integrity and citizen-centric governance.",
-      "url": "https://upscbrief.internal/day26/post2",
-      "source": "DoPT / Capacity Building Commission / GS2",
-      "published_at": "2026-10-31T11:00:00+05:30",
-      "category": "Civil Services Reforms"
-    },
-    {
-      "id": "day26-post3-sovereign-green-bonds-mobilizing-domestic",
-      "title": "Sovereign Green Bonds: Mobilizing Domestic Capital for Decarbonization",
-      "description": "The Ministry of Finance issues rupee-denominated sovereign green bonds (SGrBs), using greenium yields to fund grid-scale solar, transmission lines, and metro rail networks.",
-      "url": "https://upscbrief.internal/day26/post3",
-      "source": "Ministry of Finance / Reserve Bank of India / GS3",
-      "published_at": "2026-10-31T14:00:00+05:30",
-      "category": "Green Finance"
-    },
-    {
-      "id": "day26-post4-project-dolphin-conserving-gangetic-and",
-      "title": "Project Dolphin: Conserving Gangetic and Indus River Dolphins",
-      "description": "Protecting endangered blind freshwater dolphins as apex river health indicators through acoustic monitoring, anti-poaching patrols, and sustainable non-destructive fishing nets.",
-      "url": "https://upscbrief.internal/day26/post4",
-      "source": "MoEFCC / Wildlife Institute of India / GS3",
-      "published_at": "2026-10-31T17:00:00+05:30",
-      "category": "Riverine Ecology"
-    },
-    {
-      "id": "day26-post5-cybersecurity-threat-vectors-certin-directives",
-      "title": "Cybersecurity Threat Vectors: CERT-In Directives and Critical Infrastructure",
-      "description": "Mandating 6-hour incident reporting, CERT-In bolsters national cyber-defense across power grids, financial switches, and telecom nodes against advanced persistent threat (APT) groups.",
-      "url": "https://upscbrief.internal/day26/post5",
-      "source": "MeitY / CERT-In Annual Report / GS3",
-      "published_at": "2026-10-31T20:00:00+05:30",
-      "category": "Cybersecurity & National Defense"
-    },
-    {
-      "id": "day27-post1-linguistic-reorganisation-of-states-fazal",
-      "title": "Linguistic Reorganisation of States: Fazal Ali Commission of 1953",
-      "description": "Following Potti Sreeramulu's hunger strike, the States Reorganisation Act 1956 harmonized linguistic aspirations with administrative unity, cementing democratic federalism.",
-      "url": "https://upscbrief.internal/day27/post1",
-      "source": "Ministry of Home Affairs / National Archives / GS1",
-      "published_at": "2026-11-01T08:00:00+05:30",
-      "category": "Post-Independence History"
-    },
-    {
-      "id": "day27-post2-social-audit-under-mgnrega-institutionalizing",
-      "title": "Social Audit Under MGNREGA: Institutionalizing Citizen Oversight",
-      "description": "Empowering Gram Sabhas to independently scrutinize muster rolls, work completion certificates, and wage disbursals, eliminating ghost beneficiaries and contractor collusion.",
-      "url": "https://upscbrief.internal/day27/post2",
-      "source": "Ministry of Rural Development / CAG / GS2",
-      "published_at": "2026-11-01T11:00:00+05:30",
-      "category": "Grassroots Democracy"
-    },
-    {
-      "id": "day27-post3-pradhan-mantri-matsya-sampada-yojana",
-      "title": "Pradhan Mantri Matsya Sampada Yojana: Modernizing India's Marine Fisheries",
-      "description": "With ₹20,050 crore outlay, PMMSY finances deep-sea fishing vessels, biofloc ponds, cold chain logistics, and sea-cage farming, transforming India into the #2 aquaculture producer.",
-      "url": "https://upscbrief.internal/day27/post3",
-      "source": "Department of Fisheries / PIB / GS3",
-      "published_at": "2026-11-01T14:00:00+05:30",
-      "category": "Blue Economy & Fisheries"
-    },
-    {
-      "id": "day27-post4-mission-life-lifestyle-for-environment",
-      "title": "Mission LiFE (Lifestyle for Environment): Sustainable Living Framework",
-      "description": "Championed at COP26, Mission LiFE mobilizes 1 billion people toward individual behavioral nudges—energy conservation, circular waste, and chemical-free diets—to curb carbon footprints.",
-      "url": "https://upscbrief.internal/day27/post4",
-      "source": "NITI Aayog / MoEFCC / GS3",
-      "published_at": "2026-11-01T17:00:00+05:30",
-      "category": "Climate Action & Citizen Movement"
-    },
-    {
-      "id": "day27-post5-indiaafrica-forum-summit-historic-induction",
-      "title": "India-Africa Forum Summit: Historic Induction of African Union into G20",
-      "description": "Spearheaded by India at the New Delhi G20 Summit, the African Union's permanent membership anchors Global South representation across international economic rulemaking.",
-      "url": "https://upscbrief.internal/day27/post5",
+      "id": "day14-post5-indiafrance-strategic-partnership-horizon-2047",
+      "title": "India-France Strategic Partnership: Horizon 2047 Roadmap and Indo-Pacific Defense Co-Design",
+      "description": "Deepening defense co-design on Scorpene submarines, Safran aircraft engines, and joint surveillance flights from Reunion Island to secure vital sea lines of communication.",
+      "url": "https://upscbrief.internal/day14/post5",
       "source": "Ministry of External Affairs / GS2",
-      "published_at": "2026-11-01T20:00:00+05:30",
-      "category": "Foreign Policy"
+      "published_at": "2026-10-19T20:00:00+05:30",
+      "category": "Indo-Pacific Strategic Bilaterals"
     },
     {
-      "id": "day28-post1-raja-ram-mohan-roy-and",
-      "title": "Raja Ram Mohan Roy and the Bengal Renaissance: Abolition of Sati 1829",
-      "description": "Fusing Upanishadic monotheism with Western rationalism, Ram Mohan Roy founded the Brahmo Samaj, championing free press, women's property rights, and the Sati Regulation XVII.",
-      "url": "https://upscbrief.internal/day28/post1",
-      "source": "Ministry of Culture / National Archives / GS1",
-      "published_at": "2026-11-02T08:00:00+05:30",
-      "category": "Modern Social Reform"
+      "id": "day15-post1-pmjanman-scheme-24104-crore-saturation",
+      "title": "PM-JANMAN Scheme: ₹24,104 Crore Saturation Mission for 75 PVTG Tribal Communities",
+      "description": "₹24,104 crore multisectoral saturation mission providing pucca housing, piped drinking water, solar electricity, and mobile medical vans to Particularly Vulnerable Tribal Groups across 18 states.",
+      "url": "https://upscbrief.internal/day15/post1",
+      "source": "Ministry of Tribal Affairs / PIB / GS1",
+      "published_at": "2026-10-20T08:00:00+05:30",
+      "category": "Vulnerable Tribal Welfare"
     },
     {
-      "id": "day28-post2-rti-act-and-section-8",
-      "title": "RTI Act and Section 8 Exemptions: Judicial Discourse on Public Interest",
-      "description": "Examining judicial thresholds where the public interest in disclosure outweighs privacy or state secrecy exemptions, safeguarding citizens' right to inspect government decisions.",
-      "url": "https://upscbrief.internal/day28/post2",
-      "source": "Central Information Commission / SC / GS2",
-      "published_at": "2026-11-02T11:00:00+05:30",
-      "category": "Transparency & Governance"
+      "id": "day15-post2-supreme-court-reaffirms-fundamental-liberty",
+      "title": "Supreme Court Reaffirms Fundamental Liberty: Bail is the Rule, Jail is the Exception",
+      "description": "In multiple 2024 judgments, apex court reiterated that arbitrary denial of bail infringes Article 21, directing trial courts to refrain from routinely remanding accused persons without substantiated necessity.",
+      "url": "https://upscbrief.internal/day15/post2",
+      "source": "Supreme Court Records / GS2",
+      "published_at": "2026-10-20T11:00:00+05:30",
+      "category": "Criminal Justice & Bail"
     },
     {
-      "id": "day28-post3-dedicated-freight-corridors-dfcs-slashing",
-      "title": "Dedicated Freight Corridors (DFCs): Slashing Heavy Rail Transit Times",
-      "description": "Eastern and Western DFCs segregate heavy freight trains from passenger lines, enabling 100 km/h double-stack container trains and slashing logistics transit time by 50%.",
-      "url": "https://upscbrief.internal/day28/post3",
-      "source": "Ministry of Railways / DFCCIL / GS3",
-      "published_at": "2026-11-02T14:00:00+05:30",
-      "category": "Railways & Logistics"
+      "id": "day15-post3-indiaai-mission-approved-10372-crore",
+      "title": "IndiaAI Mission Approved: ₹10,372 Crore for 10,000 GPU Sovereign AI Compute Infrastructure",
+      "description": "Cabinet approved the IndiaAI Mission to build sovereign compute capacity with over 10,000 GPUs, establish foundational multilingual Indic LLMs, and fund domestic AI startups.",
+      "url": "https://upscbrief.internal/day15/post3",
+      "source": "MeitY / IndiaAI / PIB / GS3",
+      "published_at": "2026-10-20T14:00:00+05:30",
+      "category": "Sovereign AI Infrastructure"
     },
     {
-      "id": "day28-post4-international-solar-alliance-isa-one",
-      "title": "International Solar Alliance (ISA): One Sun, One World, One Grid",
-      "description": "Headquartered in Gurugram with 120+ member nations, ISA unlocks concessional solar finance and envisions cross-border transmission grids sharing clean solar power across time zones.",
-      "url": "https://upscbrief.internal/day28/post4",
-      "source": "International Solar Alliance / MNRE / GS3",
-      "published_at": "2026-11-02T17:00:00+05:30",
-      "category": "Solar Diplomacy"
+      "id": "day15-post4-project-cheetah-secondgeneration-wild-cubs",
+      "title": "Project Cheetah: Second-Generation Wild Cubs Born at Kuno National Park Confirm Adaptation",
+      "description": "Birth of second-generation cheetah cubs in Madhya Pradesh's Kuno National Park marks a critical survival milestone in the world's first intercontinental translocation of wild large carnivores.",
+      "url": "https://upscbrief.internal/day15/post4",
+      "source": "NTCA / MoEFCC / GS3",
+      "published_at": "2026-10-20T17:00:00+05:30",
+      "category": "Carnivore Conservation"
     },
     {
-      "id": "day28-post5-moral-courage-and-integrity-resisting",
-      "title": "Moral Courage and Integrity: Resisting Unethical Executive Orders",
-      "description": "Case study analyzing civil servants who exercised constitutional conscience and moral courage to uphold procurement guidelines and reject illegal patronage directives.",
-      "url": "https://upscbrief.internal/day28/post5",
-      "source": "Ethics in Governance / DoPT / GS4",
-      "published_at": "2026-11-02T20:00:00+05:30",
-      "category": "Moral Courage"
+      "id": "day15-post5-ethics-of-compassionate-governance-doorstep",
+      "title": "Ethics of Compassionate Governance: Doorstep Delivery of Social Security and Pensions",
+      "description": "Case study on state and municipal initiatives delivering rations, certificates, and healthcare to bedridden elderly citizens, illustrating duty-bound administrative benevolence.",
+      "url": "https://upscbrief.internal/day15/post5",
+      "source": "DARPG / National e-Governance Division / GS4",
+      "published_at": "2026-10-20T20:00:00+05:30",
+      "category": "Compassionate Public Administration"
     },
     {
-      "id": "day29-post1-netaji-subhas-chandra-bose-and",
-      "title": "Netaji Subhas Chandra Bose and the Azad Hind Fauj: Military Diplomacy",
-      "description": "Forming the Provisional Government of Azad Hind in Singapore in 1943, Netaji mobilized the INA, Rani of Jhansi Regiment, and international diplomacy to challenge British colonial rule.",
-      "url": "https://upscbrief.internal/day29/post1",
-      "source": "National Archives of India / Ministry of Culture / GS1",
-      "published_at": "2026-11-03T08:00:00+05:30",
-      "category": "Freedom Movement"
+      "id": "day16-post1-jal-shakti-abhiyan-catch-the",
+      "title": "Jal Shakti Abhiyan (Catch the Rain): Rejuvenating 68,000 Amrit Sarovars Across Rural Districts",
+      "description": "Construction and desiltation of over 68,000 Amrit Sarovar village lakes nationwide recharges groundwater aquifers and blends traditional tank systems with GIS geotagging.",
+      "url": "https://upscbrief.internal/day16/post1",
+      "source": "Ministry of Jal Shakti / PIB / GS1",
+      "published_at": "2026-10-21T08:00:00+05:30",
+      "category": "Rural Water Conservation"
     },
     {
-      "id": "day29-post2-national-medical-commission-nmc-reforming",
-      "title": "National Medical Commission (NMC): Reforming Healthcare Education Standards",
-      "description": "Replacing the Medical Council of India, the NMC enforces the National Exit Test (NExT), standardized fee regulations, and accreditation to bridge rural specialist doctor deficits.",
-      "url": "https://upscbrief.internal/day29/post2",
-      "source": "Ministry of Health and Family Welfare / NMC / GS2",
-      "published_at": "2026-11-03T11:00:00+05:30",
-      "category": "Health & Social Justice"
+      "id": "day16-post2-kovind-committee-report-on-simultaneous",
+      "title": "Kovind Committee Report on Simultaneous Elections: Synchronizing Lok Sabha and Assembly Polls",
+      "description": "Submitting its 18,626-page report, the committee recommended amending Articles 83, 172, and 327 to synchronize Lok Sabha and Assembly elections, followed by local body elections within 100 days.",
+      "url": "https://upscbrief.internal/day16/post2",
+      "source": "High-Level Committee on Simultaneous Elections / GS2",
+      "published_at": "2026-10-21T11:00:00+05:30",
+      "category": "Simultaneous Elections Debate"
     },
     {
-      "id": "day29-post3-pm-fasal-bima-yojana-drone",
-      "title": "PM Fasal Bima Yojana: Drone and Satellite Crop Loss Verification",
-      "description": "Integrating YES-TECH yield estimation and WINDS weather stations, PMFBY replaced manual crop cutting experiments with satellite remote-sensing for transparent claim payouts.",
-      "url": "https://upscbrief.internal/day29/post3",
-      "source": "Ministry of Agriculture / PIB / GS3",
-      "published_at": "2026-11-03T14:00:00+05:30",
-      "category": "Agrarian Insurance"
+      "id": "day16-post3-pm-edrive-scheme-10900-crore",
+      "title": "PM E-DRIVE Scheme: ₹10,900 Crore Electric Mobility Framework Succeeding FAME-II",
+      "description": "Subsidizing 24 lakh electric two-wheelers, 3 lakh e-three-wheelers, and 14,028 public e-buses while financing 72,300 fast-charging stations across major highways and smart cities.",
+      "url": "https://upscbrief.internal/day16/post3",
+      "source": "Ministry of Heavy Industries / PIB / GS3",
+      "published_at": "2026-10-21T14:00:00+05:30",
+      "category": "Clean Mobility Transition"
     },
     {
-      "id": "day29-post4-indian-antarctic-and-arctic-programme",
-      "title": "Indian Antarctic and Arctic Programme: Maitri, Bharati, and Himadri",
-      "description": "Enacting the Indian Antarctic Act 2022, India conducts glaciology and deep ice-core drilling in polar stations to study past climatic fluctuations and sea-level rise.",
-      "url": "https://upscbrief.internal/day29/post4",
-      "source": "National Centre for Polar and Ocean Research / MoES / GS3",
-      "published_at": "2026-11-03T17:00:00+05:30",
-      "category": "Polar Science & Climate"
+      "id": "day16-post4-nsil-and-small-satellite-launch",
+      "title": "NSIL and Small Satellite Launch Vehicle (SSLV): Commercialization of Dedicated Rideshares",
+      "description": "Completion of Small Satellite Launch Vehicle (SSLV) developmental flights paves the way for commercial mass-production by private consortia, targeting the global 500-kg small satellite launch market.",
+      "url": "https://upscbrief.internal/day16/post4",
+      "source": "ISRO / NewSpace India Limited / GS3",
+      "published_at": "2026-10-21T17:00:00+05:30",
+      "category": "Commercial Space Launch"
     },
     {
-      "id": "day29-post5-indiaus-critical-emerging-technology-icet",
-      "title": "India-US Critical & Emerging Technology (iCET) Partnership",
-      "description": "Fostering strategic co-production in jet engines (GE F414), semiconductor supply chains, quantum research, and AI defense applications under the bilateral iCET framework.",
-      "url": "https://upscbrief.internal/day29/post5",
+      "id": "day16-post5-indiacentral-asia-regional-connectivity-ashgabat",
+      "title": "India-Central Asia Regional Connectivity: Ashgabat Agreement and INSTC Integration",
+      "description": "Expanding trade connectivity through Chabahar, INSTC, and the Ashgabat transit pact to counter Chinese footprint in Kazakhstan, Uzbekistan, and Tajikistan while securing uranium supplies.",
+      "url": "https://upscbrief.internal/day16/post5",
       "source": "Ministry of External Affairs / GS2",
-      "published_at": "2026-11-03T20:00:00+05:30",
-      "category": "Defense Diplomacy"
+      "published_at": "2026-10-21T20:00:00+05:30",
+      "category": "Central Asian Connectivity"
     },
     {
-      "id": "day30-post1-constituent-assembly-debates-dr-br",
-      "title": "Constituent Assembly Debates: Dr. B.R. Ambedkar and the Living Constitution",
-      "description": "Deliberating over 2 years 11 months and 18 days, the Assembly reconciled diverse views on fundamental rights, directive principles, and federal autonomy into a living document.",
-      "url": "https://upscbrief.internal/day30/post1",
-      "source": "Parliament of India / Law Ministry / GS1",
-      "published_at": "2026-11-04T08:00:00+05:30",
-      "category": "Constitutional History"
+      "id": "day17-post1-classical-language-status-conferred-on",
+      "title": "Classical Language Status Conferred on 5 New Languages: Marathi, Bengali, Pali, Prakrit, Assamese",
+      "description": "Union Cabinet expanded the criteria and recognized 5 additional languages for their antiquity, high recorded history exceeding 1,500 years, and distinct literary heritage, taking the total to 11.",
+      "url": "https://upscbrief.internal/day17/post1",
+      "source": "Ministry of Culture / PIB / GS1",
+      "published_at": "2026-10-22T08:00:00+05:30",
+      "category": "Linguistic Heritage"
     },
     {
-      "id": "day30-post2-good-governance-index-ggi-benchmarking",
-      "title": "Good Governance Index (GGI): Benchmarking State and District Performance",
-      "description": "Assessing states across 10 sectors including agriculture, commerce, public infrastructure, and judiciary to foster competitive and cooperative federalism in service delivery.",
-      "url": "https://upscbrief.internal/day30/post2",
+      "id": "day17-post2-governor-discretionary-powers-supreme-court",
+      "title": "Governor Discretionary Powers: Supreme Court Scrutinizes State Executive Deadlocks under Article 163",
+      "description": "Examining constitutional boundaries of discretionary executive authority under Article 163, assent to bills passed twice by legislatures, and university chancellor appointment disputes.",
+      "url": "https://upscbrief.internal/day17/post2",
+      "source": "Supreme Court Records / GS2",
+      "published_at": "2026-10-22T11:00:00+05:30",
+      "category": "Executive-Legislature Federalism"
+    },
+    {
+      "id": "day17-post3-namo-bharat-rrts-and-vande",
+      "title": "Namo Bharat (RRTS) and Vande Metro: Modernizing Regional Intercity Rapid Transit",
+      "description": "Delhi-Meerut Regional Rapid Transit System (160 km/h) and semi-high-speed Vande Metro rakes transform peri-urban commuting, reducing carbon emissions and congestion in NCR.",
+      "url": "https://upscbrief.internal/day17/post3",
+      "source": "NCRTC / Ministry of Housing and Urban Affairs / GS3",
+      "published_at": "2026-10-22T14:00:00+05:30",
+      "category": "Regional Rapid Transit"
+    },
+    {
+      "id": "day17-post4-mishti-scheme-mangrove-conservation-for",
+      "title": "MISHTI Scheme: Mangrove Conservation for 540 Sq Km Shoreline Climate Resilience",
+      "description": "Mangrove Initiative for Shoreline Habitats & Tangible Incomes coordinates CAMPA and MGNREGS funds to plant salt-tolerant mangrove buffers across 11 coastal states to mitigate tropical cyclone surges.",
+      "url": "https://upscbrief.internal/day17/post4",
+      "source": "MoEFCC / PIB / GS3",
+      "published_at": "2026-10-22T17:00:00+05:30",
+      "category": "Coastal Mangrove Ecology"
+    },
+    {
+      "id": "day17-post5-corporate-governance-ethics-sebi-lodr",
+      "title": "Corporate Governance Ethics: SEBI LODR Stricter Disclosures on Related Party Transactions",
+      "description": "Analysis of ethical responsibilities of independent directors, forensic audit mandates, and minority shareholder protections against promoter-level wealth stripping.",
+      "url": "https://upscbrief.internal/day17/post5",
+      "source": "SEBI / Ministry of Corporate Affairs / GS4",
+      "published_at": "2026-10-22T20:00:00+05:30",
+      "category": "Corporate Transparency"
+    },
+    {
+      "id": "day18-post1-flash-droughts-in-southern-india",
+      "title": "Flash Droughts in Southern India: Soil Moisture Depletion and Pre-Monsoon Heat Anomalies",
+      "description": "Analyzing the rapid onset of flash droughts driven by heat extremes and deficient pre-monsoon precipitation, contrasting mechanisms against traditional slow-onset meteorological droughts.",
+      "url": "https://upscbrief.internal/day18/post1",
+      "source": "Indian Institute of Science / IMD / GS1",
+      "published_at": "2026-10-23T08:00:00+05:30",
+      "category": "Hydro-Meteorological Anomalies"
+    },
+    {
+      "id": "day18-post2-cpgrams-70-and-aipowered-citizen",
+      "title": "CPGRAMS 7.0 and AI-Powered Citizen Grievance Redressal (SEVOTTAM Institutional Model)",
+      "description": "Department of Administrative Reforms deployed predictive AI models on the Centralized Public Grievance Redress and Monitoring System, reducing average resolution time from 30 days to 16 days.",
+      "url": "https://upscbrief.internal/day18/post2",
       "source": "DARPG / Ministry of Personnel / GS2",
+      "published_at": "2026-10-23T11:00:00+05:30",
+      "category": "Digital Citizen Redressal"
+    },
+    {
+      "id": "day18-post3-national-pulses-selfsufficiency-mission-100",
+      "title": "National Pulses Self-Sufficiency Mission: 100% Procurement Guarantee on Tur, Urad, Masur",
+      "description": "Ministry of Agriculture introduced 100% procurement portals via NAFED and NCCF for registered pulse farmers, encouraging crop diversification away from water-guzzling paddy.",
+      "url": "https://upscbrief.internal/day18/post3",
+      "source": "Ministry of Agriculture / NAFED / GS3",
+      "published_at": "2026-10-23T14:00:00+05:30",
+      "category": "Food Security & Pulses"
+    },
+    {
+      "id": "day18-post4-drdo-directed-energy-weapons-dews",
+      "title": "DRDO Directed Energy Weapons (DEWs): High-Power Laser and Microwave Anti-Drone Shield",
+      "description": "Induction of vehicle-mounted laser counter-drone systems capable of soft-kill jamming and hard-kill destruction of hostile quadcopters along western borders.",
+      "url": "https://upscbrief.internal/day18/post4",
+      "source": "DRDO / Ministry of Defence / GS3",
+      "published_at": "2026-10-23T17:00:00+05:30",
+      "category": "Defense Directed Energy"
+    },
+    {
+      "id": "day18-post5-indiasri-lanka-economic-partnership-multiproduct",
+      "title": "India-Sri Lanka Economic Partnership: Multi-Product Pipeline and Land Bridge Connectivity",
+      "description": "Advancing multi-product petroleum pipeline from Southern India to Trincomalee, cross-strait electricity transmission link, and UPI merchant payments in Sri Lanka.",
+      "url": "https://upscbrief.internal/day18/post5",
+      "source": "Ministry of External Affairs / GS2",
+      "published_at": "2026-10-23T20:00:00+05:30",
+      "category": "Neighborhood First Policy"
+    },
+    {
+      "id": "day19-post1-caqm-air-quality-enforcement-in",
+      "title": "CAQM Air Quality Enforcement in NCR: Bio-Decomposers and Biomass Pellet Co-Firing Mandates",
+      "description": "Commission for Air Quality Management implemented bio-decomposer spraying, crop residue ex-situ biomass pellets in thermal plants, and satellite monitoring via bio-mass fire thermal alerts.",
+      "url": "https://upscbrief.internal/day19/post1",
+      "source": "Commission for Air Quality Management / CPCB / GS1",
+      "published_at": "2026-10-24T08:00:00+05:30",
+      "category": "Urban Air Quality & Geography"
+    },
+    {
+      "id": "day19-post2-model-prisons-and-correctional-services",
+      "title": "Model Prisons and Correctional Services Act 2023: Modernizing Inmate Rehabilitation and Rights",
+      "description": "Shifting prison administration from punitive incarceration to reformative correctional governance, introducing biometric monitoring, video-conferencing courts, and parole review guidelines.",
+      "url": "https://upscbrief.internal/day19/post2",
+      "source": "Bureau of Police Research and Development / MHA / GS2",
+      "published_at": "2026-10-24T11:00:00+05:30",
+      "category": "Penal Reforms & Rights"
+    },
+    {
+      "id": "day19-post3-reserve-bank-digital-rupee-e",
+      "title": "Reserve Bank Digital Rupee (e₹): Offline and Programmable CBDC Pilot Rollout",
+      "description": "RBI expanded retail Central Bank Digital Currency (CBDC) to offline peer-to-peer payments in remote areas and programmable purpose-bound agricultural subsidies.",
+      "url": "https://upscbrief.internal/day19/post3",
+      "source": "Reserve Bank of India / GS3",
+      "published_at": "2026-10-24T14:00:00+05:30",
+      "category": "Central Bank Digital Currency"
+    },
+    {
+      "id": "day19-post4-great-nicobar-island-holistic-development",
+      "title": "Great Nicobar Island Holistic Development Project: Strategic Maritime Port vs Ecological Safeguards",
+      "description": "₹72,000 crore project at Galathea Bay encompassing an international transshipment port and military airbase, scrutinized for biodiversity impacts on Shompen tribes and leatherback turtles.",
+      "url": "https://upscbrief.internal/day19/post4",
+      "source": "NITI Aayog / MoEFCC / GS3",
+      "published_at": "2026-10-24T17:00:00+05:30",
+      "category": "Strategic Ecology Balance"
+    },
+    {
+      "id": "day19-post5-supreme-court-guidelines-against-bulldozer",
+      "title": "Supreme Court Guidelines Against Bulldozer Actions: Procedural Due Process in Demolitions",
+      "description": "Supreme Court laid down pan-India guidelines against 'bulldozer justice', mandating 15-day prior notice, statutory hearing, and video recording to uphold constitutional rule of law.",
+      "url": "https://upscbrief.internal/day19/post5",
+      "source": "Supreme Court of India / GS4",
+      "published_at": "2026-10-24T20:00:00+05:30",
+      "category": "Rule of Law in Enforcement"
+    },
+    {
+      "id": "day20-post1-millets-shree-anna-movement-climateresilient",
+      "title": "Millets (Shree Anna) Movement: Climate-Resilient Dryland Farming and Nutritional Diversity",
+      "description": "Fostering production of finger millet (Ragi), pearl millet (Bajra), and sorghum (Jowar), reviving climate-hardy nutri-cereals requiring 70% less water than rice.",
+      "url": "https://upscbrief.internal/day20/post1",
+      "source": "ICAR / Ministry of Agriculture / GS1",
+      "published_at": "2026-10-25T08:00:00+05:30",
+      "category": "Agrarian Geography & Millets"
+    },
+    {
+      "id": "day20-post2-national-judicial-data-grid-njdg",
+      "title": "National Judicial Data Grid (NJDG): Supreme Court Onboarding and Case Pendency Analytics",
+      "description": "Integration of Supreme Court on NJDG provides open-access pendency analytics, highlighting vacancy backlogs in district judiciaries and Fast Track Special Courts (FTSCs).",
+      "url": "https://upscbrief.internal/day20/post2",
+      "source": "e-Courts Project / Supreme Court / GS2",
+      "published_at": "2026-10-25T11:00:00+05:30",
+      "category": "Judicial Technology & Open Data"
+    },
+    {
+      "id": "day20-post3-draft-national-blue-economy-policy",
+      "title": "Draft National Blue Economy Policy: Sustainable Offshore Energy, Mariculture, and Green Shipping",
+      "description": "Harnessing 7,517 km coastline for offshore wind energy, marine aquaculture, coastal shipping, and green ship recycling under the Hong Kong Convention standards.",
+      "url": "https://upscbrief.internal/day20/post3",
+      "source": "Ministry of Earth Sciences / NITI Aayog / GS3",
+      "published_at": "2026-10-25T14:00:00+05:30",
+      "category": "Marine Economy & Resources"
+    },
+    {
+      "id": "day20-post4-nisar-satellite-joint-isronasa-radar",
+      "title": "NISAR Satellite: Joint ISRO-NASA Radar Observatory Tracking Global Earth Surface Dynamics",
+      "description": "World's first dual-frequency (L-band and S-band) sweepSAR mission tracking Earth's surface deformation, glacier velocity, forest biomass changes, and tectonic plate strain at centimeter scale.",
+      "url": "https://upscbrief.internal/day20/post4",
+      "source": "ISRO / NASA / Department of Space / GS3",
+      "published_at": "2026-10-25T17:00:00+05:30",
+      "category": "Space Radar Remote Sensing"
+    },
+    {
+      "id": "day20-post5-african-union-permanent-membership-in",
+      "title": "African Union Permanent Membership in G20: Landmark Indian Diplomatic Consensus",
+      "description": "Analyzing India's successful steering of the 55-nation African Union into permanent G20 membership, reshaping multilateral consensus on global financial architecture reform.",
+      "url": "https://upscbrief.internal/day20/post5",
+      "source": "Ministry of External Affairs / G20 Secretariat / GS2",
+      "published_at": "2026-10-25T20:00:00+05:30",
+      "category": "Multilateral Diplomatic Wins"
+    },
+    {
+      "id": "day21-post1-western-ghats-ecologically-sensitive-areas",
+      "title": "Western Ghats Ecologically Sensitive Areas (ESA) Draft Notification: Balancing Livelihood and Ecology",
+      "description": "MoEFCC renotified 56,825 sq km across six states as ecologically sensitive, balancing prohibition of red-category mining/quarrying against local farming and plantation livelihoods.",
+      "url": "https://upscbrief.internal/day21/post1",
+      "source": "MoEFCC / Western Ghats Ecology Panel / GS1",
+      "published_at": "2026-10-26T08:00:00+05:30",
+      "category": "Western Ghats Eco-Zoning"
+    },
+    {
+      "id": "day21-post2-interstate-river-water-disputes-amendment",
+      "title": "Inter-State River Water Disputes (Amendment) Bill: Single Permanent Tribunal Architecture",
+      "description": "Proposing a standalone permanent tribunal with specialized benches and mandatory Dispute Resolution Committees (DRC) to end decadal litigations over Cauvery, Krishna, and Mahanadi.",
+      "url": "https://upscbrief.internal/day21/post2",
+      "source": "Ministry of Jal Shakti / Law Ministry / GS2",
+      "published_at": "2026-10-26T11:00:00+05:30",
+      "category": "Water Federalism & Disputes"
+    },
+    {
+      "id": "day21-post3-pradhan-mantri-matsya-sampada-yojana",
+      "title": "Pradhan Mantri Matsya Sampada Yojana (PMMSY): Reaching ₹20,000 Crore Fisheries Output",
+      "description": "Scaling coastal aquaculture clusters, seaweed parks in Tamil Nadu, and modern cold-chain infrastructure to double seafood export revenues and enhance fisher insurance safety nets.",
+      "url": "https://upscbrief.internal/day21/post3",
+      "source": "Department of Fisheries / PIB / GS3",
+      "published_at": "2026-10-26T14:00:00+05:30",
+      "category": "Fisheries Modernization"
+    },
+    {
+      "id": "day21-post4-indigenous-bharat-6g-vision-standardizing",
+      "title": "Indigenous Bharat 6G Vision: Standardizing Next-Generation Telecommunications Patents",
+      "description": "Department of Telecommunications allocated R&D grants to academic-industry consortia to file essential patents in terahertz communications, intelligent reflecting surfaces, and tactile internet.",
+      "url": "https://upscbrief.internal/day21/post4",
+      "source": "Department of Telecommunications / ITU / GS3",
+      "published_at": "2026-10-26T17:00:00+05:30",
+      "category": "Telecom Standards & 6G"
+    },
+    {
+      "id": "day21-post5-conflict-of-interest-norms-in",
+      "title": "Conflict of Interest Norms in Expert Advisory Panels: Institutional Transparency in Governance",
+      "description": "Examining ethical safeguards, pecuniary interest disclosures, and cooling-off periods for domain experts advising regulatory bodies on pharmaceuticals, environment, and finance.",
+      "url": "https://upscbrief.internal/day21/post5",
+      "source": "Law Commission / DoPT / GS4",
+      "published_at": "2026-10-26T20:00:00+05:30",
+      "category": "Regulatory Panel Ethics"
+    },
+    {
+      "id": "day22-post1-sundarbans-delta-mangrove-dieback-salinity",
+      "title": "Sundarbans Delta Mangrove Dieback: Salinity Ingress, Sea Level Rise, and Tiger Habitats",
+      "description": "Reduced upstream freshwater flows and frequent cyclonic storm surges accelerate top-dying disease in Heritiera fomes (Sundari trees), intensifying human-tiger interactions in the delta.",
+      "url": "https://upscbrief.internal/day22/post1",
+      "source": "Forest Department West Bengal / Wildlife Institute of India / GS1",
+      "published_at": "2026-10-27T08:00:00+05:30",
+      "category": "Coastal Delta Ecology"
+    },
+    {
+      "id": "day22-post2-apaar-automated-permanent-academic-account",
+      "title": "APAAR Automated Permanent Academic Account Registry: National 'One Nation, One Student ID'",
+      "description": "Under the National Education Policy 2020, APAAR creates a lifelong 12-digit digital academic identifier linked to DigiLocker and Academic Bank of Credits for seamless student mobility.",
+      "url": "https://upscbrief.internal/day22/post2",
+      "source": "Ministry of Education / AICTE / GS2",
+      "published_at": "2026-10-27T11:00:00+05:30",
+      "category": "Education Identity System"
+    },
+    {
+      "id": "day22-post3-unified-logistics-interface-platform-ulip",
+      "title": "Unified Logistics Interface Platform (ULIP): Digital Tracking Slashing India's Logistics Costs",
+      "description": "Integrating 34 digital systems across 8 ministries, ULIP enables real-time container tracking across rail, coastal shipping, and highways, reducing transaction friction.",
+      "url": "https://upscbrief.internal/day22/post3",
+      "source": "NITI Aayog / DPIIT / GS3",
+      "published_at": "2026-10-27T14:00:00+05:30",
+      "category": "Multimodal Logistics Tech"
+    },
+    {
+      "id": "day22-post4-kavach-automatic-train-protection-atp",
+      "title": "Kavach Automatic Train Protection (ATP) 4.0: Rapid Installation Across High-Density Rail Routes",
+      "description": "Cabinet accelerated Kavach 4.0 rollout covering 10,000 locomotives and 44,000 route-km, preventing Signals Passed at Danger (SPAD) and rear-end collisions via UHF radio beacons.",
+      "url": "https://upscbrief.internal/day22/post4",
+      "source": "Ministry of Railways / RDSO / GS3",
+      "published_at": "2026-10-27T17:00:00+05:30",
+      "category": "Railway Safety Automation"
+    },
+    {
+      "id": "day22-post5-forum-for-indiapacific-islands-cooperation",
+      "title": "Forum for India-Pacific Islands Cooperation (FIPIC): Sustainable Ocean Development and Disaster Aid",
+      "description": "Deepening partnerships with 14 Pacific island nations through solar electrification, climate-resilient desalination plants, and joint humanitarian assistance in the South Pacific.",
+      "url": "https://upscbrief.internal/day22/post5",
+      "source": "Ministry of External Affairs / GS2",
+      "published_at": "2026-10-27T20:00:00+05:30",
+      "category": "Pacific Maritime Diplomacy"
+    },
+    {
+      "id": "day23-post1-global-plastics-treaty-negotiations-inc",
+      "title": "Global Plastics Treaty Negotiations (INC): Extended Producer Responsibility (EPR) Compliance in India",
+      "description": "Intergovernmental Negotiating Committee treaty talks highlight India's mandatory EPR certificates on plastic packaging, recycling targets, and bans on single-use virgin polymers.",
+      "url": "https://upscbrief.internal/day23/post1",
+      "source": "CPCB / MoEFCC / UNEP / GS1",
+      "published_at": "2026-10-28T08:00:00+05:30",
+      "category": "Waste Governance & Environment"
+    },
+    {
+      "id": "day23-post2-national-human-rights-commission-nhrc",
+      "title": "National Human Rights Commission (NHRC) at 30 Years: Advisory Scope vs Enforcement Powers",
+      "description": "Assessing statutory powers under the Protection of Human Rights Act 1993, compliance rates with compensation recommendations, and structural reforms to strengthen state human rights commissions.",
+      "url": "https://upscbrief.internal/day23/post2",
+      "source": "National Human Rights Commission / GS2",
+      "published_at": "2026-10-28T11:00:00+05:30",
+      "category": "Human Rights Enforcement"
+    },
+    {
+      "id": "day23-post3-insolvency-and-bankruptcy-code-ibc",
+      "title": "Insolvency and Bankruptcy Code (IBC) Amendments 2024: Project-Wise Real Estate Resolutions",
+      "description": "IBBI introduced ring-fenced resolution for individual stalled real estate projects, protecting allottees from whole-company liquidations and boosting homebuyer possession timelines.",
+      "url": "https://upscbrief.internal/day23/post3",
+      "source": "Insolvency and Bankruptcy Board of India / MCA / GS3",
+      "published_at": "2026-10-28T14:00:00+05:30",
+      "category": "Insolvency Code Reforms"
+    },
+    {
+      "id": "day23-post4-drdo-longrange-glide-bomb-gaurav",
+      "title": "DRDO Long-Range Glide Bomb (Gaurav): Indigenous Precision Stand-off Munition Trials",
+      "description": "Successfully test-dropped from Su-30MKI fighters, the 1,000-kg class winged glide bomb uses hybrid inertial-GPS navigation to destroy hardened enemy shelters with pinpoint accuracy.",
+      "url": "https://upscbrief.internal/day23/post4",
+      "source": "DRDO / Indian Air Force / GS3",
+      "published_at": "2026-10-28T17:00:00+05:30",
+      "category": "Precision Munitions & Defense"
+    },
+    {
+      "id": "day23-post5-clinical-trial-ethics-and-human",
+      "title": "Clinical Trial Ethics and Human Subject Protections: CDSCO Bioethics Regulatory Guidelines",
+      "description": "Analyzing audio-video informed consent norms, compensation for trial-related injuries, and ethical guidelines guarding vulnerable rural trial participants against unethical pharmaceutical trials.",
+      "url": "https://upscbrief.internal/day23/post5",
+      "source": "CDSCO / ICMR / GS4",
+      "published_at": "2026-10-28T20:00:00+05:30",
+      "category": "Bioethics & Clinical Trials"
+    },
+    {
+      "id": "day24-post1-geothermal-energy-potential-in-puga",
+      "title": "Geothermal Energy Potential in Puga Valley (Ladakh): Tapping Clean Subsurface Baseload Power",
+      "description": "ONGC Energy Centre drilled deep exploration wells in Ladakh's Puga geothermal field, piloting India's first 1-MW geothermal power plant tapping high-pressure subterranean steam.",
+      "url": "https://upscbrief.internal/day24/post1",
+      "source": "MNRE / Geological Survey of India / GS1",
+      "published_at": "2026-10-29T08:00:00+05:30",
+      "category": "Geothermal Energy & Geology"
+    },
+    {
+      "id": "day24-post2-waqf-amendment-bill-2024-survey",
+      "title": "Waqf (Amendment) Bill 2024: Survey Mandates, Non-Muslim Representation, and Judicial Scrutiny",
+      "description": "Joint Parliamentary Committee examination of proposed amendments to the 1995 Waqf Act: mandatory land digitization, district collector survey oversight, and inclusion of women trustees.",
+      "url": "https://upscbrief.internal/day24/post2",
+      "source": "Parliament of India / Ministry of Minority Affairs / GS2",
+      "published_at": "2026-10-29T11:00:00+05:30",
+      "category": "Statutory Law & Endowment"
+    },
+    {
+      "id": "day24-post3-national-electric-vehicle-battery-swapping",
+      "title": "National Electric Vehicle Battery Swapping Policy: Interoperability Standards for Light EVs",
+      "description": "NITI Aayog draft framework mandates standardized battery dimensions, thermal management protocols, and interoperable charging plugs to de-link upfront battery costs for delivery fleets.",
+      "url": "https://upscbrief.internal/day24/post3",
+      "source": "NITI Aayog / Bureau of Indian Standards / GS3",
+      "published_at": "2026-10-29T14:00:00+05:30",
+      "category": "Clean Mobility Standards"
+    },
+    {
+      "id": "day24-post4-zerobudget-natural-farming-zbnf-and",
+      "title": "Zero-Budget Natural Farming (ZBNF) and Bhartiya Prakritik Krishi Paddhati: Soil Health Restoration",
+      "description": "Promoting indigenous microbial inoculants (Jeevamrutha and Beejamrutha) to revive soil organic carbon, eliminate input debt for dryland farmers, and enhance drought resilience.",
+      "url": "https://upscbrief.internal/day24/post4",
+      "source": "Ministry of Agriculture / NITI Aayog / GS3",
+      "published_at": "2026-10-29T17:00:00+05:30",
+      "category": "Natural Farming & Soils"
+    },
+    {
+      "id": "day24-post5-indias-arctic-policy-research-in",
+      "title": "India's Arctic Policy: Research in Ny-Ålesund, Northern Sea Route, and Global Climate Ties",
+      "description": "Under the multi-sectoral Arctic Policy, Himadri station tracks polar warming teleconnections to the Indian summer monsoon and studies economic navigation along the Northern Sea Route.",
+      "url": "https://upscbrief.internal/day24/post5",
+      "source": "NCPOR / Ministry of Earth Sciences / GS2",
+      "published_at": "2026-10-29T20:00:00+05:30",
+      "category": "Polar Geopolitics & Science"
+    },
+    {
+      "id": "day25-post1-ground-water-recharge-dynamics-cgwb",
+      "title": "Ground Water Recharge Dynamics: CGWB National Aquifer Mapping and Atal Bhujal Yojana",
+      "description": "Covering 8,200 water-stressed Gram Panchayats, community-led water security plans and heliborne geophysical surveys mapped deep palaeochannels and sustainable extraction thresholds.",
+      "url": "https://upscbrief.internal/day25/post1",
+      "source": "Central Ground Water Board / Ministry of Jal Shakti / GS1",
+      "published_at": "2026-10-30T08:00:00+05:30",
+      "category": "Groundwater Hydrology"
+    },
+    {
+      "id": "day25-post2-lokpal-of-india-digitization-of",
+      "title": "Lokpal of India: Digitization of Public Servant Asset Declarations and Time-Bound Probes",
+      "description": "Operationalizing online complaint filing and mandatory annual property return disclosure portals for civil servants, balancing anti-corruption vigilance against administrative harassment.",
+      "url": "https://upscbrief.internal/day25/post2",
+      "source": "Lokpal of India / DoPT / GS2",
+      "published_at": "2026-10-30T11:00:00+05:30",
+      "category": "Anti-Corruption Institutions"
+    },
+    {
+      "id": "day25-post3-open-network-for-digital-commerce",
+      "title": "Open Network for Digital Commerce (ONDC): Democratizing Retail E-Commerce for Small Artisans",
+      "description": "An unbundled open protocol disaggregating seller on-boarding, buyer discovery, and logistics fulfillment, checking dominant marketplace monopolies and connecting rural SHGs to national markets.",
+      "url": "https://upscbrief.internal/day25/post3",
+      "source": "DPIIT / Ministry of Commerce / GS3",
+      "published_at": "2026-10-30T14:00:00+05:30",
+      "category": "Open Digital Commerce"
+    },
+    {
+      "id": "day25-post4-project-vani-iisc-and-ai",
+      "title": "Project Vani: IISc and AI Consortium Building Indic Speech Datasets Across 80 Districts",
+      "description": "Collecting open-source conversational audio samples across 150+ regional dialects to build inclusive AI voice models for agrarian advisory and rural financial inclusion.",
+      "url": "https://upscbrief.internal/day25/post4",
+      "source": "IISc Bangalore / MeitY / GS3",
+      "published_at": "2026-10-30T17:00:00+05:30",
+      "category": "Linguistic AI Datasets"
+    },
+    {
+      "id": "day25-post5-whistleblowing-in-public-procurement-moral",
+      "title": "Whistleblowing in Public Procurement: Moral Responsibility vs Official Secrets Act",
+      "description": "Ethical dilemmas faced by public officers when public financial irregularities conflict with statutory non-disclosure agreements, evaluating ethical whistleblowing jurisprudence.",
+      "url": "https://upscbrief.internal/day25/post5",
+      "source": "DoPT / Central Vigilance Commission / GS4",
+      "published_at": "2026-10-30T20:00:00+05:30",
+      "category": "Administrative Secrecy Ethics"
+    },
+    {
+      "id": "day26-post1-miyawaki-urban-forests-combating-urban",
+      "title": "Miyawaki Urban Forests: Combating Urban Heat Island Effect in Indian Metros",
+      "description": "Planting dense, multi-layered native saplings in compact urban pockets across Mumbai, Bengaluru, and Chennai, creating biodiverse carbon sinks that lower local ambient heat by 2-3°C.",
+      "url": "https://upscbrief.internal/day26/post1",
+      "source": "MoEFCC / Urban Local Bodies / GS1",
+      "published_at": "2026-10-31T08:00:00+05:30",
+      "category": "Urban Forestry & Microclimates"
+    },
+    {
+      "id": "day26-post2-gram-nyayalayas-act-decentralized-village",
+      "title": "Gram Nyayalayas Act: Decentralized Village Dispute Resolution and Affordable Justice",
+      "description": "Examining operational challenges of mobile grassroots courts presided over by Nyayadhikaris, evaluating state government funding bottlenecks and legal aid integration under NALSA.",
+      "url": "https://upscbrief.internal/day26/post2",
+      "source": "Department of Justice / Law Commission / GS2",
+      "published_at": "2026-10-31T11:00:00+05:30",
+      "category": "Decentralized Village Justice"
+    },
+    {
+      "id": "day26-post3-pm-gati-shakti-national-master",
+      "title": "PM Gati Shakti National Master Plan: 1,600+ Spatial Layers Synchronizing Infrastructure Outlays",
+      "description": "A GIS digital backbone eliminating inter-ministerial delays for highway alignment, forest clearances, and optical fiber laying, reducing project cost overruns significantly.",
+      "url": "https://upscbrief.internal/day26/post3",
+      "source": "DPIIT / Ministry of Commerce / GS3",
+      "published_at": "2026-10-31T14:00:00+05:30",
+      "category": "Geospatial Infrastructure Planning"
+    },
+    {
+      "id": "day26-post4-nexcar19-indigenous-cart-cell-gene",
+      "title": "NexCAR19: Indigenous CAR-T Cell Gene Therapy Approved, Slashing Cancer Costs by 90%",
+      "description": "Developed by IIT Bombay and Tata Memorial Centre, India's first commercially approved CAR-T therapy reprograms patient T-cells to combat B-cell lymphomas at a fraction of global prices.",
+      "url": "https://upscbrief.internal/day26/post4",
+      "source": "CDSCO / Department of Biotechnology / GS3",
+      "published_at": "2026-10-31T17:00:00+05:30",
+      "category": "Indigenous Gene Therapies"
+    },
+    {
+      "id": "day26-post5-bimstec-charter-entry-into-force",
+      "title": "BIMSTEC Charter Entry into Force: Rejuvenating Bay of Bengal Free Trade and Security",
+      "description": "With the formal enactment of the BIMSTEC Charter, the 7-nation regional grouping acquired international legal personality, fast-tracking maritime transport and counter-terrorism agreements.",
+      "url": "https://upscbrief.internal/day26/post5",
+      "source": "Ministry of External Affairs / BIMSTEC Secretariat / GS2",
+      "published_at": "2026-10-31T20:00:00+05:30",
+      "category": "Bay of Bengal Regionalism"
+    },
+    {
+      "id": "day27-post1-himalayan-glacial-retreat-black-carbon",
+      "title": "Himalayan Glacial Retreat: Black Carbon Deposition on Gangotri and Chhota Shigri Glaciers",
+      "description": "Satellite and in-situ glaciological studies reveal that aerosol black carbon from regional biomass burning lowers glacial albedo, accelerating snowmelt and destabilizing perennial river regimes.",
+      "url": "https://upscbrief.internal/day27/post1",
+      "source": "Wadia Institute of Himalayan Geology / MoES / GS1",
+      "published_at": "2026-11-01T08:00:00+05:30",
+      "category": "Cryosphere & Glaciology"
+    },
+    {
+      "id": "day27-post2-disaster-management-amendment-bill-2024",
+      "title": "Disaster Management (Amendment) Bill 2024: Urban Disaster Management Authorities and Databases",
+      "description": "Amending the 2005 Act to create dedicated Urban Disaster Management Authorities in metropolitan cities and establishing a national disaster database for precise disaster risk financing.",
+      "url": "https://upscbrief.internal/day27/post2",
+      "source": "Ministry of Home Affairs / NDMA / GS2",
+      "published_at": "2026-11-01T11:00:00+05:30",
+      "category": "Disaster Management Legal Update"
+    },
+    {
+      "id": "day27-post3-carbon-credit-trading-scheme-ccts",
+      "title": "Carbon Credit Trading Scheme (CCTS): Domestic Carbon Market Operationalized by BEE",
+      "description": "Bureau of Energy Efficiency designed the regulatory architecture for the Indian Carbon Market (ICM), establishing greenhouse gas emission intensity targets for obligated industrial sectors.",
+      "url": "https://upscbrief.internal/day27/post3",
+      "source": "Bureau of Energy Efficiency / Ministry of Power / GS3",
+      "published_at": "2026-11-01T14:00:00+05:30",
+      "category": "Carbon Markets & Trading"
+    },
+    {
+      "id": "day27-post4-akash1s-and-samar-air-defense",
+      "title": "Akash-1S and Samar Air Defense Systems: Indigenous Missile Shields Guarding Indian Airspace",
+      "description": "Induction of Akash-1S with indigenous RF seekers and SAMAR quick-reaction missile batteries repurposed from refurbished R-73E air-to-air missiles bolster forward combat airbases.",
+      "url": "https://upscbrief.internal/day27/post4",
+      "source": "DRDO / Indian Air Force / GS3",
+      "published_at": "2026-11-01T17:00:00+05:30",
+      "category": "Air Defense Missiles"
+    },
+    {
+      "id": "day27-post5-probity-in-public-life-civil",
+      "title": "Probity in Public Life: Civil Servants' Social Media Code of Conduct and Political Neutrality",
+      "description": "Analyzing DoPT guidelines regulating bureaucrats on social media platforms, examining the ethical boundary between public accountability, personal expression, and civil service neutrality.",
+      "url": "https://upscbrief.internal/day27/post5",
+      "source": "DoPT / Administrative Reforms Commission / GS4",
+      "published_at": "2026-11-01T20:00:00+05:30",
+      "category": "Civil Service Probity"
+    },
+    {
+      "id": "day28-post1-loss-and-damage-fund-operationalization",
+      "title": "Loss and Damage Fund Operationalization at COP28/COP29: Climate Equity and Developing Nations",
+      "description": "Operationalization of the Loss and Damage Fund at UNFCCC conferences secures financial compensation for climate-vulnerable nations, reflecting common but differentiated responsibilities (CBDR-RC).",
+      "url": "https://upscbrief.internal/day28/post1",
+      "source": "MoEFCC / UNFCCC / GS1",
+      "published_at": "2026-11-02T08:00:00+05:30",
+      "category": "Global Climate Equity"
+    },
+    {
+      "id": "day28-post2-uttarakhand-uniform-civil-code-ucc",
+      "title": "Uttarakhand Uniform Civil Code (UCC) Enacted: Registration of Live-in Ties and Equal Inheritance",
+      "description": "Uttarakhand became the first state in independent India to pass a Uniform Civil Code under Article 44, standardizing marriage, divorce, and inheritance while mandating registration for live-in partnerships.",
+      "url": "https://upscbrief.internal/day28/post2",
+      "source": "Government of Uttarakhand / Law Commission / GS2",
+      "published_at": "2026-11-02T11:00:00+05:30",
+      "category": "Uniform Civil Code"
+    },
+    {
+      "id": "day28-post3-national-quantum-mission-developing-501000",
+      "title": "National Quantum Mission: Developing 50-1000 Qubit Quantum Computers and Secure QKD Links",
+      "description": "With ₹6,003 crore funding, four thematic quantum hubs advance quantum computing, quantum key distribution (QKD) over satellite links, and ultra-sensitive atomic clocks.",
+      "url": "https://upscbrief.internal/day28/post3",
+      "source": "Department of Science and Technology / PIB / GS3",
+      "published_at": "2026-11-02T14:00:00+05:30",
+      "category": "Quantum Technologies"
+    },
+    {
+      "id": "day28-post4-nanoliquid-urea-and-nanodap-precision",
+      "title": "Nano-Liquid Urea and Nano-DAP: Precision Nutrient Application and Soil Acidity Reduction",
+      "description": "IFFCO's commercial scaling of foliar-applied nano-fertilizers improves nitrogen-use efficiency to 80% (compared to 30% for granular urea), curbing soil nitrate leaching and groundwater toxicity.",
+      "url": "https://upscbrief.internal/day28/post4",
+      "source": "Ministry of Chemicals and Fertilizers / ICAR / GS3",
+      "published_at": "2026-11-02T17:00:00+05:30",
+      "category": "Precision Agronomy & Nano Tech"
+    },
+    {
+      "id": "day28-post5-maritime-security-in-gulf-of",
+      "title": "Maritime Security in Gulf of Aden: Indian Navy Escorting Merchant Vessels Against Drone Threats",
+      "description": "Continuous deployment of over 10 frontline Indian warships in the Arabian Sea and Gulf of Aden protects global shipping lanes against anti-ship ballistic missiles and sea-drone ambushes.",
+      "url": "https://upscbrief.internal/day28/post5",
+      "source": "Indian Navy / Ministry of External Affairs / GS2",
+      "published_at": "2026-11-02T20:00:00+05:30",
+      "category": "West Asian Maritime Security"
+    },
+    {
+      "id": "day29-post1-sacred-groves-devrai-oran-kavu",
+      "title": "Sacred Groves (Devrai / Oran / Kavu): Traditional Community Biodiversity Sanctuaries Under Pressure",
+      "description": "Centuries-old community-conserved sacred forest patches across Rajasthan, Maharashtra, and Kerala shelter endangered endemic flora, facing encroachment amidst infrastructure development.",
+      "url": "https://upscbrief.internal/day29/post1",
+      "source": "Ministry of Environment / Botanical Survey of India / GS1",
+      "published_at": "2026-11-03T08:00:00+05:30",
+      "category": "Community Forest Sanctuaries"
+    },
+    {
+      "id": "day29-post2-supreme-court-on-ed-powers",
+      "title": "Supreme Court on ED Powers and Section 19 PMLA: Grounds of Arrest Must Be Furnished in Writing",
+      "description": "In Pankaj Bansal and Prabir Purkayastha rulings, the Supreme Court mandated that investigating agencies must provide grounds of arrest in written form to the accused to fulfill Article 22(1) guarantees.",
+      "url": "https://upscbrief.internal/day29/post2",
+      "source": "Supreme Court of India / GS2",
+      "published_at": "2026-11-03T11:00:00+05:30",
+      "category": "Due Process & Arrest Rules"
+    },
+    {
+      "id": "day29-post3-national-mission-on-edible-oils",
+      "title": "National Mission on Edible Oils - Oil Palm (NMEO-OP): North-East Cultivation and Forest Balance",
+      "description": "Expanding oil palm cultivation across 6.5 lakh hectares in the Northeast and Andaman islands to slash $14 billion palm oil import dependencies, scrutinized for monoculture deforestation risks.",
+      "url": "https://upscbrief.internal/day29/post3",
+      "source": "Ministry of Agriculture / ICAR-IIOPR / GS3",
+      "published_at": "2026-11-03T14:00:00+05:30",
+      "category": "Edible Oil Mission & Ecology"
+    },
+    {
+      "id": "day29-post4-semicryogenic-engine-se2000-testing-upgrading",
+      "title": "Semi-Cryogenic Engine (SE-2000) Testing: Upgrading ISRO LVM3 Payload Capacity to 6 Tonnes in GTO",
+      "description": "Successful hot-fire tests of the 2,000 kN thrust kerosene-liquid oxygen semi-cryogenic stage at Mahendragiri replace the L110 core, boosting payload capability for heavy commercial satellites.",
+      "url": "https://upscbrief.internal/day29/post4",
+      "source": "ISRO / Liquid Propulsion Systems Centre / GS3",
+      "published_at": "2026-11-03T17:00:00+05:30",
+      "category": "Heavy Rocket Propulsion"
+    },
+    {
+      "id": "day29-post5-integrity-in-public-sector-procurement",
+      "title": "Integrity in Public Sector Procurement: GeM Portal and AI Anomaly Detection in Tenders",
+      "description": "Government e-Marketplace deployed machine-learning anomaly detection algorithms to flag bid-rigging and cartelization, ensuring transparency and equal opportunity in public procurements.",
+      "url": "https://upscbrief.internal/day29/post5",
+      "source": "GeM / Ministry of Commerce / CVC / GS4",
+      "published_at": "2026-11-03T20:00:00+05:30",
+      "category": "Public Procurement Integrity"
+    },
+    {
+      "id": "day30-post1-longitudinal-ageing-study-in-india",
+      "title": "Longitudinal Ageing Study in India (LASI): Public Health Preparedness for Geriatric Care",
+      "description": "With India's elderly population projected to reach 347 million by 2050, LASI findings guide national policies for geriatric healthcare facilities, dementia care, and community elder day-care hubs.",
+      "url": "https://upscbrief.internal/day30/post1",
+      "source": "Ministry of Health and Family Welfare / IIPS / GS1",
+      "published_at": "2026-11-04T08:00:00+05:30",
+      "category": "Geriatric Care & Society"
+    },
+    {
+      "id": "day30-post2-supreme-court-on-inordinate-delay",
+      "title": "Supreme Court on Inordinate Delay in Clemency: Article 72/161 and Death Sentence Commutations",
+      "description": "Apex court reiterated that unexplained, inordinate executive delay in disposing of mercy petitions constitutes solitary mental agony, entitling condemned prisoners to commutation under Article 21.",
+      "url": "https://upscbrief.internal/day30/post2",
+      "source": "Supreme Court of India / Law Commission / GS2",
       "published_at": "2026-11-04T11:00:00+05:30",
-      "category": "Governance Metrics"
+      "category": "Pardoning Power & Article 21"
     },
     {
-      "id": "day30-post3-harnessing-indias-demographic-dividend-skill",
-      "title": "Harnessing India's Demographic Dividend: Skill India and Future of Work",
-      "description": "With a median age of 28, India coordinates the National Skill Development Corporation (NSDC) and PMKVY 4.0 to upskill youth in Industry 4.0, green tech, and healthcare.",
+      "id": "day30-post3-global-capability-centres-gcc-boom",
+      "title": "Global Capability Centres (GCC) Boom in India: Transition from Cost Arbitrage to Deep-Tech Hubs",
+      "description": "India hosts over 1,600 GCCs generating $64 billion in revenue, pivoting from back-office support to high-value AI research, semiconductor chip architecture, and global product engineering.",
       "url": "https://upscbrief.internal/day30/post3",
-      "source": "Ministry of Skill Development / NITI Aayog / GS3",
+      "source": "NASSCOM / Ministry of Commerce / GS3",
       "published_at": "2026-11-04T14:00:00+05:30",
-      "category": "Demography & Skill Development"
+      "category": "High-Tech Knowledge Economy"
     },
     {
-      "id": "day30-post4-indias-longterm-lowemission-strategy-net",
-      "title": "India's Long-Term Low-Emission Strategy: Net Zero Target by 2070",
-      "description": "Submitted to UNFCCC, India's LT-LEDS outlines strategic pathways for deep electrification, industrial hydrogen adoption, carbon capture, and forest carbon sink expansion.",
+      "id": "day30-post4-gaganyaan-vyommitra-humanoid-robot-precurser",
+      "title": "Gaganyaan Vyommitra Humanoid Robot: Pre-Curser Orbital Flight for Microgravity Bio-Monitoring",
+      "description": "Equipped with life-support parameter monitoring and switch-panel operating actuators, the indigenous half-humanoid robot Vyommitra flies on uncrewed test missions prior to astronaut launch.",
       "url": "https://upscbrief.internal/day30/post4",
-      "source": "MoEFCC / UNFCCC / GS3",
+      "source": "ISRO / IISc / Department of Space / GS3",
       "published_at": "2026-11-04T17:00:00+05:30",
-      "category": "Climate Commitments"
+      "category": "Humanoid Robotics & Space"
     },
     {
-      "id": "day30-post5-ethical-leadership-in-disaster-management",
-      "title": "Ethical Leadership in Disaster Management: 2004 Tsunami to Modern Preparedness",
-      "description": "Case study analyzing how ethical accountability and community mobilization led to the Disaster Management Act 2005, NDMA creation, and zero-casualty cyclone evacuations.",
+      "id": "day30-post5-constitutional-morality-in-governance-br",
+      "title": "Constitutional Morality in Governance: BR Ambedkar's Vision for Institutional Probity",
+      "description": "Case study analyzing how civil servants uphold constitutional morality—subordinating majoritarian impulse or partisan political pressure to constitutional ideals of justice, liberty, and fraternity.",
       "url": "https://upscbrief.internal/day30/post5",
-      "source": "National Disaster Management Authority / GS4",
+      "source": "Constitution of India / DoPT / GS4",
       "published_at": "2026-11-04T20:00:00+05:30",
-      "category": "Crisis Leadership Ethics"
+      "category": "Constitutional Ethics in Governance"
     }
   ]
 }

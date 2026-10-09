@@ -10,6 +10,15 @@ export function decodeEntities(value = "") {
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, '"')
     .replace(/&#39;|&apos;/g, "'")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&ndash;/gi, "–")
+    .replace(/&mdash;/gi, "—")
+    .replace(/&lsquo;/gi, "‘")
+    .replace(/&rsquo;/gi, "’")
+    .replace(/&ldquo;/gi, "“")
+    .replace(/&rdquo;/gi, "”")
+    .replace(/&hellip;/gi, "…")
+    .replace(/&bull;/gi, "•")
     .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
     .trim();
 }

@@ -22,7 +22,41 @@ function clampText(text, max = 82) {
   return `${clipped}…`;
 }
 
+function verifiedEnrichment(article) {
+  const raw = article.raw || {};
+  if (!raw.verified || !Array.isArray(raw.summary_points) || raw.summary_points.length < 2) return null;
+  const papers = Array.isArray(raw.upsc_papers) && raw.upsc_papers.length
+    ? raw.upsc_papers.map(String)
+    : ["Prelims"];
+  let topic = article.title
+    .replace(/^(?:national conclave on|cabinet approves?|government (?:of india )?|union (?:minister|government)|ministry of [^:]+)\s+/i, "")
+    .replace(/:\s*(?:dr\.|shri|smt\.).*$/i, "")
+    .replace(/\bto give fresh impetus to\b/i, "—");
+  const firstClause = topic.split(/\s*;\s*/)[0];
+  if (firstClause.length >= 28 && firstClause.length <= 76) topic = firstClause;
+  return {
+    headline: clampText(topic.toUpperCase(), 76),
+    summaryPoints: raw.summary_points.slice(0, 3).map((item) => clampText(String(item), 140)),
+    category: article.category || "Current Affairs",
+    upscPapers: papers,
+    relevanceScore: Math.min(100, Math.max(0, Number(raw.relevance_score) || 85)),
+    visualPrompt: [
+      "Create a text-free premium Indian current-affairs editorial illustration.",
+      `Verified topic: ${article.title}.`,
+      `UPSC theme: ${article.category}; syllabus: ${papers.join(", ")}.`,
+      "Use a distinctive topic-specific subject, institution, landscape, technology, or infrastructure—not generic politicians.",
+      "Contemporary documentary realism, sophisticated Indian editorial color palette, natural light, and strong depth.",
+      "Keep the upper-left and central-left areas calm enough for readable editorial copy; concentrate detail on the right and lower third.",
+      "No text, letters, numbers, captions, logos, watermarks, borders, flags as decoration, or fake interface elements.",
+    ].join(" "),
+    method: "verified-extractive",
+    verified: true,
+  };
+}
+
 export function heuristicEnrichment(article) {
+  const verified = verifiedEnrichment(article);
+  if (verified) return verified;
   const haystack = `${article.title} ${article.description}`.toLowerCase();
   const matches = TOPICS.map((topic) => ({
     ...topic,

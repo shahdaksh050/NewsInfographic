@@ -7,6 +7,8 @@ function parseArgs(argv) {
   for (let index = 0; index < argv.length; index += 1) {
     const arg = argv[index];
     if (arg === "--no-ai") result.useAi = false;
+    else if (arg === "--allow-fallback-art") result.allowFallbackArt = true;
+    else if (arg === "--summary-only") result.summaryOnly = true;
     else if (arg === "--include-low-relevance") result.includeLowRelevance = true;
     else if (arg.startsWith("--")) {
       const [rawKey, inline] = arg.slice(2).split("=", 2);
@@ -26,7 +28,12 @@ const config = getConfig({
 
 try {
   const manifest = await runPipeline(config, args);
-  console.log(JSON.stringify(manifest, null, 2));
+  console.log(JSON.stringify(args.summaryOnly ? {
+    runId: manifest.runId,
+    status: manifest.status,
+    output: path.join(config.outputDir, manifest.runId),
+    summary: manifest.summary,
+  } : manifest, null, 2));
   if (manifest.summary.failed) process.exitCode = 1;
 } catch (error) {
   console.error(error.stack || error.message);

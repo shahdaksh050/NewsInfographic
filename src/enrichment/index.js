@@ -3,6 +3,7 @@ import { heuristicEnrichment } from "./heuristic.js";
 
 export async function enrichArticle(article, config, { useAi = true } = {}) {
   const fallback = heuristicEnrichment(article);
+  if (fallback.verified) return fallback;
   if (!useAi || !config.geminiApiKey) return fallback;
   try {
     const result = await enrichWithGemini(article, config);

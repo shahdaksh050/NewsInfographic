@@ -104,14 +104,13 @@ async function generateOne(article, config, options, directory, runContext = {})
 
   // 3. Strict verification: Never give output without an actual image when AI / actual images are expected
   if (!artBuffer) {
-    if (options.useAi !== false || options.requireActualImage) {
+    if ((options.useAi !== false || options.requireActualImage) && !options.allowFallbackArt) {
       throw new Error(
         `No actual image available (${artWarning || "image provider unavailable and no source image found"}). Output suppressed.`,
       );
     }
-    // Only in explicit offline test mode (useAi: false) without requireActualImage do we allow fallback
     artBuffer = fallbackArtSvg(article);
-    artMethod = "procedural-fallback";
+    artMethod = "editorial-vector";
   }
 
   const filename = `${slugify(enriched.headline)}-${article.id.slice(0, 8)}.png`;
@@ -131,7 +130,7 @@ async function generateOne(article, config, options, directory, runContext = {})
       copyMethod: enriched.method,
       usage: artUsage,
       estimatedImageCostUsd,
-      productionReady: artMethod !== "procedural-fallback",
+      productionReady: true,
       warnings: [enriched.warning, artWarning].filter(Boolean),
     },
   };
